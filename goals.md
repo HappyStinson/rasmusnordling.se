@@ -94,25 +94,39 @@ I plan to visit at least a new country annually and to have completed my trip ar
 
 My overall goal is to earn 100 medals from different physical challenges. I'm currently at 24%. Below is the races I've done and would like to do. I'm in no way a Superman but with enough time and determination you'll be able to achieve unimaginable things. It all starts here. Today.
 
-- ~~Farsta Fun Run~~ 2016
-- ~~Night Trail Run~~ 2016
-- ~~Arena Run~~ Completed on February x 2017 and February x 2018
-- ~~ASICS Premiärmilen~~ 2017 2018
-- ~~Winter Run~~ Completed on Januart x 2018
-- ~~Vasaloppet Öppet Spår 90 km~~ 2018
-- ~~Lidingöloppet 15K~~ 2016
-- ~~Lattelecom Riga half-marathon~~ Completed on May x 2018 (x:x)
-- ~~ASICS Stockholm Marathon~~ Completed on June 2nd 2018 (5:50)
+- ~~Farsta Fun Run~~ Completed on 7 May 2016
+- ~~Finansloppet~~ Completed on 31 August 2016
+- ~~Bellmanstafetten~~ Completed on 19 August 2016
+- ~~Night Trail Run~~ Completed on 29 October 2016
+- ~~Arena Run~~ Completed on 18 February 2017 and 7 February 2018
+- ~~Stockholm Tunnel Run Citybanan~~ Completed on 26 March 2017
+- ~~ASICS Premiärmilen~~ Completed on 1 April 2017 and 24 March 2018 (49:02)
+- ~~STHLM Trail Run~~ Completed on 6 May 2017
+- ~~Milspåret~~ Completed on 18 May 2017
+- ~~STHLM 10~~ Completed on 15 June 2017
+- ~~Hässelbyloppet~~ Completed on 8 October 2017
+- ~~STHLM Above/Below~~ Completed on 21 October 2017
+- ~~Stockholm Santa Run~~ Completed on 10 December 2017
+- ~~Winter Run~~ Completed on 27 January 2018
+- ~~Varvetmilen Danderyd~~ Completed on 27 March 2018 (47:51)
+- ~~Roslagsvåren 135 km~~ Completed on 6 May 2018 (6:54:53)
+- ~~Lattelecom Riga half-marathon~~ Completed on 20 May 2018 (1:54:42)
+- ~~ASICS Stockholm Marathon~~ Completed on 2 June 2018 (5:50)
+- ~~STHLM Bike~~ Completed on 2 September 2018
+- ~~Gudö - Run of Hope~~ Completed on 8 September
+- ~~Ramboll Stockholm Halvmarathon~~ Completed on 15 September (1:48:06)
+- ~~STHLM Xploration Run~~ Completed on 20 October 2018
 
 - [A Swedish Classic](http://www.ensvenskklassiker.se/en)
+  - ~~Vätternrundan~~ Completed on 16 June 2018
+  - ~~Vansbro Öppen Älv~~ Completed on 7 July 2018
+  - ~~TCS Lidingöloppet 30~~ Completed on 23 September 2017 and 29 September 2018
   - Vasaloppet
-  - ~~Vätternrundan~~ Completed on June 16th 2018
-  - ~~Vansbro Öppen Älv~~ Completed on July 7th 2018
-  - ~~TCS Lidingöloppet 30~~ Completed on September x 2017 and September x 2018
-  - [The Swedish Half Classic](https://ensvenskklassiker.se/en/our-classics/the-half-classic/)
-  - Swim 7 Vansbrosim and be awarded with the medal of ”Älvarnas Blå Band” (The River’s Blue Band Medal)
-  - Super Swedish Circuit, combined finish time for all four races under 18 hours
-  - Get a silver medal at TCS Lidingöloppet 30 (finish in 2:15)
+- [The Swedish Half Classic](https://ensvenskklassiker.se/en/our-classics/the-half-classic/)
+  - ~~Lidingöloppet 15K~~ Completed on 24 September 2016
+- Swim 7 Vansbrosim and be awarded with the medal of ”Älvarnas Blå Band” (The River’s Blue Band Medal)
+- Super Swedish Circuit, combined finish time for all four races under 18 hours
+- Get a silver medal at TCS Lidingöloppet 30 (finish in 2:15)
 - [Swedish Enduro Classics](http://en.svenskenduroklassiker.se/)
 - Win Dalarö Triathlon
 - Prove that I’m a [Tough Viking](http://toughviking.se/en/)!
