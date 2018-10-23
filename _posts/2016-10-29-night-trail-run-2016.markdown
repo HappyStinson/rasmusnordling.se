@@ -21,7 +21,9 @@ The trail was slippery and demanding. It was hard to get a grip and I was close 
 
 I managed to keep the tempo and pulse quite steady at 175-180 BPM and in some parts where the visibility was bad it got so fast I ended up outside the trail. This was my first time running in the dark with a headlamp and also this kind of trail run. A lot of roots to trip over, rocks to hurt your feet, hills to climb and fallen logs that you had to jump or walk over made it even harder. Luckily I'm not a pussy and got my sorry ass to the finish, even though my mind started to doubt halfway through. That should count for something.
 
-[![Night Trail Run 2016 trail](http://nighttrailrun.se/wp-content/uploads/2013/04/Bana_2017_mindre.jpg)](http://nighttrailrun.se/wp-content/uploads/2013/04/Bana_2017_mindre.jpg)
+[![Night Trail Run 2016 trail](http://nighttrailrun.se/wp-content/uploads/2013/04/Bana_2017_mindre.jpg)](/assets/Bana_2017_mindre.jpg)
+
+Image found on [nighttrailrun.se](http://nighttrailrun.se)
 
 Result
 
