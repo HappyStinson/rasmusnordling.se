@@ -1,14 +1,12 @@
 ---
-author: mo3m4d
+author: Rasmus Nordling
 comments: true
 date: 2017-05-18 23:18:48+00:00
 layout: post
 link: http://blog.rasmusnordling.se/review/weekly-news-20170519/
 slug: weekly-news-20170519
 title: Weekly News 2017-05-19
-wordpress_id: 232
-categories:
-- Review
+categories: review
 ---
 
 Hi,

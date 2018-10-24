@@ -1,14 +1,12 @@
 ---
-author: mo3m4d
+author: Rasmus Nordling
 comments: true
 date: 2017-01-01 22:31:10+00:00
 layout: post
 link: http://blog.rasmusnordling.se/review/2016/
 slug: '2016'
 title: 2016 Year Review
-wordpress_id: 51
-categories:
-- Review
+categories: review
 ---
 
 ### The year of _change_

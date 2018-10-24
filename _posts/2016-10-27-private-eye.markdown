@@ -1,14 +1,12 @@
 ---
-author: mo3m4d
+author: Rasmus Nordling
 comments: true
 date: 2016-10-27 18:30:50+00:00
 layout: post
 link: http://blog.rasmusnordling.se/physical-environment/private-eye/
 slug: private-eye
 title: Who Do I Think I Am?
-wordpress_id: 3
 categories:
-- Physical Environment
 ---
 
 Today I’m sharing an exercise from Barbara Sher’s book “[Wishcraft: How to Get What You Really Want](http://www.goodreads.com/book/show/498904.Wishcraft)“.
