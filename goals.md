@@ -53,6 +53,7 @@ I have decided to organize my goals into [nine life areas](http://travisrobertso
 - Camp with friends in [Kolarbyn](https://kolarbyn.se/en/)
 - Horseback Ride
 - Water Ski
+- [Tandem skydiving](https://en.wikipedia.org/wiki/Tandem_skydiving)
 
 # Travel
 
