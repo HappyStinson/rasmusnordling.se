@@ -15,7 +15,7 @@ Göra reklam för ett litet spel som jag hackade ihop tillsammans med Michael Ca
 
 Detta inlägget kom ganska spontant och blev kanske lite kort. Det gör ingenting för jag har mer att skriva så håll ut för mer ska det bli inom det närmsta. 🙂
 
-[![](http://4.bp.blogspot.com/-IjlHGJhtYRc/U8VV0h44AGI/AAAAAAAAAGI/gqfSMukGTZk/s1600/Mike_da_man_a_Happy_boi.jpg)](http://4.bp.blogspot.com/-IjlHGJhtYRc/U8VV0h44AGI/AAAAAAAAAGI/gqfSMukGTZk/s1600/Mike_da_man_a_Happy_boi.jpg)
+[![](/assets/images/me-and-mike.jpg)](/assets/images/me-and-mike.jpg)
 
 Söta spelutvecklare. Mike da man å Happy boi.
 

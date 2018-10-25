@@ -24,7 +24,7 @@ Tar man fram sin bräda och surfar in på [onegameamonth.com](http://onegameamon
 I och med att juli snart är slut så kommer spelet inte att bli särskilt stort. Jag har tänkt mig ett enkelt buttonmasher där det gäller att hissa så många flaggor som möjligt under en minut för att imponera på en tjej. Är du tillräckligt skillad blir hon förälskad och du kan känna dig nöjd. Annars blir hon sur och det är bye-bye.
 Ifall spelet handlar om mig eller är baserat på en verklig händelse låter jag vara osagt men  om intresset finns så kan ni läsa mer från min [arbetsmapp](https://drive.google.com/folderview?id=0B0YAOyHaBJz7V2dQTnB4bU1RYWc&amp;usp=sharing) som jag skapat just för detta projektet 🙂.
 
-[![](http://2.bp.blogspot.com/-tlv8C5RSX44/U8aY5oVZ0iI/AAAAAAAAAGY/fbAI3yMrVl4/s1600/IMG_20140715_141330%5B1%5D.jpg)](http://2.bp.blogspot.com/-tlv8C5RSX44/U8aY5oVZ0iI/AAAAAAAAAGY/fbAI3yMrVl4/s1600/IMG_20140715_141330%5B1%5D.jpg)
+[![](/assets/images/flag-frenzy-draft.jpg)](/assets/images/flag-frenzy-draft.jpg)
 
 Sött att hissa flaggor för kärleken.
 
