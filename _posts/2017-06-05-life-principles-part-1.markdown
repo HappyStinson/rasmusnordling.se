@@ -1,15 +1,12 @@
 ---
-author: mo3m4d
+author: Rasmus Nordling
 comments: true
 date: 2017-06-05 09:02:40+00:00
 layout: post
 link: http://blog.rasmusnordling.se/personal-growth/life-principles-part-1/
 slug: life-principles-part-1
 title: To live according to my life principles - part 1
-wordpress_id: 248
-categories:
-- Contribution
-- Personal Growth
+categories: [personal-development, spiritual]
 ---
 
 Hello again,
