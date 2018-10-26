@@ -55,11 +55,11 @@ I have decided to organize my goals into [nine life areas](http://travisrobertso
 - Water Ski
 - [Tandem skydiving](https://en.wikipedia.org/wiki/Tandem_skydiving)
 
-# Travel
+## Travel
 
 I plan to visit at least a new country annually and to have completed my trip around the world by December 31, 2027.
 
-# I will travel to the following places
+### I will travel to the following places
 
 - The Netherlands
 - Japan
