@@ -35,7 +35,7 @@ My current race calendar for 2017:
 
 I am just getting started on this journey and in 2018 I'll climb the ladder even [HIGHER](https://order.ensvenskklassiker.se/paket/paket_esk.php)! Why be stuck on the ground when you can fly in the sky?
 
-[![My new T-shirt](/assets/training-for-marathon.jpg)](/assets/training-for-marathon.jpg)
+[![My new T-shirt](/assets/images/training-for-marathon.jpg)](/assets/images/training-for-marathon.jpg)
 
 My new T-shirt
 
