@@ -1,12 +1,9 @@
 ---
 title: Who Do I Think I Am?
 ---
+Today I’m sharing an exercise from Barbara Sher’s book “[Wishcraft: How to Get What You Really Want](https://www.goodreads.com/book/show/498904.Wishcraft)“.
 
-Today I’m sharing an exercise from Barbara Sher’s book “[Wishcraft: How to Get What You Really Want](http://www.goodreads.com/book/show/498904.Wishcraft)“.
-
-**The Private-Eye Game**
-
-Here’s how it works: Snoop around your own house or room as if you were a private-eye trying to find out who lived here just from the style revealed in the house. Make an inventory of as many characteristics and interests you can find.<!--more-->
+The Private-Eye Game is all about snooping around your own house or room as if you were a private-eye trying to find out who lived here just from the style revealed in the house. Make an inventory of as many characteristics and interests you can find.<!--more-->
 
 I took some pictures, thought hard about it and then answered the questions below.
 

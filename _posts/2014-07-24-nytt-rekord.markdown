@@ -7,7 +7,7 @@ Nytt rekord! Coolt
 
 Hej igen.
 
-Inledningsvis så vill jag säga grymt jobbat till Dali som satte nytt rekord på mitt spel och tack för att du testar :). Kände att jag inte kan vara sämre och nu har jag lyckats få 31! Borde jag höja gränsen till 30? Det ska ju vara en utmaning. Så att man får sitta en dag eller två innan man klarar det :).
+Inledningsvis så vill jag säga grymt jobbat till Dali som satte nytt rekord på mitt spel och tack för att du testar 🙂. Kände att jag inte kan vara sämre och nu har jag lyckats få 31! Borde jag höja gränsen till 30? Det ska ju vara en utmaning. Så att man får sitta en dag eller två innan man klarar det 🙂.<!--more-->
 
 Okej då var inledningen avklarad. Dags för:
 

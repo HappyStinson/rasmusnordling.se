@@ -2,12 +2,11 @@
 title: Night Trail Run 2016
 category: health-fitness
 ---
-
 Hello again!
 
 I am back standing in front of my computer after a "long" 10K run in the dark woods.
 
-To sum up my feelings, I am mostly relieved that I fought through the whole trail and got my tired body (with no broken bones) over the finish line. <!-- more -->
+To sum up my feelings, I am mostly relieved that I fought through the whole trail and got my tired body (with no broken bones) over the finish line.<!--more-->
 
 The start was a bit delayed due to an accident at the E4 highway and I was really freezing since I'm stupid and don't know how to dress properly according to temperature. I realized that I most likely had the wrong shoes for the occasion as well.
 

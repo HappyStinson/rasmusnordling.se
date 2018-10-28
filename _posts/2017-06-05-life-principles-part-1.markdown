@@ -5,7 +5,7 @@ categories: [personal-development, spiritual]
 
 Hello again,
 
-In this series of posts I will share my current version of my life principles and how well I live by them. This will both help you to understand where I’m at the moment and also help me to identify in what areas I’m failing.<!-- more -->
+In this series of posts I will share my current version of my life principles and how well I live by them. This will both help you to understand where I’m at the moment and also help me to identify in what areas I’m failing.<!--more-->
 
 Yesterday I tried to do my weekly/monthly review but got frustrated with organising in Wunderlist and ended up reading on Lifehack instead.
 Anyone following the GTD-principles would agree that doing the weekly review is critical for staying on top of your life. So why do I struggle and procrastinate on this so much?

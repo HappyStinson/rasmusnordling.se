@@ -7,7 +7,7 @@ Här kommer ännu ett blygsamt hej för nu är jag igång igen.
 
 Först av allt vill jag bara säga att det är kul att skriva igen. Roligt att ni ger mig tummen upp också för den delen 🙂. Då får man ett endorfinrus och känslan av en klapp på axeln.
 Det får inte gå överstyr bara så att jag riskerar att bli någon manlig Kissie. Så har jag inte föreställt mig att framtiden och livet ska se ut.
-Däremot har jag lite planer på gång som jag tänkte avslöja nu!
+Däremot har jag lite planer på gång som jag tänkte avslöja nu!<!--more-->
 
 Hittade en väldigt intressant artikel för ett tag sen av en kille som gjort [tolv spel under ett års tid](http://gamedevelopment.tutsplus.com/articles/1gam-how-to-succeed-at-making-one-game-a-month--gamedev-3695).
 Kände att det gav mig mer inspiration och motivation. Eftersom jag inte kom in på spelutbildningen i Stockholm (Speldesign - Futuregames, du har just nu                      reservplats 21 i Urvalsgrupp #1) så får jag sitta hemma för mig själv och knacka istället. Lika bra det kanske.
