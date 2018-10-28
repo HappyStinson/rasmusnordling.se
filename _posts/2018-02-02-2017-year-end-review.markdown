@@ -1,27 +1,11 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2018-02-02 08:12:58+00:00
-layout: post
-link: http://blog.rasmusnordling.se/review/2017-year-end-review/
-slug: 2017-year-end-review
 title: 2017 Year End Review
-categories: review
 ---
+You can make a lot happen in 365 days but it can be hard to realize the magnitude and get appreciation when you’re busy advancing from one day to the next. So in this post I will reflect on the *stuff* that made my 2017. Things I accomplished, what I learned and how I have changed as a person in the last 12 months.
 
-You can make a lot happen in 365 days but it can be hard to realize the magnitude and get appreciation when you’re busy advancing from one day to the next. So in this post I will reflect on the _stuff_ that made my 2017. Things I accomplished, what I learned and how I have changed as a person in the last 12 months.
+This last year didn’t involve as much changes as 2016 did and I feel like these last two years have been very similar, only in 2017 it was **more** of everything. You can read my [*2016 Year End Review* here](/2017/01/2016.html).<!--more-->
 
-This last year didn’t involve as much changes as 2016 did and I feel like these last two years have been very similar, only in 2017 it was **more** of everything. You can _[read my 2016 Year End Review here](http://blog.rasmusnordling.se/review/2016/)_.
-
-<!-- more -->
-
-
-
-
-
-## What Went Well
-
-
+# What Went Well
 
 **New job:** During my unemployment period (September 2016 - April 2017) I applied and got in to Lexicon’s 16-week program in .NET development to improve my skills in full-stack Web Development. I met a lot of interesting people and among them my favourites Per and Atanas. During the studies I applied for different jobs and went on interviews with Handelsbanken, Metamatrix, tretton37, Cloud Nine, HiQ, Lexicon IT, Goodminton, Sigma Young Talent, Everdea, Lots Group, Decerno, Sogeti and the list goes on. A few companies wanted me to do coding assignments and have more interviews. In the end I decided to sign a job contract with tretton37 and have been working there as a .NET Ninja since the studies finished in April.
 

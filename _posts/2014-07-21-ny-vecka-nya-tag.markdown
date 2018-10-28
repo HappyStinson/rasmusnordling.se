@@ -1,17 +1,11 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2014-07-21 15:33:00
-layout: post
-permalink: /2014/07/ny-vecka-nya-tag.html
-slug: private-eye
 title: Ny vecka, nya tag!
-categories: fun-recreation
+category: fun-recreation
 ---
 
 Klappa takten alla måndagsbarn, *Bloggfest*, *bloggfest* hela da´n!
 
-Sådär nu har jag fått sprida lite glädje och ska åter författa ett kortare inlägg så här på Niklas födelsedag (Grattis igen! 😀).
+Sådär nu har jag fått sprida lite glädje och ska åter författa ett kortare inlägg så här på Niklas födelsedag (Grattis igen! 😀).<!--more-->
 
 Ska lite snabbt bara kladda av mig min planering och sen få be om lite synpunkter och kritik.
 Det börjar dra ihop sig och månaden lider mot sitt slut så därför har jag satt en deadline på måndag om sju dagar för att kunna ta det lite lugnt och typ finslipa de sista dagarna innan jag anser mig vara klar.

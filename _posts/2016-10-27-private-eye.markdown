@@ -1,19 +1,9 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2016-10-27 18:30:50+00:00
-layout: post
-link: http://blog.rasmusnordling.se/physical-environment/private-eye/
-slug: private-eye
 title: Who Do I Think I Am?
-categories:
 ---
+Today I’m sharing an exercise from Barbara Sher’s book “[Wishcraft: How to Get What You Really Want](https://www.goodreads.com/book/show/498904.Wishcraft)“.
 
-Today I’m sharing an exercise from Barbara Sher’s book “[Wishcraft: How to Get What You Really Want](http://www.goodreads.com/book/show/498904.Wishcraft)“.
-
-**The Private-Eye Game**
-
-Here’s how it works: Snoop around your own house or room as if you were a private-eye trying to find out who lived here just from the style revealed in the house. Make an inventory of as many characteristics and interests you can find.<!--more-->
+The Private-Eye Game is all about snooping around your own house or room as if you were a private-eye trying to find out who lived here just from the style revealed in the house. Make an inventory of as many characteristics and interests you can find.<!--more-->
 
 I took some pictures, thought hard about it and then answered the questions below.
 
@@ -61,7 +51,7 @@ _What are the clothes in the closet saying about the person who chose them?_
 **Active**. Long and short sleeved shirts made out of breathing material in different colors.  
 **Attention seeker**. Some bold jeans with attitude that would stand out in a crowd.  
 **Hard rocker**. Studded belts to go with the jeans and Metallica t-shirts.  
-**Active student**. Student overalls and camo vest with patches indicate some involvement in campus activities.
+**Active student**. Student overalls and camouflage vest with patches indicate some involvement in campus activities.
 
 Other observations
 

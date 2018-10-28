@@ -98,8 +98,8 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - ~~Farsta Fun Run~~ Completed on 7 May 2016
 - ~~Finansloppet~~ Completed on 31 August 2016
 - ~~Bellmanstafetten~~ Completed on 19 August 2016
-- ~~Night Trail Run~~ Completed on 29 October 2016
-- ~~Arena Run~~ Completed on 18 February 2017 and 7 February 2018
+- ~~Night Trail Run~~ [Completed on 29 October 2016](/health-fitness/2016/10/29/night-trail-run-2016.html)
+- ~~Arena Run~~ [Completed on 18 February 2017](/health-fitness/2017/02/19/arena-run-2017.html) and 7 February 2018
 - ~~Stockholm Tunnel Run Citybanan~~ Completed on 26 March 2017
 - ~~ASICS Premiärmilen~~ Completed on 1 April 2017 and 24 March 2018 (49:02)
 - ~~STHLM Trail Run~~ Completed on 6 May 2017

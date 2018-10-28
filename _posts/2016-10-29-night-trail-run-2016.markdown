@@ -1,19 +1,12 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2016-10-29 22:54:25+00:00
-layout: post
-link: http://blog.rasmusnordling.se/health-fitness/night-trail-run-2016/
-slug: night-trail-run-2016
 title: Night Trail Run 2016
-categories: health-fitness
+category: health-fitness
 ---
-
 Hello again!
 
 I am back standing in front of my computer after a "long" 10K run in the dark woods.
 
-To sum up my feelings, I am mostly relieved that I fought through the whole trail and got my tired body (with no broken bones) over the finish line. <!-- more -->
+To sum up my feelings, I am mostly relieved that I fought through the whole trail and got my tired body (with no broken bones) over the finish line.<!--more-->
 
 The start was a bit delayed due to an accident at the E4 highway and I was really freezing since I'm stupid and don't know how to dress properly according to temperature. I realized that I most likely had the wrong shoes for the occasion as well.
 
