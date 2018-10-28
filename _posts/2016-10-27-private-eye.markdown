@@ -51,7 +51,7 @@ _What are the clothes in the closet saying about the person who chose them?_
 **Active**. Long and short sleeved shirts made out of breathing material in different colors.  
 **Attention seeker**. Some bold jeans with attitude that would stand out in a crowd.  
 **Hard rocker**. Studded belts to go with the jeans and Metallica t-shirts.  
-**Active student**. Student overalls and camo vest with patches indicate some involvement in campus activities.
+**Active student**. Student overalls and camouflage vest with patches indicate some involvement in campus activities.
 
 Other observations
 

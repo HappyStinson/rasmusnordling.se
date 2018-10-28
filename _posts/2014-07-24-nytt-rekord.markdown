@@ -14,7 +14,7 @@ Okej då var inledningen avklarad. Dags för:
 Nyheter - Flag Frenzy v0.4
 
 - Ny updateloop. Switch case-sats med game state istället för if-else struktur. För att kunna hantera Game Over på ett snyggare sätt.
-- Håll inne mellanslag för att hissa flaggan. Nu slipper man smattra och ha sönder tangenten. :)
+- Håll inne mellanslag för att hissa flaggan. Nu slipper man smattra och ha sönder tangenten 🙂.
 - En klocka som räknar ner innan spelet börjar. Klara..färdiga..GÅ!
 - Timern är en separat entitet som pratar med GameController och körs som en coroutine.
 - Lagt på texten "Time left" framför tiden som nu skrivs ut i hela sekunder.
@@ -33,7 +33,7 @@ Vet inte om jag kommer hinna fixa allt till denna gången men om det blir lyckat
 
 Till er som inte lyckats få igång spelet så måste ni installera [Unity Web Player](http://unity3d.com/webplayer). Finns till både Windows och Mac OS X och fungerar med de flesta webbläsarna. Detta måste spelas i webbläsaren på en dator, bara för att klargöra. Det går inte att spela i mobilen om ni försökt er på det.
 
-Jag vill att alla ni ska försöka slå mitt rekord på 31 flaggor. :)
+Jag vill att alla ni ska försöka slå mitt rekord på 31 flaggor 🙂.
 
 Lycka till!
 

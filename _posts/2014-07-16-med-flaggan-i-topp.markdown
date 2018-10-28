@@ -14,17 +14,17 @@ Kände att det gav mig mer inspiration och motivation. Eftersom jag inte kom in 
 Hur som helst jag kommer alltså att motivera mig själv till att göra ett spel i månaden och förhoppningen är att hela tiden bli bättre under tiden, det är ju hela tanken bakom upplägget.
 Tar man fram sin bräda och surfar in på [onegameamonth.com](http://onegameamonth.com/) kan man se att månadens valfria tema är flaggor. Så jag har klurat på ett litet spel om just flaggor.
 
-I och med att juli snart är slut så kommer spelet inte att bli särskilt stort. Jag har tänkt mig ett enkelt buttonmasher där det gäller att hissa så många flaggor som möjligt under en minut för att imponera på en tjej. Är du tillräckligt skillad blir hon förälskad och du kan känna dig nöjd. Annars blir hon sur och det är bye-bye.
+I och med att juli snart är slut så kommer spelet inte att bli särskilt stort. Jag har tänkt mig ett enkelt button masher där det gäller att hissa så många flaggor som möjligt under en minut för att imponera på en tjej. Är du tillräckligt skillad blir hon förälskad och du kan känna dig nöjd. Annars blir hon sur och det är bye-bye.
 Ifall spelet handlar om mig eller är baserat på en verklig händelse låter jag vara osagt men  om intresset finns så kan ni läsa mer från min [arbetsmapp](https://drive.google.com/folderview?id=0B0YAOyHaBJz7V2dQTnB4bU1RYWc&amp;usp=sharing) som jag skapat just för detta projektet 🙂.
 
-[![](/assets/images/flag-frenzy-draft.jpg)](/assets/images/flag-frenzy-draft.jpg)
+[![Flag Frenzy Draft](/assets/images/flag-frenzy-draft.jpg)](/assets/images/flag-frenzy-draft.jpg)
 
 Sött att hissa flaggor för kärleken.
 
 Tack för denna gången!
 
-/ Rasmus 
+/ Rasmus
 
-Comment: 
+Comment:
 
 Anonymous (2014-07-16) - Tycker kärleksflickan borde kallas flagg-ann
