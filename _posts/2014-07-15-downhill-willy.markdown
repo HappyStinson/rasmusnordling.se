@@ -1,12 +1,6 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2014-07-15 16:30:00
-updated: 2014-07-15 16:35:16
-layout: post
-permalink: /2014/07/downhill-willy.html
 title: Downhill Willy
-categories: fun-recreation
+category: fun-recreation
 ---
 
 Hej på er, det var ett tag sen sist!

@@ -1,13 +1,6 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2014-07-16 15:15:00
-updated: 2014-07-16 15:26:57
-layout: post
-permalink: /2014/07/med-flaggan-i-topp.html
-slug: private-eye
 title: Med flaggan i topp
-categories: fun-recreation
+category: fun-recreation
 ---
 
 Här kommer ännu ett blygsamt hej för nu är jag igång igen.

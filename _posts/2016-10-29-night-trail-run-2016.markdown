@@ -1,12 +1,6 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2016-10-29 22:54:25+00:00
-layout: post
-link: http://blog.rasmusnordling.se/health-fitness/night-trail-run-2016/
-slug: night-trail-run-2016
 title: Night Trail Run 2016
-categories: health-fitness
+category: health-fitness
 ---
 
 Hello again!

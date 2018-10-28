@@ -1,12 +1,6 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2017-01-24 07:37:35+00:00
-layout: post
-link: http://blog.rasmusnordling.se/personal-growth/challenge1/
-slug: challenge1
 title: 2017 First 30 Day Challenge
-categories: personal-development
+category: personal-development
 ---
 
 ​Hello!

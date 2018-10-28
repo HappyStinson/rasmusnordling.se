@@ -1,11 +1,6 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2016-07-24
-layout: post
-permalink: /2014/07/nytt-rekord.html
 title: Flag Frenzy - Update
-categories: fun-recreation
+category: fun-recreation
 ---
 
 Nytt rekord! Coolt

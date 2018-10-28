@@ -1,13 +1,6 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2017-02-19 16:48:10+00:00
-layout: post
-link: http://blog.rasmusnordling.se/health-fitness/arena-run-2017/
-slug: arena-run-2017
 title: Arena Run 2017
-categories: health-fitness
-excerpt_separator: <!--more-->
+category: health-fitness
 ---
 
 Hi everybody,

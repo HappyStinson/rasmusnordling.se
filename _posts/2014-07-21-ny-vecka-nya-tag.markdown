@@ -1,12 +1,6 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2014-07-21 15:33:00
-layout: post
-permalink: /2014/07/ny-vecka-nya-tag.html
-slug: private-eye
 title: Ny vecka, nya tag!
-categories: fun-recreation
+category: fun-recreation
 ---
 
 Klappa takten alla måndagsbarn, *Bloggfest*, *bloggfest* hela da´n!

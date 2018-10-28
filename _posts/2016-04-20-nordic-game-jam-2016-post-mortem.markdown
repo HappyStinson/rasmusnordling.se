@@ -1,12 +1,6 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2016-04-20 17:51:00
-updated: 2016-04-20 17:51:29
-layout: post
-permalink: /2016/04/nordic-game-jam-2016-post-mortem.html
 title: Nordic Game Jam 2016 Post-mortem
-categories: fun-recreation
+category: fun-recreation
 ---
 
 Earlier this month I spent a few days in Copenhagen and attended the Nordic Game Jam's 10th anniversary.

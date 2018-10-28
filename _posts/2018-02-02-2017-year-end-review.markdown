@@ -1,12 +1,5 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2018-02-02 08:12:58+00:00
-layout: post
-link: http://blog.rasmusnordling.se/review/2017-year-end-review/
-slug: 2017-year-end-review
 title: 2017 Year End Review
-categories: review
 ---
 
 You can make a lot happen in 365 days but it can be hard to realize the magnitude and get appreciation when you’re busy advancing from one day to the next. So in this post I will reflect on the _stuff_ that made my 2017. Things I accomplished, what I learned and how I have changed as a person in the last 12 months.

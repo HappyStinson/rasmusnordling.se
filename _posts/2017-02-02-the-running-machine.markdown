@@ -1,13 +1,6 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2017-02-02 22:01:19+00:00
-layout: post
-link: http://blog.rasmusnordling.se/health-fitness/the-running-machine/
-slug: the-running-machine
 title: The Running Machine
-categories: health-fitness
-excerpt_separator: <!--more-->
+category: health-fitness
 ---
 
 > We're a machine built to run - and the machine never wears out. Just move your legs. Because if you don't think you were born to run, you're not only denying history. You're denying who you are. - Dennis Bramble

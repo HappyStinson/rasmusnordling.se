@@ -1,37 +1,35 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2017-01-01 22:31:10+00:00
-layout: post
-link: http://blog.rasmusnordling.se/review/2016/
-slug: '2016'
 title: 2016 Year End Review
-categories: review
 ---
-
-# The year of _change_
+# The year of *change*
 
 Once again we enter a new year and in this post I reflect on the changes that happened in my life 2016, both good and bad.
-One of my many inspirational people is Leo Babauta who among other things got me interested in meditation and Getting Things Done. As a good habit I will do my annual review and post it on this blog. If you're interested in doing the same thing I highly recommend you read this [post](https://zenhabits.net/yearend/) by Leo. <!--more-->
+One of my many inspirational people is Leo Babauta who among other things got me interested in meditation and Getting Things Done. As a good habit I will do my annual review and post it on this blog. If you're interested in doing the same thing I highly recommend you read this [post](https://zenhabits.net/yearend/) by Leo.<!--more-->
 
 ## Business/Career
 
-- **New job:** In the beginning of the year I quit my job at CGI for an employment at Academic Work Technology working as a Software Developer helping [Emric](http://emric.com) with their credit loan administration software. 6 months later the contract ended and I am currently studying C# and .NET while looking for practice or new employment.
+- **New job:** In the beginning of the year I quit my job at CGI for an employment at Academic Work Technology working as a Software Developer helping [Emric](https://www.tieto.com/en/who-we-serve/financial-services/lending-and-finance/) (acquired by Tieto in September 2016) with their credit loan administration software. 6 months later the contract ended and I am currently studying C# and .NET while looking for practice or new employment.
 
 ## Family
 
 - **Fun in Eskilstuna:** Drove a Buggy with my sister and we got drenched in mud 😮. Afterwards the family went to Eskilstuna zoo.
-- **Cinema:** Went to see _Inferno_ and _Fantastic Beasts and Where to Find Them_.
+- **Cinema:** Went to see [*Inferno*](https://www.imdb.com/title/tt3062096/) and [*Fantastic Beasts and Where to Find Them*](https://www.imdb.com/title/tt3183660/).
+
+[![Me and Sofie in a buggy](/assets/images/buggy.jpg)](/assets/images/buggy.jpg)
+Me and Sofie in a buggy
 
 ## Fun & Recreation
 
-- **Big spender:** I try to cut down on the stuff I buy and own. If you also like minimalism then have a look at the documentary [My Stuff](http://mystuffmovie.com/). Despite the minimalist lifestyle I bought a motorcycle, leather suit, bass guitar and mic stand which will help me in achieving some of my goals.
+- **Big spender:** I try to cut down on the stuff I buy and own. If you also like minimalism then have a look at the documentary [*My Stuff*](http://mystuffmovie.com/). Despite the minimalist lifestyle I bought a motorcycle, leather suit, bass guitar and mic stand which will help me in achieving some of my goals.
 
 ## Health & Fitness
 
 - **Became a _runner_:** I have previously been running on and off but when I joined TSM Running back in June a spark if you will got lit and I realized how much good comes from running. Since then I have raced several times and the best day was when I ran Lidingöloppet 15 km.
 - **New diet:** In December me and my sister went to a lecture with the Swedish athlete Jonas Colting. He spoke about how to be in fitness and in health. So the last few weeks I have been eating low carb and ketogenic food.
 - **Ergonomically aware:** Purchased a height adjustable desk to reap the health benefits of working vertical at home.
+
+[![Lidingöloppet](/assets/images/lidingo-2016.jpg)](/assets/images/lidingo-2016.jpg)
+Lidingöloppet
 
 ## Personal Development
 
@@ -49,16 +47,20 @@ One of my many inspirational people is Leo Babauta who among other things got me
 
 ## Romance
 
-- **No change in 2016:** I am still Single and ready to _Mingle_
+- **No change in 2016:** I am still Single and ready to *Mingle*
 
 ## Social
 
-- **Meetups and events:** I found the great site for [meetups](https://www.meetup.com/) and have among others attended meetups for GTD, Arduino development, Code Nights, Lounge Hacks, Indie Game Dungeon. Here's my [post-mortem from Nordic Game Jam](/2016/04/nordic-game-jam-2016-post-mortem.html).
+- **Meetups and events:** I found the great site for [meetups](https://www.meetup.com/) and have among others attended meetups for GTD, Arduino development, Code Nights, Lounge Hacks, Indie Game Dungeon. Here's my [post-mortem from Nordic Game Jam](/fun-recreation/2016/04/20/nordic-game-jam-2016-post-mortem.html).
 - **Red Hot Chili Peppers:** The only concert I went to this year and I went from "not liking them that much" to really appreciate their work. It was fun spending some time with my friends Wesku, Dennis, Robin and Steffen. More concerts to come in 2017.
-- **Lyric workshop:** Went to a 3 part workshop hosted by [Jonelle Vette](http://www.vettemusic.com/). I got into object writing and have some samples that might turn into great songs. I really focused on writing and playing guitar during these weeks. I should get that mood and productivity back. _FAWM_ is only a month away.
+- **Lyric workshop:** Went to a 3 part workshop hosted by [Jonelle Vette](https://www.vettemusic.com/). I got into object writing and have some samples that might turn into great songs. I really focused on writing and playing guitar during these weeks. I should get that mood and productivity back. _FAWM_ is only a month away.
 - **Escape Room:** One of my favorite shows is Prison Break and for an hour I got to be Michael Scofield. Thanks to my boss at Emric who brought us to an escape room puzzle after work. They had several puzzles and I definitely will return in 2017 for more escaping menace.
 - **Trampoline:** Everybody likes bouncing on the trampoline and I spent 2 hours at [BOUNCE](https://www.youtube.com/watch?v=5x2b5-Esf5Q) in Stockholm. It's a different kind of workout and I will be back with more friends for some bouncing joy!
 - **Photoshoot:** Spent a day with Mathias as his model for some shots.
+
+[![Me posing at the photoshoot](/assets/images/me-2016.jpg)](/assets/images/me-2016.jpg)
+Me posing at the photoshoot
+More pictures from the photoshoot ...
 
 ## Spiritual
 
@@ -69,24 +71,15 @@ One of my many inspirational people is Leo Babauta who among other things got me
 - **Keep Sweden Clean:** I have been randomly picking litter as I took my walks around Stockholm. I encourage more people to care for the environment and to support _Håll Sverige Rent_.
 - **TTIP:** Went to my first demonstration which was against TTIP and CETA.
 
-[![Buggy](/assets/images/buggy.jpg)](/assets/images/buggy.jpg)
-Me and Sofie in a buggy
-
-[![Lidingöloppet](/assets/images/lidingo-2016.jpg)](/assets/images/lidingo-2016.jpg)
-Lidingöloppet
-
-[![Favorite picture of 2016](/assets/images/me-2016.jpg)](/assets/images/me-2016.jpg)
-Favorite picture of 2016
-
 December was all about finishing on a high and to bring momentum to the new year.
 
 Take care of each other and I know we will have the best years of our lives ahead of us! 🙂
 
 / Rasmus
 
-  *[TSM]: Team Stockholm Marathon
-  *[FAWM]: February Album Writing Month
-  *[TTIP]: Transatlantic Trade and Investment Partnership
-  *[VISIR]: Vi Som Inte Röker
-  *[WWF]: World Wildlife Fund/World Wide Fund for Nature
-  *[CETA]: Comprehensive Economic and Trade Agreement
+*[TSM]: Team Stockholm Marathon
+*[FAWM]: February Album Writing Month
+*[TTIP]: Transatlantic Trade and Investment Partnership
+*[VISIR]: Vi Som Inte Röker
+*[WWF]: World Wildlife Fund/World Wide Fund for Nature
+*[CETA]: Comprehensive Economic and Trade Agreement
