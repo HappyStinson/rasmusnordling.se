@@ -5,7 +5,6 @@
 layout: home
 list_title: "Latest stuff I've written"
 ---
+# On a journey to accomplish my Life Goals
 
-# Home Page
-
-Hello I'm just testing my Jekyll home page 😁
+Happy swede who likes making music, running and writing code. Care for health, fitness and the environment 😁.
