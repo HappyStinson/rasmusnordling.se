@@ -9,10 +9,10 @@ Först av allt vill jag bara säga att det är kul att skriva igen. Roligt att n
 Det får inte gå överstyr bara så att jag riskerar att bli någon manlig Kissie. Så har jag inte föreställt mig att framtiden och livet ska se ut.
 Däremot har jag lite planer på gång som jag tänkte avslöja nu!<!--more-->
 
-Hittade en väldigt intressant artikel för ett tag sen av en kille som gjort [tolv spel under ett års tid](http://gamedevelopment.tutsplus.com/articles/1gam-how-to-succeed-at-making-one-game-a-month--gamedev-3695).
-Kände att det gav mig mer inspiration och motivation. Eftersom jag inte kom in på spelutbildningen i Stockholm (Speldesign - Futuregames, du har just nu                      reservplats 21 i Urvalsgrupp #1) så får jag sitta hemma för mig själv och knacka istället. Lika bra det kanske.
+Hittade en väldigt intressant artikel för ett tag sen av en kille som gjort [tolv spel under ett års tid](https://gamedevelopment.tutsplus.com/articles/1gam-how-to-succeed-at-making-one-game-a-month--gamedev-3695).
+Kände att det gav mig mer inspiration och motivation. Eftersom jag inte kom in på spelutbildningen i Stockholm (Speldesign - Futuregames, du har just nu reservplats 21 i Urvalsgrupp #1) så får jag sitta hemma för mig själv och knacka istället. Lika bra det kanske.
 Hur som helst jag kommer alltså att motivera mig själv till att göra ett spel i månaden och förhoppningen är att hela tiden bli bättre under tiden, det är ju hela tanken bakom upplägget.
-Tar man fram sin bräda och surfar in på [onegameamonth.com](http://onegameamonth.com/) kan man se att månadens valfria tema är flaggor. Så jag har klurat på ett litet spel om just flaggor.
+Tar man fram sin bräda och surfar in på [onegameamonth.com](https://onegameamonth.com/) kan man se att månadens valfria tema är flaggor. Så jag har klurat på ett litet spel om just flaggor.
 
 I och med att juli snart är slut så kommer spelet inte att bli särskilt stort. Jag har tänkt mig ett enkelt button masher där det gäller att hissa så många flaggor som möjligt under en minut för att imponera på en tjej. Är du tillräckligt skillad blir hon förälskad och du kan känna dig nöjd. Annars blir hon sur och det är bye-bye.
 Ifall spelet handlar om mig eller är baserat på en verklig händelse låter jag vara osagt men  om intresset finns så kan ni läsa mer från min [arbetsmapp](https://drive.google.com/folderview?id=0B0YAOyHaBJz7V2dQTnB4bU1RYWc&amp;usp=sharing) som jag skapat just för detta projektet 🙂.

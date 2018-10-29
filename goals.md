@@ -6,7 +6,7 @@ permalink: /goals/
 
 On this page I'll list all the things I would like to achieve during my life time. It will be the backbone of this entire blog and most of my future posts will be related to achieving things on this list.
 
-I have decided to organize my goals into [nine life areas](http://travisrobertson.com/sales-marketing/9-life-areas-goal-setting-2/) as proposed by Travis Robertson.
+I have decided to organize my goals into [nine life areas](https://travisrobertson.com/sales-marketing/9-life-areas-goal-setting-2/) as proposed by Travis Robertson.
 
 # Business/Career
 
@@ -38,7 +38,7 @@ I have decided to organize my goals into [nine life areas](http://travisrobertso
 # Fun & Recreation
 
 - Test every game in the book 1001 Video Games You Must Play Before You Die
-- Do [One Game A Month](http://onegameamonth.com/) for 12 consecutive months
+- Do [One Game A Month](https://onegameamonth.com/) for 12 consecutive months
 
 ## Adventure
 
@@ -98,8 +98,8 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - ~~Farsta Fun Run~~ Completed on 7 May 2016
 - ~~Finansloppet~~ Completed on 31 August 2016
 - ~~Bellmanstafetten~~ Completed on 19 August 2016
-- ~~Night Trail Run~~ [Completed on 29 October 2016](/health-fitness/2016/10/29/night-trail-run-2016.html)
-- ~~Arena Run~~ [Completed on 18 February 2017](/health-fitness/2017/02/19/arena-run-2017.html) and 7 February 2018
+- ~~Night Trail Run~~ [Completed on 29 October 2016](/health-fitness/2016/10/29/night-trail-run-2016/)
+- ~~Arena Run~~ [Completed on 18 February 2017](/health-fitness/2017/02/19/arena-run-2017/) and 7 February 2018
 - ~~Stockholm Tunnel Run Citybanan~~ Completed on 26 March 2017
 - ~~ASICS Premiärmilen~~ Completed on 1 April 2017 and 24 March 2018 (49:02)
 - ~~STHLM Trail Run~~ Completed on 6 May 2017
@@ -118,7 +118,7 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - ~~Ramboll Stockholm Halvmarathon~~ Completed on 15 September (1:48:06)
 - ~~STHLM Xploration Run~~ Completed on 20 October 2018
 
-- [A Swedish Classic](http://www.ensvenskklassiker.se/en)
+- [A Swedish Classic](https://www.ensvenskklassiker.se/en)
   - ~~Vätternrundan~~ Completed on 16 June 2018
   - ~~Vansbro Öppen Älv~~ Completed on 7 July 2018
   - ~~TCS Lidingöloppet 30~~ Completed on 23 September 2017 and 29 September 2018
@@ -136,7 +136,7 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - Run the [Great Wall Marathon](https://great-wall-marathon.com/) in Beijing
 - Ride [Siljan 100](https://www.siljan100.se/)
 - Comrades Marathon (world's biggest ultra)
-- [Big Five Marathon](http://big-five-marathon.com/race-info)
+- [Big Five Marathon](https://big-five-marathon.com/race-info)
 - [Höga Kusten Marathon](http://www.hkmarathon.nu/)
 - Great Ocean Road Marathon Victoria AUS
 - Maratona Di Roma
@@ -154,9 +154,9 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
   - [Tokyo Marathon](https://www.marathon.tokyo/en/)
   - [Boston Marathon](https://www.baa.org/)
   - [Virgin Money London Marathon](https://www.virginmoneylondonmarathon.com/)
-  - [BMW Berlin Marathon](http://www.bmw-berlin-marathon.com/)
-  - [Bank of America Chicago Marathon](http://chicagomarathon.com/)
-  - [TCS New York City Marathon](http://www.nycmarathon.org/)
+  - [BMW Berlin Marathon](https://www.bmw-berlin-marathon.com/)
+  - [Bank of America Chicago Marathon](https://chicagomarathon.com/)
+  - [TCS New York City Marathon](https://www.tcsnycmarathon.org/)
 - [Härnö Trail 20,8 K](https://harnotrail.se/loppen/)
 - [Risveden Terräng Ultra](https://sv.wikipedia.org/wiki/Risveden_Terr%C3%A4ng)
 - [SMIR Stockholm Multi Island Run 75K](https://www.stockholmmultiislandrun.com/) [Teaser](https://www.youtube.com/watch?v=yg2fBaJ0OZg)
@@ -170,7 +170,7 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - Vansbro 10K
 - Långholmen swimrun
 - [Alliansloppet 48K](http://www.alliansloppet.se/)
-- [Metro Marathon Düsseldorf](http://www.metro-marathon.de/)
+- [Metro Marathon Düsseldorf](https://www.metro-marathon.de/)
 - [Deutschland Klassiker](https://ensvenskklassiker.se/deutschland-klassiker/)
 - [EcoTrail Stockholm](http://ecotrailstockholm.com/)
 - Disney World: Dopey Challenge
@@ -184,7 +184,7 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - [Järvloppet – Into the Wild](http://www.jarvloppet.se/)
 - AXA Fjällmarathon
 - [Polar Night Halfmarathon](https://worldsmarathons.com/marathon/polar-night-halfmarathon)
-- [Midnight Sun Marathon](http://www.msm.no)
+- [Midnight Sun Marathon](https://www.msm.no/en)
 - Cape Epic
 - Borås Swimrun
 - [Esbo Strandmaraton](https://www.rantamaraton.fi/pa-svenska/)
