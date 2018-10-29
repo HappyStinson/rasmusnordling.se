@@ -17,7 +17,10 @@ Team: Me and three Danish guys. 3/4 programmers and 1/4 producer/artist.
 Idea: From about seven different ideas during brainstorming we settled for "Rocket Leeks" (later changed to Champions Leek for some odd reason). A local multiplayer racing game for the Google Chromecast where the player controls a leek with their smartphone. The goal is to be the last leek standing in this crazy party game.
 What went well: Found a great team and almost completed a game. Unity was stable enough on Linux (yay).
 
-What went wrong: Too much hassle with [Unity Remote](http://docs.unity3d.com/Manual/UnityRemote5.html) on Linux. Hard to implement accelerometer input when you can't test with a phone. Didn't have time to implement multiplayer due to the Unity [Photon plugin](https://www.assetstore.unity3d.com/en/#!/content/1786) not playing nice. Unity is hard to get right with git and we basically destroyed our repo after a few hours ☹️.
+What went wrong: Too much hassle with [Unity Remote](https://docs.unity3d.com/Manual/UnityRemote5.html) on Linux.
+Hard to implement accelerometer input when you can't test with a phone.
+Didn't have time to implement multiplayer due to the Unity [Photon plugin](https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786) not playing nice.
+Unity is hard to get right with git and we basically destroyed our repo after a few hours ☹️.
 What I learned: That Denmark is quite cool and that precaution must be used when putting a Unity project under version control, yikes!
 
 [![Flying Leek](/assets/images/champions-leek.png)](/assets/images/champions-leek.png)

@@ -31,7 +31,9 @@ Vad var din spontana reaktion när du spelade? Både ris och ros önskas.
 
 Vet inte om jag kommer hinna fixa allt till denna gången men om det blir lyckat och ifall det är uppskattat kan jag alltid ta mig tid att göra fler banor till version "två punkt noll".
 
-Till er som inte lyckats få igång spelet så måste ni installera [Unity Web Player](http://unity3d.com/webplayer). Finns till både Windows och Mac OS X och fungerar med de flesta webbläsarna. Detta måste spelas i webbläsaren på en dator, bara för att klargöra. Det går inte att spela i mobilen om ni försökt er på det.
+Till er som inte lyckats få igång spelet så måste ni installera [Unity Web Player](https://unity3d.com/webplayer).
+Finns till både Windows och Mac OS X och fungerar med de flesta webbläsarna.
+Detta måste spelas i webbläsaren på en dator, bara för att klargöra. Det går inte att spela i mobilen om ni försökt er på det.
 
 Jag vill att alla ni ska försöka slå mitt rekord på 31 flaggor 🙂.
 

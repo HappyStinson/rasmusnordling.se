@@ -3,7 +3,8 @@ title: 2017 Year End Review
 ---
 You can make a lot happen in 365 days but it can be hard to realize the magnitude and get appreciation when you’re busy advancing from one day to the next. So in this post I will reflect on the *stuff* that made my 2017. Things I accomplished, what I learned and how I have changed as a person in the last 12 months.
 
-This last year didn’t involve as much changes as 2016 did and I feel like these last two years have been very similar, only in 2017 it was **more** of everything. You can read my [*2016 Year End Review* here](/2017/01/2016.html).<!--more-->
+This last year didn’t involve as much changes as 2016 did and I feel like these last two years have been very similar, only in 2017 it was **more** of everything.
+You can read my [*2016 Year End Review* here](/2017/01/01/2016-year-end-review/).<!--more-->
 
 # What Went Well
 
@@ -29,7 +30,10 @@ The objective of the game is to figure out what that weird object is that’s be
 
 **Habit Challenge:** I did several attempts to stop biting my fingernails. But it’s not been a habit that I could keep permanently. Longest streak according to my journal was 96 days from January 24 to April 30.
 
-**Volunteering:** Was board secretary for VISIR Stockholm/Uppsala between January to September. I didn’t really handle all the extra work very well and I put a lot of hours and energy into something I later had to drop because of a frustration that wasn’t aligning with what I wanted with my life. I still plan to engage in activities to reach the goal of a tobacco free society some day with year 2025 being the closest target. As an own side project I bought the domain [Tobakspodden.se ](http://tobakspodden.se/)to be used for a podcast that didn’t really take off and is still In the initial planning phase.
+**Volunteering:** Was board secretary for VISIR Stockholm/Uppsala between January to September.
+I didn’t really handle all the extra work very well and I put a lot of hours and energy into something I later had to drop because of a frustration that wasn’t aligning with what I wanted with my life.
+I still plan to engage in activities to reach the goal of a tobacco free society some day with year 2025 being the closest target.
+As an own side project I bought the domain *tobakspodden.se* to be used for a podcast that didn’t really take off and is still In the initial planning phase.
 
 **Songwriting:** During the year I was very excited for all the different songwriting community projects such as: FAWM (February Album Writing Month), 50/90 (The 50 Songs in 90 Days Challenge) and NaSoAlMo (National Solo Album Month). Despite I have been playing the guitar quite a lot and also toying with GarageBand I feel that I failed at writing any complete songs and I’m nowhere near a finished album.
 
@@ -72,7 +76,7 @@ The objective of the game is to figure out what that weird object is that’s be
 
 
     
-  * Tobacco Endgame/Global Development seminars that I mentioned [in this post](http://blog.rasmusnordling.se/review/weekly-news-20170519/)
+  * Tobacco Endgame/Global Development seminars that I mentioned [in this post](/2017/05/19/weekly-news/)
 
     
   * Public seminars about NATO - among the organizers was Vänsterpartiet (Left party)
