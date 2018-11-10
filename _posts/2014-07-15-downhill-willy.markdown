@@ -10,7 +10,7 @@ Det går att se en gameplay video på spelet [Här](https://youtu.be/TyWreu4zX1c
 
 Detta inlägget kom ganska spontant och blev kanske lite kort. Det gör ingenting för jag har mer att skriva så håll ut för mer ska det bli inom det närmsta. 🙂
 
-[![](/assets/images/me-and-mike.jpg)](/assets/images/me-and-mike.jpg)
+[![Me and Mike](/assets/images/me-and-mike.jpg)](/assets/images/me-and-mike.jpg)
 
 Söta spelutvecklare. Mike da man å Happy boi.
 
