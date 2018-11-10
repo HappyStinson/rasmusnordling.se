@@ -2,7 +2,7 @@
 title: Nordic Game Jam 2016 Post-mortem
 category: fun-recreation
 ---
-Earlier this month I spent a few days in Copenhagen and attended the [Nordic Game Jam](https://www.nordicgamejam.com/)'s 10th anniversary.
+Earlier this month I spent a few days in Copenhagen and attended the [Nordic Game Jam](https://www.nordicgamejam.com/)'s 10th anniversary.<!--more-->
 
 It was a fun and exciting experience. I stayed at a hostel together with other jammers and I managed to find some new friends, although many of them were Danes.
 
