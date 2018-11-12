@@ -229,6 +229,29 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - Perform my original songs at the big stage at Gröna Lund
 - Write a timeless song. One that people still listens to and is relevant after two decades i.e. 20 years
 
+## Comfort Zone Challenges
+
+> Life begins at the end of your comfort zone - Neale Donald Walsch
+
+Below are some of my fears and things I find uncomfortable.
+I intend to do as many of these as possible in order to increase my comfort zone and decrease my fear.
+I won't be limited by my fears.
+
+- Stand up for you opinion, what's so scary about conflicts?
+- Snakes
+- Heights
+  - Bungyjump
+- Doing somersault on/from trampoline and diving board
+- [Dropping in](https://www.thoughtco.com/how-to-drop-in-on-skateboard-3002972) on a skateboard ramp
+- Parachute jumping
+- Perform music in front of an audience
+  - Perform music in the public (Busking)
+- Donate blood
+- Fear of failure
+- Discomfort to come late
+- Hold a presentation in front of a bigger crowd
+- Talk to strangers, in real life...
+
 # Romance
 
 - Getting married
