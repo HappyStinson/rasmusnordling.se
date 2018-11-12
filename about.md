@@ -14,6 +14,6 @@ The audience will be anyone who also want to achieve BIG goals or just looking f
 
 I will be posting whenever something is worth sharing and I feel like writing. I am doing this to inspire others to constantly improve their lives and achieving their BIGGEST goals and dreams. Nothing is to big, it all starts with a small step. Today.
 
-If you want to know more about me, head over to [rasmusnordling.se](http://rasmusnordling.se).
+Proud minimalist.
 
 / Rasmus
