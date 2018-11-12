@@ -25,6 +25,7 @@ Q2
 # Looking back at 2018
 
 Answering the reflection questions from Travis Robertson. [Link](http://hej.se).
+
 Oktober-oktober
 
 ## What did I do right (or well) this year?

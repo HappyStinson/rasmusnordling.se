@@ -37,10 +37,15 @@ Nya tips: Produktivitetsbloggens podcast, Get-it-done guy, The FLAWD Podcast (av
 Välj ut 80/20 och sen kanske en lista med honorable mentions i slutet
 Psykologipodden och avsnitten om Sexuella övergrepp, även avsnittet från Alla våra ligg
 https://itunes.apple.com/se/podcast/sommar-vinter-i-p1/id284610981?l=en&mt=2&i=1000390524902 aron anderson sommarprat
+
 Kolla dokumentet Podcasts och vad jag har i appen
 [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)
 
 ## Skriva om låtskrivande och Hookpad?
+
+2018 Year Review
+Konserter
+Thåström sveriges jack white. Såg ut som Cardinal Copia i den vita kavajen
 
 ## The Law of Attraction
 
@@ -125,5 +130,5 @@ klimatkompenserar samt minskar problemen med jorderosion och ökenspridning,
 ger barn en möjlighet att gå i skolan och få en helt annan framtid
 finansierar mikrolånbanker, skolbyggnationer och kontraktsbönder
 ger dig en god förväntad avkastning om 15 procent per år.
-2. Årligt kundmöte i Stockholm den 6 november som är nytt och omgjort
+1. Årligt kundmöte i Stockholm den 6 november som är nytt och omgjort
 Det årliga mötet för oss kunder är i år planerat till den 6 nov i Stockholm. Det kommer dock vara annorlunda från föregående år med enbart fokus på oss befintliga kunder. Förutom nyheter från året och verksamheten på plats, kommer det även att handla om det ekonomiska hjulet och jag kommer att hålla ett pass om hållbart sparande och impact investing.
