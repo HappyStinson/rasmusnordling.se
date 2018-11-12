@@ -1,13 +1,10 @@
 ---
-author: Rasmus Nordling
-comments: true
-date: 2018-10-22
-layout: post
+date: 2018-11-10
 title: Year End Review 2018
-categories:
 ---
 
 Todo
+
 - kopiera strukturen från tidigare år
 - Läs igenom vad jag skrev förra året
 - Reflektera och definiera, korrigera där det behövs
@@ -15,20 +12,19 @@ Todo
 Q2
 
 - De-Google
-	- ökad integritet
-	- steg jag gjort för att komma bort från Google
-	- [YT](https://www.youtube.com/watch?v=AmaM-Mar_oA)
-	- Alternativ till Google Authenticator för TOTP 2FA [Duo](https://guide.duo.com/third-party-accounts) 
-
+  - ökad integritet
+  - steg jag gjort för att komma bort från Google
+  - [YT](https://www.youtube.com/watch?v=AmaM-Mar_oA)
+  - Alternativ till Google Authenticator för TOTP 2FA [Duo](https://guide.duo.com/third-party-accounts) 
 
 - Föreläsningen med Michael Kröger, tankar om boken fattardu
 - Specialized Body Geometry bike fit [video](https://www.youtube.com/watch?v=t6CXi0RdQqE). [Mer info](https://www.specializedconceptstore.co.uk/body-geometry-fit)
-	- Skriv om pedalerna, om jag hade behövt komma ombytt, m.m.
-	-  Var antagligen [Emma Graaf](https://emmagraaf.com) jag såg i butiken
+  - Skriv om pedalerna, om jag hade behövt komma ombytt, m.m.
+  - Var antagligen [Emma Graaf](https://emmagraaf.com) jag såg i butiken
 
 # Looking back at 2018
 
-Answering the reflection questions from Travis Robertson. [Link]().
+Answering the reflection questions from Travis Robertson. [Link](http://hej.se).
 Oktober-oktober
 
 ## What did I do right (or well) this year?
@@ -50,6 +46,10 @@ Oktober-oktober
     5. Stockholm Marathon
     6. Bloggen
     7. Skjutit upp skapandet av en pengamaskin
+
+# Konserter
+
+Thåström sveriges Jack White. Såg ut som Cardinal Copia i den vita kavajen.
 
 # Looking forward to 2019
 
@@ -76,7 +76,6 @@ Oktober-oktober
     7. Köp nödvändig utrustning. Kolla upp tävlingskalender för att följa ut något passande lopp. Sprint som första distans?
     8. Skapa konto på olika ställen där det är möjligt att träffa singlar
     9. Var mer proaktiv och fortsätt höra av mig, hitta på roliga aktiviteter som inte bara innebär utgång och alkohol
-
 
 Merry Christmas!
 
