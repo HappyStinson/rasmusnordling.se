@@ -211,7 +211,7 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - Take driving license for motorcycle
 - Learn Russian
 - Learn to dive
-- Reach Enlightened Karma status in Todoist
+- Reach Enlightened Karma status in [Todoist](https://todoist.com)
 
 ## Songwriting
 
