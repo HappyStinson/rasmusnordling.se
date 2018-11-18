@@ -39,7 +39,7 @@ Psykologipodden och avsnitten om Sexuella övergrepp, även avsnittet från Alla
 https://itunes.apple.com/se/podcast/sommar-vinter-i-p1/id284610981?l=en&mt=2&i=1000390524902 aron anderson sommarprat
 
 Kolla dokumentet Podcasts och vad jag har i appen
-[JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)
+[JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/). Skriv om intressanta avsnitt (GraphQL) och JAM Picks.
 
 ## Skriva om låtskrivande och Hookpad?
 
