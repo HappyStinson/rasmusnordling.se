@@ -5,6 +5,8 @@
 layout: home
 list_title: "Latest stuff I've written"
 ---
-# On a journey to accomplish my Life Goals
 
-Happy swede who likes making music, running and writing code. Care for health, fitness and the environment 😁.
+# Hej! 👋
+
+I'm glad you found your way to my personal website and blog. Head over to [About](/about) to read about the background behind this site, and also a bit about myself.
+Or dive right into my [Goals](/goals) if you're looking for some inspiration.
