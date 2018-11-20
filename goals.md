@@ -8,18 +8,18 @@ On this page I'll list all the things I would like to achieve during my life tim
 
 I have decided to organize my goals into [nine life areas](https://travisrobertson.com/sales-marketing/9-life-areas-goal-setting-2/) as proposed by Travis Robertson.
 
-# Business/Career
+## Business/Career
 
 - Start my own company and develop indie games
 - Work and travel for a year in Australia
 - Become a Microsoft MVP
 - Participate in a programming competition and share my experience
 
-# Family
+## Family
 
 - Get a dog, preferably [pug](https://twitter.com/itsdougthepug) if I’m not allergic
 
-# Finances
+## Finances
 
 - Pay off all student loans by 2030
 - Start my Money Machine
@@ -35,12 +35,12 @@ I have decided to organize my goals into [nine life areas](https://travisroberts
 - [Allotment](https://en.wikipedia.org/wiki/Allotment_(gardening))
 - Buy a cottage by a lake
 
-# Fun & Recreation
+## Fun & Recreation
 
 - Test every game in the book 1001 Video Games You Must Play Before You Die
 - Do [One Game A Month](https://onegameamonth.com/) for 12 consecutive months
 
-## Adventure
+### Adventure
 
 - Ride in a hot air balloon
 - Drive a Formula 1 car
@@ -55,11 +55,11 @@ I have decided to organize my goals into [nine life areas](https://travisroberts
 - Water Ski
 - [Tandem skydiving](https://en.wikipedia.org/wiki/Tandem_skydiving)
 
-## Travel
+### Travel
 
 I plan to visit at least a new country annually and to have completed my trip around the world by December 31, 2027.
 
-### I will travel to the following places
+#### I will travel to the following places
 
 - The Netherlands
 - Japan
@@ -80,7 +80,7 @@ I plan to visit at least a new country annually and to have completed my trip ar
 - Around the world aboard [The World](http://aboardtheworld.com/)
 - Visit and walk a portion of the Great Wall of China
 
-## Meet
+### Meet
 
 - Lewis Hamilton
 - Valentino Rossi
@@ -91,7 +91,7 @@ I plan to visit at least a new country annually and to have completed my trip ar
 - Lissie
 - Melissa Horn
 
-# Health & Fitness
+## Health & Fitness
 
 My overall goal is to earn 100 medals from different physical challenges. I'm currently at 24%. Below is the races I've done and would like to do. I'm in no way a Superman but with enough time and determination you'll be able to achieve unimaginable things. It all starts here. Today.
 
@@ -193,14 +193,14 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 
 - No Alcoholic Spirits for a year
 
-## Get sponsorship from
+### Get sponsorship from
 
 - Asics
 - Nike
 - TSM Running
 - Red Bull
 
-# Personal Development
+## Personal Development
 
 - Learn to ski
 - Attend a concert at the Grand Ole Opry in Nashville, Tennessee
@@ -213,7 +213,7 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - Learn to dive
 - Reach Enlightened Karma status in [Todoist](https://todoist.com)
 
-## Songwriting
+### Songwriting
 
 - Become a songwriter
 - At least one of my songs gets played on the radio
@@ -229,7 +229,7 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - Perform my original songs at the big stage at Gröna Lund
 - Write a timeless song. One that people still listens to and is relevant after two decades i.e. 20 years
 
-## Comfort Zone Challenges
+### Comfort Zone Challenges
 
 > Life begins at the end of your comfort zone - Neale Donald Walsch
 
@@ -250,28 +250,28 @@ I won't be limited by my fears.
 - Fear of failure
 - Discomfort to come late
 - Hold a presentation in front of a bigger crowd
-- Talk to strangers, in real life...
+- Talk to strangers (especially girls), in real life...
 
-# Romance
+## Romance
 
 - Getting married
 - Having kids
 
-# Social
+## Social
 
 - Have a friend in every continent
-- Engage in other activities instead of social media for one month
+- ~~Engage in other activities instead of social media for one month~~ Removed my Facebook and Twitter accounts in 2018 👍
 
-# Spiritual
+## Spiritual
 
 - No television for a month
 - No internet for a week
 - Embrace the nature by going for a week's camping trip (annually)
 - No cellphone for a week
-- Attend Burning Man
+- Attend [Burning Man](https://burningman.org/)
 - Attend [The Borderland](http://theborderland.se/)
 
-## Contribution
+### Contribution
 
 - Influence 100 people to live a healthier life with more exercise and less bad habits
 - Be part of bringing Sweden’s tobacco consumption down to 5% by the year 2025
