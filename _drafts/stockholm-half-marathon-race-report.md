@@ -1,10 +1,6 @@
 ---
-author: Rasmus Nordling
-comments: true
 date: 2018-10-22
-layout: post
 title: Ramboll Stockholm Half-marathon 2018 - Race Report
-categories:
 ---
 
 - Kolla mina tider och jämför med banprofilen, [Resultat](http://results.marathon.se/halvmarathon/2018/?content=detail&fpid=favorites&pid=favorites&idp=999999224D32CD000003AF3A&lang=EN&event=SHM)
@@ -13,7 +9,7 @@ categories:
 - Hur mycket ska jag skriva om det innan? Ointressant? Inte 80/20.
 - Kolla tidigare reports och läs artikeln på instapaper hur man skriver en bra rapport
 
-# Before
+## Before
 
 My preparations pretty much start the night before a race. The routine basically involves picking up the bib, having a look at the "fair", collect all my gear and pack my bag.
 Since I've had some problems with my nipples "skav" I bought a tube of Runner's World vaseline.

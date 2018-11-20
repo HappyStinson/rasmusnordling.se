@@ -1,21 +1,18 @@
 ---
-author: Rasmus Nordling
-comments: true
 date: 2018-10-22
-layout: post
 title: Vasaloppet Open Track 2018 - Race Report
-categories:
 ---
 
-# Vasaloppet 2018
+## Vasaloppet 2018
 
-## Training
+### Training
+
 Stockholms studenters IF
 Stockholm Stadion, Fredriksberg IF
 Rudan 2 times 7 and 10 Feb.
 
+### Equipment
 
-## Equipment
 Sunglasses Bliz Active Pursuit XT 349 SEK
 Wax Skigo multi 99 SEK
 Pole Fischer So Rc Race U 499 SEK
@@ -35,18 +32,20 @@ Enervit energy
 2 rör GT tablets
 2 Sports drink concentrate
 1 Recovery 50 SEK?
-## Services
+
+### Services
+
 Bus transfer 230 SEK
 Waxing Service 800 SEK
 Training with Stockholms Studenters IF 1750 SEK
 
-Vasaloppet Lagom
-
-## Vasaloppet Öppet Spår
+Podcast: [Vasaloppet Lagom](https://lagompod.com) (now Lagom Kondition Podcast).
 
 ### The fair
-Mora
-Picking up the bib …
+
+Mora - Picking up the bib and other stuff.
+
+## Race Day
 
 Sälen
 -17 C

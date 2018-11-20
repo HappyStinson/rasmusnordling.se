@@ -1,36 +1,36 @@
 ---
-author: Rasmus Nordling
-comments: true
 date: 2018-10-22
-layout: post
 title: Vansbro Öppen Älv 2018 - Race Report
-categories:
 ---
 
-#Preparations
+## Preparations
 
 Have continued to listen to the podcast Lagom kondition
 
-##Exercise
+### Exercise
+
 1 pass outside in Eriksdalsbadet 50m pool trying to crawl.
 1 pass outside in Schweizerbadet (?) Open Water trying to swim with my wetsuit.
 
-##Gear
+### Gear
+
 SurfSpot in Kungens Kurva.
 Zone3 Advance 2018 wetsuit
 Zone3 Attack Photochromatic Open Water goggles
 Medevi Ringblomsalva Tea Tree
 Total 2207 SEK
-Startavgift...kolla kvitto mejl, 
+Startavgift...kolla kvitto mejl,
 
-#Race Day
+## Race Day
+
 Breakfast
 4 h Car Ride to Vansbro from Stockholm
 Picking up the envelope and buying some “salva”
 Long que waiting in line for the start…
 Compared to the other races which is held in cities, Vansbro stands out for being such a small and remote community. It was a lot of walking on gravel along the train tracks to get to the start. Charming in its way.
  
-##Race
+### Race
+
 Got water in my mouth
 Hard to crawl
 Rubber smell
@@ -47,22 +47,26 @@ Stretched my calves in the last 500 m and had to rest by the “brygga”
 When I approached the finish I heard the speaker say my name so I gave a little wave.
 Live music believe it was Mr.Big to be with you cover, I gave them the horns and got one back.
 Hard to breathe in wetsuit only shallow breaths
-##Result
+
+### Result
+
 01:18:13
-#Aftermath
+
+### Aftermath
+
 Picture with the medal
 Saw and said hello to Niklas Bergh from the podcast Lagom kondition
 Shower
 FOOD
 
-By for now. The next race in the Swedish Classic Circuit is Lidingöloppet 30 km but before that I’m running Stockholm Half Marathon in early September. Maybe I see you there?
+Bye for now. The next race in the Swedish Classic Circuit is Lidingöloppet 30 km but before that I’m running Stockholm Half Marathon in early September. Maybe I see you there?
 
 It’s a pleasure keeping your body and mind in shape. By sharing some thoughts and experiences from my “active lifestyle” I hope to inspire more people to reflect on their own situation and in the long run improve public health.
 
 Vansbrosimningen is the shortest race in the Swedish Classic Circuit…
-Now I have tried the different challenges and would potentially be a Swedish Classic unless I failed the skiing. 
+Now I have tried the different challenges and would potentially be a Swedish Classic unless I failed the skiing.
 Skiing and swimming has been my weakest spots. Running and cycling seems to be no problem.
 
-I’m glad I decided to do the full races as it has been easier than I imagined. It has only teased my curiosity and I want to continue with the different dicipöones and one day do a full-length triathlon. 
+I’m glad I decided to do the full races as it has been easier than I imagined. It has only teased my curiosity and I want to continue with the different dicipöones and one day do a full-length triathlon.
 
 / Rasmus
