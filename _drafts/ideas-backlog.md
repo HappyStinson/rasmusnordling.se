@@ -10,6 +10,7 @@ Om det hjälper mig kan det vara värt att dela på bloggen och hjälpa andra.
 Dela mina tankar kring resan med GTD och de olika verktygen jag använt
 Genomgång av hur jag använder Todoist idag och lite bilder
 Tips på hur man kan få in Emojis i sina projektnamn https://blog.getemoji.com/emoji-keyboard-mac
+Avsluta med reflektionsfrågor
 
 ## Recension av [Slowly](https://www.getslowly.com/)
 
@@ -132,3 +133,10 @@ finansierar mikrolånbanker, skolbyggnationer och kontraktsbönder
 ger dig en god förväntad avkastning om 15 procent per år.
 1. Årligt kundmöte i Stockholm den 6 november som är nytt och omgjort
 Det årliga mötet för oss kunder är i år planerat till den 6 nov i Stockholm. Det kommer dock vara annorlunda från föregående år med enbart fokus på oss befintliga kunder. Förutom nyheter från året och verksamheten på plats, kommer det även att handla om det ekonomiska hjulet och jag kommer att hålla ett pass om hållbart sparande och impact investing.
+
+## Manage Passwords with Bitwarden
+
+Haft en dålig hantering för mina lösenord... 
+Inlägg om Bitwarden https://www.troyhunt.com/only-secure-password-is-one-you-cant/
+
+Projekt att minimera mina konton, haft en dålig rutin m.m.
