@@ -56,6 +56,15 @@ Något om tobakspolitiken
 Skriva själv mina tankar och reflektioner blir mer personligt än att bara dela en artikel på linkedin
 referens http://www.undp.org/content/undp/en/home/blog/2017/5/24/-Tobacco-a-threat-to-our-oceans.html
 
+Från Brian Tracys bok:
+
+Practice visualization on your goals.
+Create clear, vivid, exciting, emotional pictures of your goals as if they were already a reality.
+See your goal as though it were already achieved. Imagine yourself enjoying the accomplishment of this goal. If it is a car, imagine yourself driving this car. If it is a vacation, see yourself on the vacation already. If it is a beautiful home that you want, see yourself living in a beautiful home.
+In visualizing, take a few moments to create the emotions that would accompany the successful achievement of your goal. A mental picture combined with an emotion has an enormous impact on your subconscious and your superconscious mind.
+Visualization is perhaps the most powerful faculty available to you to help you achieve your goals faster than you ever thought possible.
+When you use a combination of clear goals, combined with visualization and emotionalization, you activate your superconscious mind. Your superconscious mind then solves every problem on the way to your goal. Your superconscious mind activates the Law of Attraction and begins attracting into your life people, circumstances, ideas and resources that will help you to achieve your goals even faster.
+
 ## Mindfulness något
 
 Hur meditation och mindfulness kan hjälpa mot prokrastinering.
