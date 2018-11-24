@@ -1,6 +1,7 @@
 ---
 title: Ny vecka, nya tag!
 category: fun-recreation
+tag: game-development
 ---
 
 Klappa takten alla måndagsbarn, *Bloggfest*, *bloggfest* hela da´n!
@@ -24,9 +25,6 @@ Sen på onsdag blir det till att fixa olika "slut". Det vill säga antingen vinn
 Torsdag är tillägnad "puts av fasaden". Leka Picasso i GIMP och typ leta efter texturer och fina bilder att ha som grafik. Men man får inte glömma ljuden! Kan ju vara trevligt med en liten musikslinga och ett "pling" för varje flagga man hissar :). Animationer är ett stort KANSKE, låter så läskigt tycker jag. Sen på fredag kommer lön och jag förtjänar en stor öl. Innan jag går ut har jag dock planer på att fixa en startskärm / huvudmeny med instruktioner och bakgrundshistoria om våran flaggkille och Flagg-Ann (tack för namnförslaget, anonym).
 
 Det här inlägget blev visst inte så kort ändå, men det går alltid fortare att läsa än vad det tar att skriva så det ska nog inte vara några problem. Säg till annars så får jag väl skriva kortare nästa gång. Eller så slutar ni bara att läsa om det är så besvärligt ;).
-
-Här kommer nu...
-[Länk till spelet](https://dl.dropboxusercontent.com/u/13154661/hug-website/flagfrenzy/flagfrenzy.htm), prova gärna och ge kritik.
 
 Åter till arbetet!
 
