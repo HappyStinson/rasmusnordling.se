@@ -1,17 +1,15 @@
 ---
-author: Rasmus Nordling
-comments: true
 date: 2018-10-22
-layout: post
 title: Habits
-categories:
+category: personal-development
+tag: habit
 ---
 
-# Purpose
+## Purpose
 
 Skriv ner dåliga och bra vanor
 
-# Content
+## Content
 
 Funderade på om jag skulle skriva något på bloggen om mina vanor, eller mer om gapet. Sen läsa Power of Habit och dela kunskap jag lärt mig.
 
@@ -46,7 +44,6 @@ Journal to summarize the day before going to bed
 Gratitude
 I have started a habit where I write down the things during my day that I’m grateful for. According to psychological research (reference) this should increase happiness and well-being. Especially when comparing your situation to someone who has it worse.
 
-
 Play guitar every day...
 
 Vanor är nyckeln till ett rikare liv
@@ -60,4 +57,3 @@ Skulle vilja stretcha och skriva race report oftare efter träning och tävling.
 Find a healthy habit that you want create. Do you want to write/code/create X hours every day? Or keep your to-do list organized and up-to-date?
 Once you choose your habit, identify something you already do every day that you can attach your new healthy habit to. Ask yourself what the triggers are for that activity, then graft your new habit to the same event.
 For example, if you find yourself procrastinating on writing every day, start sitting down to write for 30 minutes as soon as you’ve made your morning cup of coffee. If you tend to let your tasks pile up in your to-do list until they create more stress than relief, try making a habit of checking and re-organizing your tasks at the same times every day — after eating breakfast, before you break for lunch, and before you leave at the end of the day.
-

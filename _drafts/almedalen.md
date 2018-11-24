@@ -1,17 +1,14 @@
 ---
-author: Rasmus Nordling
-comments: true
 date: 2018-10-22
-layout: post
 title: Almedalen
 categories:
 ---
 
-# Purpose
+## Purpose
 
 Behöver inte skriva om Almedalen 2017 specifikt, mer om att jag fick bemöta mina fördomar och att det är lärdomen... Läs artikeln om att skriva bra så vet jag vad som ska ingå här och inte...
 
-# Content
+## Content
 
 Almedalen
 Hello again!
@@ -92,7 +89,6 @@ olle STHLM Panda
 Eget inlägg för löpningen eventuellt...
 sprang 1:05:50 (ca 11 km) första passet inför Lidingöloppet Run Your World Lidingö Saucony
 
- 
 Ons
 Agroforestry - the forgotten superhero of bistånd http://sverigeivarlden.se/onsdag-5-juli
 Agriculture -
@@ -105,7 +101,3 @@ initiative 2022, Camilla Byrinder, Louise Linder, Noura ...
 Max BBQ Sandwich really delicious.
 Stig-Björn Ljunggren, Janne Josefsson
 Kristdemokraternas tal
- 
- 
-
-

@@ -1,8 +1,5 @@
 ---
-author: Rasmus Nordling
-comments: true
 date: 2018-10-22
-layout: post
 title: The Need for Health Benefitting Commercials
 categories:
 ---
@@ -17,7 +14,7 @@ At least in Stockholm there was an increase in the amount of propaganda targeted
 
 Now, I'm not a big fan of the poison that is tobacco nor the industry behind it that kills 6 million people. Every year.
 
-This week is asthma week ? and since I have astma which is a cronic desease and I want to 
+This week is asthma week ? and since I have astma which is a cronic desease and I want to
 
 direct this message to hälsominister <namn>, the different commercial broadcasting networks in Sweden to
 highlight the importance of mindfully choosing the commercials that's a healthier choice for the population
@@ -33,11 +30,9 @@ So again, please tell me what your commercials is contributing to our society an
 
 If I do get a response, I will update this post accordingly for the sake of transparancy.
 
-/ Rasmus 
-
+/ Rasmus
 
 Behöver kolla upp kontaktinfo till bonnier m.m. för att skicka brevet och sen posta inlägget... eller hur jag väljer att göra-
 Be någon läsa igenom det?
-
 
 Don’t try to control what you can’t control. When we try to control others, or obsessively control our surroundings, we are trying to control things that aren’t in our control. This will inevitably end up in failure, frustration, and conflict with others. Instead, accept that we can’t control these things, and flow around the obstacles with a minimum of effort.

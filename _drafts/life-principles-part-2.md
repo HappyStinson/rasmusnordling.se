@@ -1,12 +1,7 @@
 ---
-author: Rasmus Nordling
-comments: true
 date: 2018-10-22
-layout: post
-link: 
-slug: life-principles-part-2
 title: To live according to my life principles - part 2
-categories:
+category: personal-development
 ---
 
 Hello again,
@@ -44,12 +39,16 @@ I can’t change the past but I can work harder going forward.
 sometimes ing
 This is dedication with a lot of energy being used in a bad way.
 Even though I target smoking, which the large majority dislikes I have to think about how I express myself. A few have already removed me from their Facebook contacts and I totally see why.
-4. Step out of my comfort zone as often as possible and face my fears regularly
-5. Boy scout rule
-6. Always choose the healthier option
-7. Make a difference for others and share my knowledge in a polite way when possible
+
+Principles I haven't covered yet
+
+- Step out of my comfort zone as often as possible and face my fears regularly
+- Boy scout rule
+- Always choose the healthier option
+- Make a difference for others and share my knowledge in a polite way when possible
+
 Nämn tretton värderingar, några där som jag gillade… challenge the world/your self…
- 
+
 That was all for now, I have to practice on being more agile in my life and by breaking this up into smaller posts I can teach myself that publishing small “drafts” perhaps isn’t so scary.
 Hopefully it will help me not procrastinating so much and I hope you all look forward to more content coming up!
 As always, leave a comment if you have any questions, feedback or just want to contact me.

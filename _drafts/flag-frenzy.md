@@ -1,13 +1,11 @@
 ---
-author: Rasmus Nordling
-comments: true
 date: 2018-10-22
-layout: post
 title: Flag Frenzy
-categories:
+category: fun-recreation
+tags: [project, game-development]
 ---
 
-# Translate to English before publishing
+## Translate to English before publishing
 
 Så var juli månad över och dags för spelsläpp. Lämnar denna månaden bakom mig och blickar framåt istället mot augusti och [Ludum Dare 30](http://www.ludumdare.com/compo/). Men först ett sista inlägg om mitt senaste spel som ni känner till vid det här laget: Flag Frenzy.
 

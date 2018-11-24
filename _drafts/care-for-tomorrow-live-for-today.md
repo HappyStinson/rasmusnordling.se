@@ -1,17 +1,15 @@
 ---
-author: Rasmus Nordling
-comments: true
 date: 2018-10-22
-layout: post
 title: Care for tomorrow or live for today?
-categories:
+category: spiritual
+tags: [environment, sustainable]
 ---
 
-# Purpose
+## Purpose
 
 Share my thoughts about the environment seminars and why people should care more...
 
-# Content
+## Content
 
 This is of course a rhetorical question but what a nice title for this post.
 
@@ -19,15 +17,13 @@ Too many people live their lives with such a disrespect to their surrounding and
 
 *Anyway*, onwards to the real topic.
 
-
-
 In the past week I have deepened my knowledge in the environmental issues.
 
 It's ironic how we're supposed to commute more when the commuting service sucks ass where I live. It should be owned and run by the government and not some business with their only goal of making profit.
 
 Live minimalistic
 
-Bra sökmotor för miljön https://www.ecosia.org/
+Bra sökmotor för miljön <https://www.ecosia.org/>
 
 Eva hojsner (v), samtalet filmas kolla yt. Jens Holm plus Åsa Romson "kloka klimatdebattörer". Dark mountain.
 Oljeberoende: äter du bröd/dricker kaffe?
