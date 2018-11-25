@@ -62,4 +62,8 @@ Har slutat kolla mejl på telefonen… inbox zero…
 
 May 2 , deletion of Fantasy GP account
 
+Mr. Money Mustache
+
+[Frugality](https://www.mrmoneymustache.com/2012/03/07/frugality-the-new-fanciness/)
+
 / Rasmus
