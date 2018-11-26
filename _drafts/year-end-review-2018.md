@@ -24,6 +24,8 @@ Q2
 
 # Looking back at 2018
 
+This is how I experienced 2018: Really proud of myself for doing the Swedish Classic. I've experienced both physical and mental growth this year.
+
 Answering the reflection questions from Travis Robertson. [Link](http://hej.se).
 
 Oktober-oktober
@@ -77,6 +79,7 @@ Thåström sveriges Jack White. Såg ut som Cardinal Copia i den vita kavajen.
     7. Köp nödvändig utrustning. Kolla upp tävlingskalender för att följa ut något passande lopp. Sprint som första distans?
     8. Skapa konto på olika ställen där det är möjligt att träffa singlar
     9. Var mer proaktiv och fortsätt höra av mig, hitta på roliga aktiviteter som inte bara innebär utgång och alkohol
+    10. Ask for help and advice
 
 Merry Christmas!
 
