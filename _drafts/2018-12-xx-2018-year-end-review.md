@@ -1,11 +1,13 @@
 ---
 date: 2018-11-10
-title: Year End Review 2018
+title: 2018 Year End Review
 ---
 
 Todo
 
-- kopiera strukturen från tidigare år
+- (kopiera strukturen från tidigare år)
+- Läs några artiklar för att få inspiration på hur jag ska göra min review
+- Lägg till rubriker löpande som jag reflekterar
 - Läs igenom vad jag skrev förra året
 - Reflektera och definiera, korrigera där det behövs
 
@@ -15,7 +17,7 @@ Q2
   - ökad integritet
   - steg jag gjort för att komma bort från Google
   - [YT](https://www.youtube.com/watch?v=AmaM-Mar_oA)
-  - Alternativ till Google Authenticator för TOTP 2FA [Duo](https://guide.duo.com/third-party-accounts) 
+  - Alternativ till Google Authenticator för TOTP 2FA [Duo](https://guide.duo.com/third-party-accounts)
 
 - Föreläsningen med Michael Kröger, tankar om boken fattardu
 - Specialized Body Geometry bike fit [video](https://www.youtube.com/watch?v=t6CXi0RdQqE). [Mer info](https://www.specializedconceptstore.co.uk/body-geometry-fit)
@@ -52,7 +54,7 @@ Oktober-oktober
 
 # Konserter
 
-Thåström sveriges Jack White. Såg ut som Cardinal Copia i den vita kavajen.
+Thåström Sveriges Jack White. Såg ut som Cardinal Copia i den vita kavajen.
 
 # Looking forward to 2019
 
