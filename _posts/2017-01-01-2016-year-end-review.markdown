@@ -1,8 +1,6 @@
 ---
 title: 2016 Year End Review
 ---
-# The year of *change*
-
 Once again we enter a new year and in this post I reflect on the changes that happened in my life 2016, both good and bad.
 One of my many inspirational people is Leo Babauta who among other things got me interested in meditation and Getting Things Done. As a good habit I will do my annual review and post it on this blog. If you're interested in doing the same thing I highly recommend you read this [post](https://zenhabits.net/yearend/) by Leo.<!--more-->
 
@@ -60,7 +58,6 @@ Lidingöloppet
 
 [![Me posing at the photoshoot](/assets/images/me-2016.jpg)](/assets/images/me-2016.jpg)
 Me posing at the photoshoot
-More pictures from the photoshoot ...
 
 ## Spiritual
 

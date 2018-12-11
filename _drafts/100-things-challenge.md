@@ -21,7 +21,9 @@ tag: minimalism
 
 2018 year of mnmlism (länk till wikipedia?)
 
-Remove excess clutter that doesn't bring value or joy. Digital detox of everything from subscriptions to Facebook. 
+reduce, reuse, recycle.
+
+Remove excess clutter that doesn't bring value or joy. Digital detox of everything from subscriptions to Facebook.
 
 Is it possible to limit my possessions to 100 things and sell, donate, recycle everything else?
 
@@ -33,9 +35,9 @@ Kolla också Project 333, välj ut 33 plagg/smycken/skärp att spara
 
 1 year dedicated to the Pursuit of Simplicity
 
-Learning to say *No*. I can't even be mad or disappointed anymore when people I ask for help says no. "Yes takes time. No makes time". 
+Learning to say *No*. I can't even be mad or disappointed anymore when people I ask for help says no. "Yes takes time. No makes time".
 
-Hiding everything you dont wanna see. Eliminate excess and focus on the essentials.
+Hiding everything you don't wanna see. Eliminate excess and focus on the essentials.
 
 I have thought this through and haven't seen any obstacles.
 

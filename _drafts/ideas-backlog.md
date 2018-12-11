@@ -1,4 +1,7 @@
-# Blog post ideas
+---
+date: 2018-11-25
+title: Backlog of Blog post ideas
+---
 
 ## Rutin för en bättre Weekly Review i Todoist
 
@@ -28,7 +31,7 @@ Iranier som bor i Holland
 
 Läs [James Clear Integrity Report](https://www.instapaper.com/read/1014975795) för inspiration på hur jag ska skriva inlägget
 Länka till https://gettingthingsdone.com/wp-content/uploads/2014/10/2016-Levels-of-Your-Work.pdf
-Ta screenshot på Todoist projekt när jag är klar 
+Ta screenshot på Todoist projekt när jag är klar
 
 ## Publicera ett blogginlägg på Dream BIG med tips på svenska och engelska poddar
 
@@ -72,10 +75,6 @@ Hur meditation och mindfulness kan hjälpa mot prokrastinering.
 > Any action done with awareness is meditation. Meditation means to be fully aware of our actions, thoughts, feelings and emotions. - Unknown
 
 https://itunes.apple.com/se/podcast/psykologipodden/id1125776471?l=en&mt=2&i=1000373978637
-
-## 100 Things
-
-Dela listan med bilder. Tema reduce, reuse, recycle.
 
 ## Jack of all trades
 
@@ -149,3 +148,9 @@ Haft en dålig hantering för mina lösenord...
 Inlägg om Bitwarden https://www.troyhunt.com/only-secure-password-is-one-you-cant/
 
 Projekt att minimera mina konton, haft en dålig rutin m.m.
+
+## En Svensk Klassiker 2018/2019
+
+A big post to basically contain all my race reports and experiences.
+
+Kolla kvittot från Alewalds och skriv upp alla inköp i Utgifter för att ha till inlägget om Vasaloppet/klassikern
