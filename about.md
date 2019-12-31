@@ -20,10 +20,15 @@ I will be posting whenever something is worth sharing and I feel like writing. 
 
 ### Hello! I'm Rasmus. On a journey to accomplish my Life Goals. 🤘
 
-Happy and proud minimalist from Sweden 🇸🇪 who likes playing the guitar and making music 🎸. I do some running and races 🏃‍♂️ 🏅. At work and sometimes at home I write code on my MacBook or whatever computer is close 👨‍💻. Care for health, fitness and the environment 😁.
+Happy and proud minimalist from Sweden 🇸🇪 who likes playing the guitar and making music 🎸. I do some running and races 🏃‍♂️ 🏅. Care for health, fitness and the environment 😁.
 
-Oh and by the way. Unless you didn't notice, I really like to use them cute [emojis](https://en.wikipedia.org/wiki/Emoji).
+I have a Bachelor's Degree in Computer Science and Game Programming from Blekinge Institute of Technology and have been working as a Web Developer for the past couple of years.
 
-![Rasmus Nordling portrait](/assets/images/rasmus.jpg)
+From 2019 I'm pursuing my new career in the music industry and currently I live in Brisbane, Australia 🇦🇺 where I study [Songwriting at JMC Academy](https://www.jmcacademy.edu.au/courses/songwriting).
+
+Oh and by the way. Unless you didn't notice, I really like to use them cute [emojis](https://en.wikipedia.org/wiki/Emoji). You will see them show up on this site and in my posts.
+
+![Rasmus Nordling in 2019](/assets/images/rasmus-profile-2019.jpg)
+Rasmus Nordling in 2019.
 
 / Rasmus

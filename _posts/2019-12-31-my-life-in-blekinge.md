@@ -4,6 +4,8 @@ title: My Life in Blekinge (2010-2016) - Decade Review part 1
 Hello from a warm Brisbane! We are about to enter another year but also a new decade. I would like to take this opportunity and review my past ten years and share some of it in this post. This decade has been very fun and varied, yet demanding at the same time.  
 In this first part I will take you through the first half of 2010s where I spent most my time in Blekinge.<!--more-->
 
+If you don't know me that well or want to know what my latest adventure is, you can check out the page [about Dream BIG and Rasmus](/about).
+
 ## My Life in Blekinge (2010-2016)
 
 ### "Studying"
@@ -91,12 +93,12 @@ Rasmus in 2014.
 [![Rasmus Zingo Collection in 2016](/assets/images/zingo-cans-2016.jpg)](/assets/images/zingo-cans-2016.jpg)
 For some reason I collected Zingo cans 🤔🥤.
 
-Regards to my personal development I tried becoming a vegetarian, meditation practice at another and lastly skipping alcoholic beverages. I managed to stick with it for about 12 weeks before I broke the habit.
+Regards to my personal development I tried becoming a vegetarian, a meditation practice, and skipping alcohol. I managed to stick with it for about 12 weeks before I broke the habit. I approached one habit at a time to increase my odds but maybe I wasn't motivated enough. I did come back to meditation later in the decade though...
 
 ## Conclusion
 
 This is the first part of my decade review. The next posts in the series are Second Time in Stockholm (2016-2019) and Moving to Brisbane, Australia (2019).
 
-Hope you got something out of skimming through these posts. I sure got many chuckles traveling down memory lane.
+Hope you have a good new year's! I sure got many chuckles traveling down memory lane.
 
 / Rasmus
