@@ -1,5 +1,6 @@
 ---
 title: 2016 Year End Review
+updated: 2019-05-06
 ---
 Once again we enter a new year and in this post I reflect on the changes that happened in my life 2016, both good and bad.
 One of my many inspirational people is Leo Babauta who among other things got me interested in meditation and Getting Things Done. As a good habit I will do my annual review and post it on this blog. If you're interested in doing the same thing I highly recommend you read this [post](https://zenhabits.net/yearend/) by Leo.<!--more-->
@@ -54,10 +55,10 @@ Lidingöloppet
 - **Lyric workshop:** Went to a 3 part workshop hosted by [Jonelle Vette](https://www.vettemusic.com/). I got into object writing and have some samples that might turn into great songs. I really focused on writing and playing guitar during these weeks. I should get that mood and productivity back. _FAWM_ is only a month away.
 - **Escape Room:** One of my favorite shows is Prison Break and for an hour I got to be Michael Scofield. Thanks to my boss at Emric who brought us to an escape room puzzle after work. They had several puzzles and I definitely will return in 2017 for more escaping menace.
 - **Trampoline:** Everybody likes bouncing on the trampoline and I spent 2 hours at [BOUNCE](https://www.youtube.com/watch?v=5x2b5-Esf5Q) in Stockholm. It's a different kind of workout and I will be back with more friends for some bouncing joy!
-- **Photoshoot:** Spent a day with Mathias as his model for some shots.
+- **Photoshoot:** Spent a day with Mathias as his model for some shots. [More photos by Mathias](https://www.facebook.com/MathiasAPhotography/).
 
-[![Me posing at the photoshoot](/assets/images/me-2016.jpg)](/assets/images/me-2016.jpg)
-Me posing at the photoshoot
+[![Me at the photoshoot first pose](/assets/images/rasmus-model-mathias-andersson-2016-1.jpg)](/assets/images/rasmus-model-mathias-andersson-2016-1.jpg)
+[![Me at the photoshoot second pose](/assets/images/rasmus-model-mathias-andersson-2016-2.jpg)](/assets/images/rasmus-model-mathias-andersson-2016-2.jpg)
 
 ## Spiritual
 

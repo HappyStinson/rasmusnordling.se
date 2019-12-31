@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Goals
-permalink: /goals/
+title: Dreams
+permalink: /dreams/
 ---
 
 On this page I'll list all the things I would like to achieve during my life time. It will be the backbone of this entire blog and most of my future posts will be related to achieving things on this list.
 
-I have decided to organize my goals into [nine life areas](https://travisrobertson.com/sales-marketing/9-life-areas-goal-setting-2/) as proposed by Travis Robertson.
+I have decided to organize my dreams into [nine life areas](https://travisrobertson.com/sales-marketing/9-life-areas-goal-setting-2/) as proposed by Travis Robertson.
 
 ## Business/Career
 
@@ -14,6 +14,25 @@ I have decided to organize my goals into [nine life areas](https://travisroberts
 - Work and travel for a year in Australia
 - Become a Microsoft MVP
 - Participate in a programming competition and share my experience
+
+### Songwriting
+
+- Become a songwriter
+- At least one of my songs gets played on the radio
+- Produce a cover music album
+- Make my own music album
+- Perform at a music festival
+- Play my music for 1000 people
+- Become a performing musician and play at 20 venues
+- Learn to play the piano
+- Learn to play harmonica
+- Make a music video for one of my songs
+- Train my musical hearing to be able to more easily play along with songs
+- Perform my original songs at the big stage at Gröna Lund
+- Write a timeless song. One that people still listens to and is relevant after two decades i.e. 20 years
+- Produce a music video with Jonas Åkerlund
+- Get my success story featured on the wall in JMC Academy's lounge at 69 and 75 Grey Street, Brisbane
+- Perform at the Bluebird Café in Nashville
 
 ## Family
 
@@ -39,6 +58,7 @@ I have decided to organize my goals into [nine life areas](https://travisroberts
 
 - Test every game in the book 1001 Video Games You Must Play Before You Die
 - Do [One Game A Month](https://onegameamonth.com/) for 12 consecutive months
+- Attend [Tamworth Country Music Festival](https://en.wikipedia.org/wiki/Tamworth_Country_Music_Festival)
 
 ### Adventure
 
@@ -54,6 +74,10 @@ I have decided to organize my goals into [nine life areas](https://travisroberts
 - Horseback Ride
 - Water Ski
 - [Tandem skydiving](https://en.wikipedia.org/wiki/Tandem_skydiving)
+- Race at the [Goodwood Festival of Speed](https://en.wikipedia.org/wiki/Goodwood_Festival_of_Speed) annual hill climb
+- Drive a [Jet Ski](https://en.wikipedia.org/wiki/Jet_Ski)
+- Drive a Suzuki Escudo Pikes Peak Edition up the hill at Pikes Peak in Colorado, USA
+- Ride a bike up the Stelvio Pass
 
 ### Travel
 
@@ -93,7 +117,7 @@ I plan to visit at least a new country annually and to have completed my trip ar
 
 ## Health & Fitness
 
-My overall goal is to earn 100 medals from different physical challenges. I'm currently at 24%. Below is the races I've done and would like to do. I'm in no way a Superman but with enough time and determination you'll be able to achieve unimaginable things. It all starts here. Today.
+My overall goal is to earn 100 medals from different physical challenges. I'm currently at 26%. Below is the races I've done and would like to do. I'm in no way a Superman but with enough time and determination you'll be able to achieve unimaginable things. It all starts here. Today.
 
 - ~~Farsta Fun Run~~ Completed on 7 May 2016
 - ~~Finansloppet~~ Completed on 31 August 2016
@@ -107,7 +131,7 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - ~~STHLM 10~~ Completed on 15 June 2017
 - ~~Hässelbyloppet~~ Completed on 8 October 2017
 - ~~STHLM Above/Below~~ Completed on 21 October 2017
-- ~~Stockholm Santa Run~~ Completed on 10 December 2017
+- ~~Stockholm Santa Run~~ Completed on 10 December 2017 and 9 December 2018
 - ~~Winter Run~~ Completed on 27 January 2018
 - ~~Varvetmilen Danderyd~~ Completed on 27 March 2018 (47:51)
 - ~~Roslagsvåren 135 km~~ Completed on 6 May 2018 (6:54:53)
@@ -117,6 +141,8 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - ~~Gudö - Run of Hope~~ Completed on 8 September
 - ~~Ramboll Stockholm Halvmarathon~~ Completed on 15 September (1:48:06)
 - ~~STHLM Xploration Run~~ Completed on 20 October 2018
+- Lidingöloppet MTB 63 km Completed on May 4 2019 (04:09:45)
+- Cykelvasan 90 (MTB 94 km) Completed on August 10 2019 (8:20:28)
 
 - [A Swedish Classic](https://www.ensvenskklassiker.se/en)
   - ~~Vätternrundan~~ Completed on 16 June 2018
@@ -190,6 +216,7 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - [Esbo Strandmaraton](https://www.rantamaraton.fi/pa-svenska/)
 - [KolmårdsRundan](http://www.kolmardsrundan.se/)
 - [BAMM (Björkliden Arctic Mountain Marathon)](http://bjorkliden.com/en/bamm/om-bamm/)
+- [Icebug Frozen Lake Marathon](http://icebugx.com/frozenlake/)
 
 - No Alcoholic Spirits for a year
 
@@ -212,22 +239,6 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - Learn Russian
 - Learn to dive
 - Reach Enlightened Karma status in [Todoist](https://todoist.com)
-
-### Songwriting
-
-- Become a songwriter
-- At least one of my songs gets played on the radio
-- Produce a cover music album
-- Make my own music album
-- Perform at a music festival
-- Play my music for 1000 people
-- Become a performing musician and play at 20 venues
-- Learn to play the piano
-- Learn to play harmonica
-- Make a music video for one of my songs
-- Train my musical hearing to be able to more easily play along with songs
-- Perform my original songs at the big stage at Gröna Lund
-- Write a timeless song. One that people still listens to and is relevant after two decades i.e. 20 years
 
 ### Comfort Zone Challenges
 
@@ -261,6 +272,7 @@ I won't be limited by my fears.
 
 - Have a friend in every continent
 - ~~Engage in other activities instead of social media for one month~~ Removed my Facebook and Twitter accounts in 2018 👍
+- Visit 10 people from [Slowly](https://getslowly.com)
 
 ## Spiritual
 
