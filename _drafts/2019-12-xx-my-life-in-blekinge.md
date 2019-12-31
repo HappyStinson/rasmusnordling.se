@@ -20,20 +20,15 @@ This was my first time living by myself and away from the family. I didn't bring
 [![Rasmus apartment in Ronneby 2010](/assets/images/ronneby-bathroom.jpg)](/assets/images/ronneby-bathroom.jpg)
 
 Since the Ronneby Campus was closing, me, my friends, and girlfriend at the time moved to the Minerva apartments in Karlskrona.
-When the campus in Ronneby closed, the two organisations 6& (Ronneby [Sexmästeri](https://sv.wikipedia.org/wiki/Sexm%C3%A4steri)) and 6:- (Carlskrona Sexmästeri) would merge and a group of sixteen handpicked students were assigned the task to form a new organisation. Myself along with my fifteen friends came up with the name [Sexistenz](http://sexistenz.bthstudent.se/). It's the group responsible for organizing events for the fellow students. The most important mission of the year is the Introduction Week. We were listening to [Narcotic](https://www.youtube.com/watch?v=PJ7E40Ec5ec) and [Electric](https://www.youtube.com/watch?v=Jl_5NHTvDAI) on repeat the whole week while doing all sorts of fun and crazy stuff.
-Sexistenz is tied to the students' union I suppose. We made decisions on how to look, what traditions to keep and what new ones to create. We all had different skillsets and I was SpexMästare, which I guess meant my skillset included being creative, spontaneous, and make people have a good time. In reality I helped the others with all kinds of work and managed to get some sponsorship from local companies.
+When the campus in Ronneby closed, the two organisations 6& (Ronneby [Sexmästeri](https://sv.wikipedia.org/wiki/Sexm%C3%A4steri)) and 6:- (Carlskrona Sexmästeri) would merge and a group of sixteen handpicked students were assigned the task to form a new organisation. Myself along with my fifteen friends came up with the name [Sexistenz](http://sexistenz.bthstudent.se/). It's one of the groups responsible for organizing events for the fellow students.  
+We voted on a new outfit and kept the best traditions, along with making new ones. We all had different skillsets and I was SpexMästare, which I guess meant my skillset included being creative, spontaneous, and make people have a good time. In reality I helped the others with all kinds of work and managed to get some sponsorship from local companies.  
+The most important mission of the year (my opinion) is the Introduction Week for new students. I believe all of us planning the introduction in 2010 were 80's and 90's kids so our anthems became [Narcotic](https://www.youtube.com/watch?v=PJ7E40Ec5ec) and [Electric](https://www.youtube.com/watch?v=Jl_5NHTvDAI), which we listened to on repeat the whole week while doing all sorts of fun and crazy stuff.
 
 [![Rasmus with Sexistenz in 2010](/assets/images/sexistenz-2010.jpg)](/assets/images/sexistenz-2010.jpg)
 
 [![Rasmus with Sexistenz in 2010](/assets/images/sexistenz-2-2010.jpg)](/assets/images/sexistenz-2-2010.jpg)
 
-In the summer I was back home visiting my family and met a funny photographer/musician named Mathias Andersson. We shared a couple of drinks and he was kind enough to take pictures of me.
-You can see more of his photos on [his Facebook page](https://www.facebook.com/MathiasAPhotography/).
-[![Rasmus in 2010](/assets/images/rasmus-2010.jpg)](/assets/images/rasmus-2010.jpg)
-
-In October 2010 I turned 20 and took my first of many trips to the liquor store, Systembolaget.
-
-After handing down the responsibilities to the next generation of Sexistenz, I was able to join other groups and got approached by the "quasi" (in lack of a better word) [Kååtha Kamrater](https://kaatha-kamrater.se/). I really enjoyed their company and got inducted along with "Molle", "Smulan" and "Lill-Rauken", all from Sexistenz, to get my own camo vest. We have many good memories together. Some nights were even to good to remember.
+After handing down the responsibilities to the next generation of Sexistenz, I was able to join other groups and got approached by the "quasi" (in lack of a better word) [Kååtha Kamrater](https://kaatha-kamrater.se/). I really enjoyed their company and got inducted along with "Molle", "Smulan" and "Lill-Rauken", all from Sexistenz, to get my own camo vest. We have many good memories together. Some nights were even to good to be remembered.
 
 [![Rasmus in 2011](/assets/images/rasmus-kk-2011.jpg)](/assets/images/rasmus-kk-2011.jpg)
 
@@ -43,105 +38,60 @@ Chili, Ms Big, Jesus Fistus and Lill-Rauken from Kååtha Kamrater.
 When we weren't in Blekinge we would take trips to other Swedish cities such as Kalmar (SPIIK Bandy), Halmstad (Hjärtslaget) and Visby (Absolut Gotland). I was also in Denmark's capital Copenhagen a couple of times to visit the the Carlsberg museum (Øhlreise).
 
 [![Rasmus in May 2011](/assets/images/rasmus-may-2011.jpg)](/assets/images/rasmus-may-2011.jpg)
-Picture from Absolut Gotland 2011.
+Rasmus at Absolut Gotland in May 2011.
 
 After Minerva I moved to Annebo with Christopher and Mikael Sundström, both classmates of mine. When they both got employed in Stockholm, I moved in with my best friend Robin instead.
 After a while he moved out and I lived by myself until March 2016 when I moved back to Stockholm.
 
 [![Rasmus with Christopher and Robin in 2011](/assets/images/rasmus-christopher-robin-2011-01-16b.jpg)](/assets/images/rasmus-christopher-robin-2011-01-16b.jpg)
-Me with Christopher and Robin in 2011.
+Rasmus with Christopher and Robin in January 2011.
 
-Emil S ... värt att nämna? Kanske bara lite kort...
+[![Rasmus with Christopher and Robin in 2011](/assets/images/rasmus-rotundan.jpg)](/assets/images/rasmus-rotundan.jpg)
+Rasmus at Rotundan holding the pin "I'm So HAPPY I Could Shit", probably a Sexistenz reunion.
 
-In 2012 I travelled to USA with my friend Emil A to visit New York, Washington D.C, and the [Orion Music + More](https://en.wikipedia.org/wiki/Orion_Music_%2B_More) festival in Atlantic City.
-
-
-
-During this time I was a full-time student until 2012 when the expected graduation would have been. I still had a couple of courses and exams to pass before I could get my degree.
-Worked part-time at Student IT Helpdesk at BTH between 2011 and 2013.
-
-distance course in web development in PHP...
-
-
-
-
-
-
-
-[my itch.io site](https://rasmusnordling.itch.io/) where you can see and download my games.
-
-
-Game Jams, länka till itch...
-
-Downhill Willy, Flag Frenzy och mer? #1GAM One Game a Month.. NGJ något år när jag bodde i Blekinge? Right? Leek?
-
-See [my post about Downhill Willy]({% post_url 2014-07-15-downhill-willy %}).
-
-"Micke" from Sexistenz, who studied a master Software Engineering.in Game Programming
-
-
-
-
-
-
-
-
-
-[![Rasmus in September 2011](/assets/images/rasmus-sept-2011.jpg)](/assets/images/rasmus-sept-2011.jpg)
-
-Back in 2013 I had long hair that I don't even remember having 😂.
-[![Rasmus in March 2013](/assets/images/rasmus-march-2013.jpg)](https://www.instagram.com/p/XN0mDwp_ZM/?igshid=4v34yg6fdmw7)
-
-During the summer of 2014. Me and Robin went on an all-inclusive holiday to Alanya, Turkey! 🇹🇷
-[![Rasmus in Alanya 2014](/assets/images/rasmus-alanya-2014.jpg)](/assets/images/rasmus-alanya-2014.jpg)
+During all this time I was a full-time student until 2012 when the expected graduation would have been. This was the whole reason I moved to Blekinge in the first place. I still had a couple of courses and exams to pass before I could get my degree. I swapped one of the courses for an online based course in web development taught by Mikael Roos (also at BTH). The assignments we did are probably available on some FTP somewhere.  
+I also worked part-time at Student IT Helpdesk at BTH between 2011 and 2013 until I got my job at Wise IT.
 
 ### "Working"
 
-My first full-time position was as an IT Support Technician at Wise IT. I was providing user support of an application for the Swedish Coast Guard. Later I would join CGI and split my responsibilities between one part support (which turned into more Service Desk work), and one part back-end web development in C# and ASP.NET.  
+My first full-time position was as an IT Support Technician at Wise IT. I was providing user support of an application for the Swedish Coast Guard. I was pretty sick at school at this point and took a sabbatical where I just worked. Later I would join CGI and split my responsibilities between one part support (which turned into more Service Desk work), and one part back-end web development in C# and ASP.NET.  
 During my time at CGI I also did a shorter gig helping another government agency (National Board of Housing, Building and Planning). This time with the front-end in JavaScript (AngularJS).
+
+I got my degree in 2015 and then started looking for other opportunities in Stockholm.
 
 [![Rasmus working in Servicedesk 2014](/assets/images/rasmus-servicedesk-2014.jpg)](/assets/images/rasmus-servicedesk-2014.jpg)
 
+### "Living"
 
+In the summer of 2010 I was back home visiting my family in Stockholm and met a funny photographer/musician named Mathias Andersson. We shared a couple of drinks and he was kind enough to take pictures of me.
+You can see more of his photos on [his Facebook page](https://www.facebook.com/MathiasAPhotography/).
+[![Rasmus in 2010](/assets/images/rasmus-2010.jpg)](/assets/images/rasmus-2010.jpg)
 
+In October 2010 I turned 20 and took my first of many trips to the liquor store, Systembolaget.
 
+[![Rasmus in September 2011](/assets/images/rasmus-sept-2011.jpg)](/assets/images/rasmus-sept-2011.jpg)
+Rasmus at a party in September 2011 🎸.
 
+In 2012 I travelled to USA 🇺🇸 with my friend Emil A to visit New York, Washington, D.C., and the [Orion Music + More](https://en.wikipedia.org/wiki/Orion_Music_%2B_More) festival in Atlantic City. We also went in to a casino, flew helicopter, went on a speed boat, drank beers and ate at [White Castle](https://en.wikipedia.org/wiki/White_Castle_(restaurant)). Just normal stuff young guys do I suppose 😉🍺.
 
+[![Rasmus in March 2013](/assets/images/rasmus-march-2013.jpg)](https://www.instagram.com/p/XN0mDwp_ZM/?igshid=4v34yg6fdmw7)
+Back in 2013 I had long hair that I don't even remember having 😂.
+
+I ran in to Emil S at BTH and later Rotundan, a guy I recognized from a previous school in Stockholm. We quickly became friends and shared many beers and laughs together during the years we both stayed in Karlskrona.
+
+I did manage to work on some games as well. Feel free to visit [my itch.io site](https://rasmusnordling.itch.io/) where you can see and download my games. I plan to upload more of my old stuff at some point.
+Downhill Willy, which I did together with "Micke" from Sexistenz, is probably the most popular one we did. See [my post about Downhill Willy]({% post_url 2014-07-15-downhill-willy %}).
+
+[![Rasmus in Alanya 2014](/assets/images/rasmus-alanya-2014.jpg)](/assets/images/rasmus-alanya-2014.jpg)
+During the summer of 2014. Me and Robin went on an all-inclusive holiday to Alanya, Turkey! 🇹🇷
 
 [![Rasmus in 2014](/assets/images/rasmus-spex-2014.jpg)](/assets/images/rasmus-spex-2014.jpg)
+Rasmus in 2014.
 
 [![Rasmus Zingo Collection in 2016](/assets/images/zingo-cans-2016.jpg)](/assets/images/zingo-cans-2016.jpg)
-For some reason I collected Zingo cans...
+For some reason I collected Zingo cans 🤔🥤.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Meditation 44 Practice?
-
-Vegetarian, Sober...
-
-### MISC?
-
-USA med Emil A.
-Alanya Skogis
-
-
+Regards to my personal development I tried becoming a vegetarian, meditation practice at another and lastly skipping alcoholic beverages. I managed to stick with it for about 12 weeks before I broke the habit.
 
 ## Conclusion
 

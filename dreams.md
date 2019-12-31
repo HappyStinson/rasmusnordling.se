@@ -255,13 +255,14 @@ I won't be limited by my fears.
 - Doing somersault on/from trampoline and diving board
 - [Dropping in](https://www.thoughtco.com/how-to-drop-in-on-skateboard-3002972) on a skateboard ramp
 - Parachute jumping
-- Perform music in front of an audience
+- Perform music in front of an audience (I have started to do this regularly since I began studying at JMC Academy)
   - Perform music in the public (Busking)
 - Donate blood
 - Fear of failure
 - Discomfort to come late
 - Hold a presentation in front of a bigger crowd
 - Talk to strangers (especially girls), in real life...
+- Take an ice bath through a hole in the ice
 
 ## Romance
 
