@@ -9,4 +9,4 @@ list_title: "Latest stuff I've written"
 # Hej! 👋
 
 I'm glad you found your way to my personal website and blog. Head over to [About](/about) to read about the background behind this site, and also a bit about myself.
-Or dive right into my [Goals](/goals) if you're looking for some inspiration.
+Or dive right into my [Dreams](/dreams) if you're looking for some inspiration.

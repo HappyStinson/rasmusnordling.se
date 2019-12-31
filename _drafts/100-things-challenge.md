@@ -47,33 +47,36 @@ I don't waste my time and energy on worrying about the unknown future if I can a
 
 Instruments/music gear
 
-1. Gibson Explorer electric guitar
-2. Gig bag for Gibson Explorer
-3. Hard case for Gibson Explorer
-4. Gibson SG electric guitar
-5. Gig bag for Gibson SG
-6. Greg Bennett acoustic western guitar
-7. Gig bag for acoustic guitar
-8. Epiphone Thunderbird bass guitar
-9. Gig bag for bass guitar
-10. Capo acoustic guitar
-11. Capo electric guitar
-12. Guitar picks
-13. JOYO Clip-on tuner JT-01 The 8th Anniversary Tuner
-14. Line-6 POD Xt guitar effects
-15. Rocktron 50 W guitar amplifier
-16. Microphone stand K&M
-17. K&M Pop filter
-18. KRK Rokit 5" Studio Monitors
-19. SONY Dynamic Stereo Headphones MDR-7506
-20. SHURE SM57 Microphone
-21. Note stand
-22. Monitor stand
-23. Guitar strings
-24. Killnoise ear plugs
-25. Focusrite Scarlett 2i4 audio interface
-26. Guitar cables ¼ " jack
-27. You Rock Guitar 2nd Generation MIDI Guitar
+1. Gibson Explorer Classic White electric guitar
+2. Gibson SG Special 120th Anniversary Walnut electric guitar
+3. Greg Bennett acoustic western guitar
+4. Kapok classical (nylon string) guitar
+5. Epiphone Thunderbird PRO-IV Vintage Sunburst bass guitar
+6. M-AUDIO MIDI Keyboard Oxygen 49
+7. M-AUDIO Keystation Mini 32 USB Keyboard Controller
+8. Hard case for Gibson Explorer
+9. Gig bag for Gibson Explorer
+10. Gig bag for Gibson SG
+11. Gig bag for acoustic guitar
+12. Gig bag for bass guitar
+13. Capo acoustic guitar
+14. Capo electric guitar
+15. Guitar picks
+16. JOYO Clip-on tuner JT-01 The 8th Anniversary Tuner
+17. Line-6 POD Xt guitar effects
+18. Rocktron 50 W guitar amplifier
+19. K&M Microphone stand
+20. K&M Pop filter
+21. KRK ROKIT 5 G3 5" Near-Field Studio Monitor
+22. SONY Dynamic Stereo Headphones MDR-7506
+23. SHURE SM57 Dynamic Microphone
+24. Note stand
+25. Monitor stand
+26. Guitar strings
+27. Killnoise ear plugs
+28. Focusrite Scarlett 2i4 1st Gen audio interface
+29. Guitar cables ¼" jack
+30. You Rock Guitar 2nd Generation MIDI Guitar
 
 Exercise equipment
 
@@ -145,29 +148,23 @@ Sell/Donate
 
 1. OnePlus 2 Android smartphone
 2. SONY VAIO laptop
-3. Laptop bag (gett den till pappa?)
-4. A lot of clothes…
-5. M-AUDIO MIDI Keyboard Oxygen 49
-6. M-AUDIO Keystation Mini 32 USB Keyboard Controller
-7. Yosemite Mountain Bike
-8. KISS wall flag
-9. Metallica Death Magnetic wall flag
-10. Desktop Computer (save any parts?)
-11. 19" Computer monitor
-12. Razer Lycosa computer mouse
-13. Razer x computer keyboard
-14. Craft jacket from Winterrun (donated to Human Bridge)
-15. Pair of hantlar 2 Kg
-16. Head lamp
-17. Nordic Bluetooth Speaker (Christmas gift from tretton37)
-18. Karok (?) classical (nylon string) guitar
-19. Book - Världen - En bruksanvisning
-20. Disco light
-21. Toilet seat (souvenir from university)
-22. 2 Casall rubber bands (använd eller lämna tillbaka till butiken)
-23. Plastic helmet from STHLM Challenge
-24. Netgear router
-25. VOX amPlug Classic Rock (Headphone Amplifier)
-26. Give away my physical books as I finish reading them, strive to only have ebooks/borrow physical books from the libraries
-27. iPhone 4
-28. OtterBox for iPhone 4
+3. A lot of clothes…
+4. Yosemite Mountain Bike
+5. KISS wall flag
+6. Metallica Death Magnetic wall flag
+7. Desktop Computer (save any parts?)
+8. 19" Computer monitor
+9. Razer Lycosa computer mouse
+10. Razer x computer keyboard
+11. Pair of hantlar 2 Kg
+12. Head lamp
+13. Book - Världen - En bruksanvisning
+14. Disco light
+15. Toilet seat (souvenir from university)
+16. 2 Casall rubber bands (använd eller lämna tillbaka till butiken)
+17. Plastic helmet from STHLM Challenge
+18. Netgear router
+19. VOX amPlug Classic Rock (Headphone Amplifier)
+20. Give away my physical books as I finish reading them, strive to only have ebooks/borrow physical books from the libraries
+21. iPhone 4
+22. OtterBox for iPhone 4

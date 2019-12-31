@@ -32,6 +32,12 @@ Answering the reflection questions from Travis Robertson. [Link](http://hej.se).
 
 Oktober-oktober
 
+- Kolla dagbok
+- Tacksamhet
+- Utgifter
+- Trigger lista att ha vid varje uppföljning
+- Spotify, musik - reflektera kring sinnena (musik, smak, och så vidare)
+
 ## What did I do right (or well) this year?
 
     1. Uppdraget på Formpipe
