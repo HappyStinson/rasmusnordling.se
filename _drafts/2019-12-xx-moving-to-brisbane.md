@@ -9,8 +9,15 @@ Känns som detta kan bli en stor post så håll det 80/20.
 ## Moving to Brisbane, Australia (2019)
 
 [![Rasmus in 2019](/assets/images/rasmus-jmc-studio-2019.jpg)](/assets/images/rasmus-jmc-studio-2019.jpg)
+Selfie of Rasmus in one of the JMC production rooms
 
-Åkte bussen vid lunch till South Bank Culture Centre och letade reda på vägen till JMC. Gick sen ett varv längs Brisbane River. Tog en del foton på det jag tyckte var kul. Upptäckte Brisbane Festival som pågår hela månaden och jag satte mig och lyssnade på John Keenan. Efter spelningen gick jag fram till honom och han visade sig vara en JMC-student. Han bjöd mig på öl och vi pratade länge om musik.
+In need of an external hard drive.
+[![Rasmus in 2019](/assets/images/remind-me-tomorrow.png)](/assets/images/remind-me-tomorrow.png)
+
+
+Åkte bussen vid lunch till South Bank Culture Centre och letade reda på vägen till JMC. Gick sen ett varv längs Brisbane River. Tog en del foton på det jag tyckte var kul.
+
+Upptäckte Brisbane Festival som pågår hela månaden och jag satte mig och lyssnade på John Keenan. Efter spelningen gick jag fram till honom och han visade sig vara en JMC-student. Han bjöd mig på öl och vi pratade länge om musik.
 
 Jamie MacDowell och Tom Thum. <https://www.youtube.com/watch?v=GNZBSZD16cY> och <https://www.ted.com/talks/tom_thum_the_orchestra_in_my_mouth>
 
