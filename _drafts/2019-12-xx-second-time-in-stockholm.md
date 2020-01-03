@@ -2,65 +2,73 @@
 title: Second Time in Stockholm (2016-2019) - Decade Review part 2
 ---
 Hello from a warm Brisbane! We are about to enter another year but also a new decade. I would like to take this opportunity and review my past ten years and share some of it in this post. This decade has been very fun and varied, yet demanding at the same time.  
-In this second part I will talk about my life as after my return home, to Stockholm.<!--more-->
+In this second part I will talk about my life after my return home, to Stockholm.<!--more-->
 
-Känns som detta kan bli en stor post så håll det 80/20.
+If you don't know me that well or want to know what my latest adventure is, you can check out the page [about Dream BIG and Rasmus](/about).
+
+To read about my life between 2010-2016 which leads into this post, head on over to [My Life in Blekinge (2010-2016)]({% post_url 2019-12-31-my-life-in-blekinge %}).
 
 ## Second Time in Stockholm (2016-2019)
 
-[![Rasmus with Epiphone Thunderbird Bass in 2016](/assets/images/rasmus-bass-2016.jpg)](/assets/images/rasmus-bass-2016.jpg)
+I moved back to my parents in March 2016 after six and a half years in Blekinge.
 
-[![Rasmus in 2016](/assets/images/rasmus-tsm-2016.jpg)](/assets/images/rasmus-tsm-2016.jpg)
+I kept working as an IT consultant and spent the first six months with Academic Work Technology helping a client within FinTech (Financial Technology).
+When that assignment ended I had to do the usual job seeking process of updating my CV, writing cover letters and going to interviews. Coaches at Manpower reviewed my documents and I got a lot of valuable information on how to set Specific, Measurable, Attainable, Relevant, Timely (SMART) goals.
 
-[![Rasmus in 2016](/assets/images/rasmus-stadion-2016.jpg)](/assets/images/rasmus-stadion-2016.jpg)
+My dad saw an ad about Lexicon and their continuation course in ASP.NET MVC 5, which seemed like a good match since I was familiar with the technologies already from my time with CGI.
+During the time at Lexicon I met Per and Atanas and we spent many hours watching Scott Allen's videos on [Pluralsight](https://www.pluralsight.com/).  
+We where tasked to write a terminal dungeon crawler to learn the basics in C# and then for the final assignment we did a simple Learning Management System. Feel free to browse the [GitHub repo](https://github.com/HappyStinson/lexicon-lms).
 
-[![Rasmus in Almedalen 2017](/assets/images/rasmus-almedalen-2017.jpg)](/assets/images/rasmus-almedalen-2017.jpg)
+A teacher at Lexicon showed us an ad on [Uptrail](https://www.uptrail.com/) where [tretton37](https://tretton37.com/) were looking for their next ninja. I applied and started working for them in the easter of 2017.
 
+My time with tretton37 included five different assignments and I worked in-house, at the client's office and also from home. 
 
-[![Rasmus in 2017](/assets/images/rasmus-lidingoloppet-2017.jpg)](/assets/images/rasmus-lidingoloppet-2017.jpg)
+The first two assignments was in-house at the office on Kungsgatan. The first one was helping a retailer of appliances with a web shop in [Umbraco](https://en.wikipedia.org/wiki/Umbraco).
+I then helped out with developing a new mobile app for a gym chain. I was developing parts of the API. We had a great team distributed among the offices and Jonas L worked his magis as the Project Leader. Our Australian configuration manager Nathan (at one point looking like a pirate) became one of my better friends at the company.
 
-[![Rasmus in 2017](/assets/images/rasmus-jul-2017.jpg)](/assets/images/rasmus-jul-2017.jpg)
+For my third assignment I worked from Sturegatan on a new and exciting (may I say revolutionary?) product in the Health Tech sector. The client had a mixture of doctors, developers and AI experts working together in teams to give better healthcare to the world. I joined the back-end team to further expand the product towards using the [Starcounter database](https://starcounter.io/).
 
-[![Rasmus in 2018](/assets/images/rasmus-cyklar-2018.jpg)](/assets/images/rasmus-cyklar-2018.jpg)
+After that me and fellow ninja Magnus updated the migration tool for Platina (a document and diary system). The mapping of data between the different versions of the databases was mostly done with Views in SQL. We then had to update the tool to use functionality found in the Platina Core API.  
+At this time I was thinking about my next stage in the career and while I was ready to resign a new assignment appeared.
 
+Lastly I was back where It all started (almost), at a government agency. This is the time where I got to discover Sundbyberg for the first time, which was cool. The team was the biggest yet with many consultants and dedicated testers (yes plural)!
 
-[![Rasmus with Martin and Daniel for Santa Run in 2017](/assets/images/santa-run-2017.jpg)](/assets/images/santa-run-2017.jpg)
+It was with mixed feelings that I left this assignment because I was really getting a grip on the domain and the business logic. I really enjoyed the company of everyone in the team, not only the colleguaes working from "Sumpan". This assignment also gave me valuable experience of working in a remote team. I also think this team got the record of amounts of After Works/Beers 🍺 in relation to amount of [Clean Code](https://www.wordnik.com/words/clean%20code) written.  
+Oh and before I forget, I did say we programmed in Swedish right?
 
-[![Rasmus after Arena Run 2018](/assets/images/arena-run-2018.jpg)](/assets/images/arena-run-2018.jpg)
+I've been very fortunate to work for tretton37 and even though every new assignment was located further away from home, they also challenged me in new ways and I have really enjoyed working and socializing with everyone of you that I met along the way.
 
-[![Rasmus in Vansbro 2018](/assets/images/vansbrosimningen-2018.jpg)](/assets/images/vansbrosimningen-2018.jpg)
+Also at my time with tretton37 I went to three Knowabungas (knowledge conference) in Berlin, Riga and Prague, and their developer conference [Leetspeak](https://leetspeak.se) twice.
 
-Moved back to my parents in March 2016.
+It's a company with very passionated people and part of the reason why I decided to leave is that my passion for writing code faded with time. I just couldn't see myself standing at a similar desk staring at a monitor until my retirement.  
+For a short period of time I was considering becoming a "Digital Nomad" and combine me interest for traveling the world and working remote. I was very determined to leave Sweden and go to Australia before I turned 30. I later decided that I wanted to study [Songwriting at JMC Academy](https://www.jmcacademy.edu.au/courses/songwriting) which meant a combination of my dreams of moving to Australia and also to work in the music industry. My first contact with JMC was early in 2017 so this has been growing in my subconscious and I guess my true passion always have been music.
 
-- **Move to Stockholm:** A big change this year was the move from Karlskrona and Blekinge where I have spent the last 6 and a half years. I longed back to Stockholm and just wanted to come home. I didn't feel well with a lot of stress and traded my job and apartment for unemployment and return to living with the family. Some positives and some negatives are a part of life.
+Moving to tretton37 also meant I would transition into the world of [Apple](https://www.apple.com/) and upon leaving, I bought my work tools, the heavily stickerized MacBook Pro, and iPhone that I had fallen in love with.
 
-VISIR, Tobakspodden
+### Recreation
+
+So what did I do when I wasn't working?
+
+I did a lot of personal development in these years.
+
+It all started with Balansekonomi...
+
+Meetups...
+
+Vi Som Inte Röker (VISIR), Tobakspodden
 GTD
 Balansekonomi
 
 Investering Better Globe, LumchIn m.m.
 
-Academic Work, Emric
-- **New job:** In the beginning of the year I quit my job at CGI for an employment at Academic Work Technology working as a Software Developer helping [Emric](https://www.tieto.com/en/who-we-serve/financial-services/lending-and-finance/) (acquired by Tieto in September 2016) with their credit loan administration software. 6 months later the contract ended and I am currently studying C# and .NET while looking for practice or new employment.
+
 
 Minimalist ?
 
 Slowly
 Jelena och Sepher, kolla mitt utkast om Slowly ifall jag skrivit mer. Men räcker med någon mening. Caro att vi träffades 1? gång.
 
-Lexicon, Atanas, Yoga
 
-tretton37, alla uppdrag lite kort...
-
-Digital Nomad...
-
-Nathan
-
-TSM Running + klassikern... och typ diverse lopp...(länk till dreams Health & Fitness?)
-
-- **Became a _runner_:** I have previously been running on and off but when I joined TSM Running back in June a spark if you will got lit and I realized how much good comes from running. Since then I have raced several times and the best day was when I ran Lidingöloppet 15 km.
-- **New diet:** In December me and my sister went to a lecture with the Swedish athlete Jonas Colting. He spoke about how to be in fitness and in health. So the last few weeks I have been eating low carb and ketogenic food.
-- Really proud of myself for doing the Swedish Classic. I've experienced both physical and mental growth this year.
 
 - **Awaken the procrastinator:** A great frustration has been not getting things done and on time. By realizing this is a psychological behavior and doing some therapy exercises found in the book _Dance on deadline_, I am on my way to break this behavior and getting the right things done ahead of the deadline. **Therapy** skriv lite om det...
 - **Less fixed mindset:** Among all the lectures I attended this year some gave me insights on finances, choosing your friends, realizing your potential and be successful in general.
@@ -78,40 +86,17 @@ TSM Running + klassikern... och typ diverse lopp...(länk till dreams Health & F
 [![Me at the photoshoot first pose](/assets/images/rasmus-model-mathias-andersson-2016-1.jpg)](/assets/images/rasmus-model-mathias-andersson-2016-1.jpg)
 [![Me at the photoshoot second pose](/assets/images/rasmus-model-mathias-andersson-2016-2.jpg)](/assets/images/rasmus-model-mathias-andersson-2016-2.jpg)
 
-
-[![ASICS Premiärmilen 2017](/assets/images/rasmus-nordling-action.jpg)](/assets/images/rasmus-nordling-action.jpg)
-ASICS Premiärmilen 2017
-[![Lidingöloppet](/assets/images/lidingo-2016.jpg)](/assets/images/lidingo-2016.jpg)
-Lidingöloppet
-
-Cyklade Lidingöloppet MTB 64 km. Det var kul men jobbigt. Pratade lite med Martin Stenmark och Peter Magnusson.
-
-Cyklade Cykelvasan 90 på tiden 8:20:28. Hyrde en cykel på Skidmacken i Sälen. Det var en regnig och lång dag. Det jobbigaste jag gjort hittills.
-
-Klassiker of Hope...
-
 - **Has withdrawn from the Swedish church:** This is not a big deal since I hardly am religious. The money I will save from not paying tax can be spent in a better way. :) Angry Foreigner has a video on this topic as well.
 - **Burning Dinner:** Went to the Node in Stockholm for a Spanish tapas dinner with sangria.
-- **Giving money to those who deserve it:** I became a patron to [Angry Foreigner](https://www.patreon.com/EABT) for all his liberating videos. Other organizations that got my money and support was WWF, VISIR, A Non Smoking Generation and Skiftet (The Shift).
+- **Giving money to those who deserve it:** I became a patron to [Angry Foreigner](https://www.patreon.com/EABT) for all his liberating videos. Other organizations that got my money and support was World Wildlife Fund/World Wide Fund for Nature (WWF), VISIR, A Non Smoking Generation and Skiftet (The Shift).
 - **Tobacco Endgame:** I have been somewhat active spreading information about Tobacco Endgame and the dangers with tobacco on Facebook, through email and a letter to the editor that got published in Metro. It's a good cause and I will continue to help the organizations and the Swedish government to reach the target of a non smoking Sweden by the year 2025. I became a member of VISIR and helping them realize their goals.
 - **Keep Sweden Clean:** I have been randomly picking litter as I took my walks around Stockholm. I encourage more people to care for the environment and to support _Håll Sverige Rent_.
-- **TTIP:** Went to my first demonstration which was against TTIP and CETA.
-
-**New job:** During my unemployment period (September 2016- April 2017) I applied and got in to Lexicon’s 16-week program in .NET development to improve my skills in full-stack Web Development. I met a lot of interesting people and among them my favourites Per and Atanas. During the studies I applied for different jobs and went on interviews with Handelsbanken, Metamatrix, tretton37, Cloud Nine, HiQ, Lexicon IT, Goodminton, Sigma Young Talent, Everdea, Lots Group, Decerno, Sogeti and the list goes on. A few companies wanted me to do coding assignments and have more interviews. In the end I decided to sign a job contract with tretton37 and have been working there as a .NET Ninja since the studies finished in April.
-
-**Intermittent fasting:** For most weeks during the year, I’ve had an eating gap from Sunday dinner to Monday dinner where I only drank water or tea (sometimes with coconut oil).
-
-**New Productivity Tool:** I would say my productivity has been a roller coaster aligning with how I was feeling at different times during the year. Some low lows and high highs. Deleted my accounts at Wunderlist, Moo.do and Zenkit and migrated my to-do lists to [Todoist](https://todoist.com). I have found a much better structure now for organizing my life and late 2017 I reached [Karma](https://todoist.com/karma) level *“Todoist Master”*.
+- **TTIP:** Went to my first demonstration which was against Transatlantic Trade and Investment Partnership (TTIP) and Comprehensive Economic and Trade Agreement (CETA).
+- **New Productivity Tool:** I would say my productivity has been a roller coaster aligning with how I was feeling at different times during the year. Some low lows and high highs. Deleted my accounts at Wunderlist, Moo.do and Zenkit and migrated my to-do lists to [Todoist](https://todoist.com). I have found a much better structure now for organizing my life and late 2017 I reached [Karma](https://todoist.com/karma) level *“Todoist Master”*.
 
 **Nordic Game Jam:** Once again I travelled to Copenhagen for some weekend game hacking. The theme was *“Not there”* and it resulted in a VR game called [What's There?](https://rasmusnordling.itch.io/whats-there).
 
 The objective of the game is to figure out what that weird object is that’s been placed in the room. Use the tools and your imagination to conduct various experiments to narrow the options. Game was made by me, Jakub Švehla and Michail Nenkov.
-
-**Running:** I would be a fool not to mention all my exercise as something that went well (part from an injury). Started running with adidas Runners thanks to Per for recommending it. In December I replaced some of my running with Nordic walking (jogging with poles) to prepare for the upcoming skiing. New **Personal Best for 10K is 50:34** (MilSpåret).
-
-## What Did Not Go Well
-
-**Running injury:** During one of my hill running workouts I suddenly felt a sharp pain in my calf which turned out to be an injury that meant I had to go to rehab training and miss a few workout sessions and races. I limbed for about a week but quickly recovered so the muscle probably wasn’t completely off.
 
 **Habit Challenge:** I did several attempts to stop biting my fingernails. But it’s not been a habit that I could keep permanently. Longest streak according to my journal was 96 days from January 24 to April 30.
 
@@ -136,19 +121,81 @@ As an own side project I bought the domain *tobakspodden.se* to be used for a po
 
 **Therapy:** Since September I’ve been seeing a therapist about my procrastination and fear of burning out. I have done a mixture of Cognitive Behaviour Therapy and Mindfulness exercises. We have touched on several topics to improve my life and more of this in an upcoming post perhaps.
 
-**Knowabunga & Leetspeak with tretton37:** I visited Berlin for the first time and had curry wurst, German beer, some ninja adventure and looked at the view from the [Berlin Fernsehturm](https://tv-turm.de/en/homepage/). I’ve also been to my first developer conference, [Leetspeak](https://leetspeak.se/2017/) in Stockholm with talks about _“Build For The Globe!”_.
+### My Transformation From Couch Potato to Long-Distance Runner
+
+Arguably the biggest change is my transformation from couch potato to long-distance runner (spoiler: didn't happen over night).
+
+So what's so fun and exciting about exercising anyway?
+
+Well for me... let go, endorphines, challenge myself to grow.
+
+Team Stockholm Marathon Running (TSM) + klassikern... och typ diverse lopp...(länk till dreams Health & Fitness?)
+
+cardio...
+
+Yoga with Atanas and also TSM a couple of times.
+
+- **Became a _runner_:** I have previously been running on and off but when I joined TSM Running back in June a spark if you will got lit and I realized how much good comes from running. Since then I have raced several times and the best day was when I ran Lidingöloppet 15 km.
+- **New diet:** In December me and my sister went to a lecture with the Swedish athlete Jonas Colting. He spoke about how to be in fitness and in health. So the last few weeks I have been eating low carb and ketogenic food.
+- Really proud of myself for doing the Swedish Classic. I've experienced both physical and mental growth this year.
+- **Intermittent fasting:** For most weeks during the year, I’ve had an eating gap from Sunday dinner to Monday dinner where I only drank water or tea (sometimes with coconut oil).
+
+[![Rasmus in 2016](/assets/images/rasmus-tsm-2016.jpg)](/assets/images/rasmus-tsm-2016.jpg)
+
+[![Rasmus in 2016](/assets/images/rasmus-stadion-2016.jpg)](/assets/images/rasmus-stadion-2016.jpg)
+
+[![Rasmus in Almedalen 2017](/assets/images/rasmus-almedalen-2017.jpg)](/assets/images/rasmus-almedalen-2017.jpg)
+
+
+[![Rasmus in 2017](/assets/images/rasmus-lidingoloppet-2017.jpg)](/assets/images/rasmus-lidingoloppet-2017.jpg)
+
+[![Rasmus in 2017](/assets/images/rasmus-jul-2017.jpg)](/assets/images/rasmus-jul-2017.jpg)
+
+[![Rasmus in 2018](/assets/images/rasmus-cyklar-2018.jpg)](/assets/images/rasmus-cyklar-2018.jpg)
+
+
+[![Rasmus with Martin and Daniel for Santa Run in 2017](/assets/images/santa-run-2017.jpg)](/assets/images/santa-run-2017.jpg)
+
+[![Rasmus after Arena Run 2018](/assets/images/arena-run-2018.jpg)](/assets/images/arena-run-2018.jpg)
+
+[![Rasmus in Vansbro 2018](/assets/images/vansbrosimningen-2018.jpg)](/assets/images/vansbrosimningen-2018.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![ASICS Premiärmilen 2017](/assets/images/rasmus-nordling-action.jpg)](/assets/images/rasmus-nordling-action.jpg)
+ASICS Premiärmilen 2017
+[![Lidingöloppet](/assets/images/lidingo-2016.jpg)](/assets/images/lidingo-2016.jpg)
+Lidingöloppet 2016
+
+Cyklade Lidingöloppet MTB 64 km. Det var kul men jobbigt. Pratade lite med Martin Stenmark och Peter Magnusson.
+
+Cyklade Cykelvasan 90 på tiden 8:20:28. Hyrde en cykel på Skidmacken i Sälen. Det var en regnig och lång dag. Det jobbigaste jag gjort hittills.
+
+Klassiker of Hope...
+
+
+**Running:** I would be a fool not to mention all my exercise as something that went well (part from an injury). Started running with adidas Runners thanks to Per for recommending it. In December I replaced some of my running with Nordic walking (jogging with poles) to prepare for the upcoming skiing. New **Personal Best for 10K is 50:34** (MilSpåret).
+
+**Running injury:** During one of my hill running workouts I suddenly felt a sharp pain in my calf which turned out to be an injury that meant I had to go to rehab training and miss a few workout sessions and races. I limbed for about a week but quickly recovered so the muscle probably wasn’t completely off.
 
 ## Conclusion
 
-This is the second part of my decade review. Part 1 is called My Life in Blekinge (2010-2016) and the final part in the series are Moving to Brisbane, Australia (2019).
+This is the second part of my decade review. Part 1 is called [My Life in Blekinge (2010-2016)]({% post_url 2019-12-31-my-life-in-blekinge %}) and the final part in the series is Moving to Brisbane, Australia (2019).
 
 Hope you got something out of skimming through these posts. I sure got many chuckles traveling down memory lane.
 
-/ Rasmus
+My other posts that focuses on 2016-2019 are: [post]({% post_url post %}).
 
-*[TSM]: Team Stockholm Marathon
-*[FAWM]: February Album Writing Month
-*[TTIP]: Transatlantic Trade and Investment Partnership
-*[VISIR]: Vi Som Inte Röker
-*[WWF]: World Wildlife Fund/World Wide Fund for Nature
-*[CETA]: Comprehensive Economic and Trade Agreement
+/ Rasmus

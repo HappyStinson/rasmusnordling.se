@@ -10,12 +10,12 @@ I have decided to organize my dreams into [nine life areas](https://travisrobert
 
 ## Business/Career
 
-- Start my own company and develop indie games
-- Work and travel for a year in Australia
-- Become a Microsoft MVP
-- Participate in a programming competition and share my experience
+- ~~Start my own company and develop indie games~~ Dropping this
+- ~~Work and travel for a year in Australia~~ Decided in 2019 to move to Australia for studies instead
+- ~~Become a Microsoft MVP~~ Dropping this
+- ~~Participate in a programming competition and share my experience~~ Dropping this
 
-### Songwriting
+### Career in the Music Industry
 
 - Become a songwriter
 - At least one of my songs gets played on the radio
@@ -43,7 +43,7 @@ I have decided to organize my dreams into [nine life areas](https://travisrobert
 - Pay off all student loans by 2030
 - Start my Money Machine
 - Buy a Toyota Supra MKIV with steering wheel on right hand side
-- Buy a Ford Mustang from the 1960’s
+- Buy a Ford Mustang from the 1960s
 - Buy a Lamborghini Miura SV
 - Save and purchase a residential property
 - Become financially independent (enough passive income to cover my lifestyle expenses)
@@ -51,13 +51,13 @@ I have decided to organize my dreams into [nine life areas](https://travisrobert
 - Invest in 10 companies
 - Buy a Kawasaki KX450FE Enduro motorcycle
 - Have an apartment at a vacation resort
-- [Allotment](https://en.wikipedia.org/wiki/Allotment_(gardening))
+- Rent a part of an [allotment](https://en.wikipedia.org/wiki/Allotment_(gardening))
 - Buy a cottage by a lake
 
 ## Fun & Recreation
 
 - Test every game in the book 1001 Video Games You Must Play Before You Die
-- Do [One Game A Month](https://onegameamonth.com/) for 12 consecutive months
+- ~~Do [One Game A Month](https://onegameamonth.com/) for 12 consecutive months.~~ The #1GAM challenge ran from 2012 to 2018. I might do 12 small games in a year sometime.
 - Attend [Tamworth Country Music Festival](https://en.wikipedia.org/wiki/Tamworth_Country_Music_Festival)
 
 ### Adventure
@@ -117,7 +117,9 @@ I plan to visit at least a new country annually and to have completed my trip ar
 
 ## Health & Fitness
 
-My overall goal is to earn 100 medals from different physical challenges. I'm currently at 26%. Below is the races I've done and would like to do. I'm in no way a Superman but with enough time and determination you'll be able to achieve unimaginable things. It all starts here. Today.
+My overall goal is to earn 100 medals from different physical challenges. Below are the races I've done and would like to do. The numbers in the parenthesis is my completion time in hours:minutes:seconds.
+
+I'm in no way a Superman but with enough time and determination you'll be able to achieve unimaginable things. It all starts with a dream. Then act on it. Today.
 
 - ~~Farsta Fun Run~~ Completed on 7 May 2016
 - ~~Finansloppet~~ Completed on 31 August 2016
@@ -138,27 +140,27 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - ~~Lattelecom Riga half-marathon~~ Completed on 20 May 2018 (1:54:42)
 - ~~ASICS Stockholm Marathon~~ Completed on 2 June 2018 (5:50)
 - ~~STHLM Bike~~ Completed on 2 September 2018
-- ~~Gudö - Run of Hope~~ Completed on 8 September
-- ~~Ramboll Stockholm Halvmarathon~~ Completed on 15 September (1:48:06)
+- ~~Gudö - Run of Hope~~ Completed on 8 September 2018
+- ~~Ramboll Stockholm Halvmarathon~~ Completed on 15 September 2018 (1:48:06)
 - ~~STHLM Xploration Run~~ Completed on 20 October 2018
-- Lidingöloppet MTB 63 km Completed on May 4 2019 (04:09:45)
-- Cykelvasan 90 (MTB 94 km) Completed on August 10 2019 (8:20:28)
+- ~~[Lidingöloppet MTB 63 km](http://www.lidingoloppet.se/sv/site/mtb)~~ Completed on 4 May 2019 (4:09:45)
+- ~~Cykelvasan 90 (MTB 94 km)~~ Completed on 10 August 2019 (8:20:28)
 
 - [A Swedish Classic](https://www.ensvenskklassiker.se/en)
+  - Vasaloppet - Two failed attempts in 2018 and 2019
   - ~~Vätternrundan~~ Completed on 16 June 2018
   - ~~Vansbro Öppen Älv~~ Completed on 7 July 2018
   - ~~TCS Lidingöloppet 30~~ Completed on 23 September 2017 and 29 September 2018
-  - Vasaloppet
 - [The Swedish Half Classic](https://ensvenskklassiker.se/en/our-classics/the-half-classic/)
   - ~~Lidingöloppet 15K~~ Completed on 24 September 2016
+- Finish 35 Midnattsloppet Stockholm and get 35 year medal
+  - ~~[Midnattsloppet](https://midnattsloppet.com/en/) Stockholm 2016~~ Completed on 13 August 2016
 - Swim 7 Vansbrosim and be awarded with the medal of ”Älvarnas Blå Band” (The River’s Blue Band Medal)
 - Super Swedish Circuit, combined finish time for all four races under 18 hours
 - Get a silver medal at TCS Lidingöloppet 30 (finish in 2:15)
 - [Swedish Enduro Classics](http://en.svenskenduroklassiker.se/)
 - Win Dalarö Triathlon
 - Prove that I’m a [Tough Viking](http://toughviking.se/en/)!
-- Finish 35 Midnattsloppet Stockholm and get 35 year medal
-  - ~~Midnattsloppet Stockholm 2016~~ Completed on August x 2016
 - Run the [Great Wall Marathon](https://great-wall-marathon.com/) in Beijing
 - Ride [Siljan 100](https://www.siljan100.se/)
 - Comrades Marathon (world's biggest ultra)
@@ -175,7 +177,6 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - Finish Stockholm Marathon in 3 h
 - Finish ÖTILLÖ Swimrun World Series
 - [Pier to Peak](https://www.runsantabarbara.com/pier-to-peak/)
-
 - [Abbott World Marathon Majors](https://www.worldmarathonmajors.com/)
   - [Tokyo Marathon](https://www.marathon.tokyo/en/)
   - [Boston Marathon](https://www.baa.org/)
@@ -191,8 +192,6 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - [Reebok Ragnar Relay](https://www.runragnar.com/se/)
 - Cycle around the Swedish lakes Vänern and Mälaren
 - Bockstensturen
-- [Lidingöloppet MTB 63 km](http://www.lidingoloppet.se/sv/site/mtb/anmalan/anmalan-lidingoloppet-mtb/)
-- Cykelvasan 90 km
 - Vansbro 10K
 - Långholmen swimrun
 - [Alliansloppet 48K](http://www.alliansloppet.se/)
@@ -238,7 +237,7 @@ My overall goal is to earn 100 medals from different physical challenges. I'm cu
 - Take driving license for motorcycle
 - Learn Russian
 - Learn to dive
-- Reach Enlightened Karma status in [Todoist](https://todoist.com)
+- Reach Enlightened [Karma](https://get.todoist.help/hc/en-us/articles/206209959-Karma) status in [Todoist](https://todoist.com). I'm currently a Grand Master with a long way to go.
 
 ### Comfort Zone Challenges
 
@@ -283,9 +282,9 @@ I won't be limited by my fears.
 - No cellphone for a week
 - Attend [Burning Man](https://burningman.org/)
 - Attend [The Borderland](http://theborderland.se/)
+- Attend and volunteer at the [Woodford Folk Festival](http://woodfordfolkfestival.com.au/)
 
 ### Contribution
 
 - Influence 100 people to live a healthier life with more exercise and less bad habits
 - Be part of bringing Sweden’s tobacco consumption down to 5% by the year 2025
-- Be part of changing the political system in Sweden by decreasing the salaries for politicians and make it easier for the people to fire incompetent assholes and traitors

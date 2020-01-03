@@ -9,8 +9,15 @@ Känns som detta kan bli en stor post så håll det 80/20.
 ## Moving to Brisbane, Australia (2019)
 
 [![Rasmus in 2019](/assets/images/rasmus-jmc-studio-2019.jpg)](/assets/images/rasmus-jmc-studio-2019.jpg)
+Selfie of Rasmus in one of the JMC production rooms
 
-Åkte bussen vid lunch till South Bank Culture Centre och letade reda på vägen till JMC. Gick sen ett varv längs Brisbane River. Tog en del foton på det jag tyckte var kul. Upptäckte Brisbane Festival som pågår hela månaden och jag satte mig och lyssnade på John Keenan. Efter spelningen gick jag fram till honom och han visade sig vara en JMC-student. Han bjöd mig på öl och vi pratade länge om musik.
+In need of an external hard drive.
+[![Rasmus in 2019](/assets/images/remind-me-tomorrow.png)](/assets/images/remind-me-tomorrow.png)
+
+
+Åkte bussen vid lunch till South Bank Culture Centre och letade reda på vägen till JMC. Gick sen ett varv längs Brisbane River. Tog en del foton på det jag tyckte var kul.
+
+Upptäckte Brisbane Festival som pågår hela månaden och jag satte mig och lyssnade på John Keenan. Efter spelningen gick jag fram till honom och han visade sig vara en JMC-student. Han bjöd mig på öl och vi pratade länge om musik.
 
 Jamie MacDowell och Tom Thum. <https://www.youtube.com/watch?v=GNZBSZD16cY> och <https://www.ted.com/talks/tom_thum_the_orchestra_in_my_mouth>
 
@@ -333,8 +340,13 @@ I have been working on my debut album on and off pretty much the whole decade...
 It's been a goal (dream) for a long time to release a full lenght album with original songs. Unfortunately I seem to get sidetracked and not prioritize this enough for it to yet have become a reality.
 
 [![Rasmus Studio in 2015](/assets/images/rasmus-studio-2015.jpg)](/assets/images/rasmus-studio-2015.jpg)
+Home Studio Equipment
 
 [![Rasmus Studio in 2015](/assets/images/rasmus-studio-2-2015.jpg)](/assets/images/rasmus-studio-2-2015.jpg)
+Rasmus Home Studio in Karlskrona
+
+[![Rasmus with his Epiphone Thunderbird Bass in 2016](/assets/images/rasmus-bass-2016.jpg)](/assets/images/rasmus-bass-2016.jpg)
+Rasmus with his Epiphone Thunderbird Bass in 2016
 
 Debuten, Gabbe Uploaded an old [song](https://soundcloud.com/happystinson/debuten) on SoundCloud
 Jonelle
@@ -343,7 +355,7 @@ Meetup
 Bild på min setup
 instrument som jag köpt...
 
-**Songwriting:** During the year I was very excited for all the different songwriting community projects such as: FAWM (February Album Writing Month), 50/90 (The 50 Songs in 90 Days Challenge) and NaSoAlMo (National Solo Album Month). Despite I have been playing the guitar quite a lot and also toying with GarageBand I feel that I failed at writing any complete songs and I’m nowhere near a finished album.
+**Songwriting:** During the year I was very excited for all the different songwriting community projects such as: February Album Writing Month (FAWM), 50/90 (The 50 Songs in 90 Days Challenge) and NaSoAlMo (National Solo Album Month). Despite I have been playing the guitar quite a lot and also toying with GarageBand I feel that I failed at writing any complete songs and I’m nowhere near a finished album.
 
 Empty Apartment with Mathias Andersson
 
@@ -394,7 +406,7 @@ Thåström Sveriges Jack White. Såg ut som Cardinal Copia i den vita kavajen.
 Var på musikalen Karl-Bertil på Scalateatern med mamma och pappa.
 Livet (Mathias band) with mom and dad
 Gyllene Tider with mom
-Goodthings
+[Good Things Festival](https://www.goodthingsfestival.com.au/)
 o.s.v.
 Stone Sour
 
