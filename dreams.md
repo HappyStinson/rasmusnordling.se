@@ -45,7 +45,7 @@ I have decided to organize my dreams into [nine life areas](https://travisrobert
 - Buy a Toyota Supra MKIV with steering wheel on right hand side
 - Buy a Ford Mustang from the 1960s
 - Buy a Lamborghini Miura SV
-- Save and purchase a residential property
+- Save enough money to be able to purchase a residential property
 - Become financially independent (enough passive income to cover my lifestyle expenses)
 - Become a millionaire
 - Invest in 10 companies
@@ -87,7 +87,7 @@ I plan to visit at least a new country annually and to have completed my trip ar
 
 - The Netherlands
 - Japan
-- Australia
+- ~~Australia~~ Moved to Brisbane in September 2019
 - Norway
 - South Africa
 - Las Vegas

@@ -357,6 +357,8 @@ instrument som jag köpt...
 
 **Songwriting:** During the year I was very excited for all the different songwriting community projects such as: February Album Writing Month (FAWM), 50/90 (The 50 Songs in 90 Days Challenge) and NaSoAlMo (National Solo Album Month). Despite I have been playing the guitar quite a lot and also toying with GarageBand I feel that I failed at writing any complete songs and I’m nowhere near a finished album.
 
+Jack and LIBRE Music Production... Ardour... GarageBand...
+
 Empty Apartment with Mathias Andersson
 
 Jam med Nathan
@@ -366,10 +368,14 @@ flytt till Brissy, egen rubrik?
 
 MC-körkort...
 
-### Music & Movies
+### Pop Culture that I Consumed
+
+Music:
 
 Discovered TISM in 2011. The Last Australian Guitar Hero.
 Extended my music collection with: Sug en Snut...Massive Attack Blue Lines, Licensed To Ill, Foo Fighters
+
+TV:
 
 Re-watch of Prison Break
 Watched the IT Crowd
@@ -382,6 +388,14 @@ Captain Marvel with Atanas
 
 Kanske kolla trakt historik och se om det finns något bra att ta upp
 
+Books:
+
+_Netocracy: The New Power Elite and Life After Capitalism_ by Alexander Bard and xxx
+Getting Things Done: The art of stress free productivity by David Allen
+
+Podcasts:
+- Valvaka med Synfält Framåt! 2014
+
 
 Slash featuring Myles Kennedy and The Conspirators, Tenacious D, Halestorm m.m Bandit Rock Awards 2013 with Sofie, Vi fick se Sabaton, Nicke Borgs Homeland och lite av Halestorm
 
@@ -393,6 +407,7 @@ Metallica at STHLM Fields (2014) with Sofie, Wesku, Emil A.
 2015
 Foo Fighters, the infamous gig where Dave Grohl broke his leg...
 2016
+Dr. Bombay
 - **Red Hot Chili Peppers:** The only concert I went to this year and I went from "not liking them that much" to really appreciate their work. It was fun spending some time with my friends Wesku, Dennis, Robin and Steffen.
 2017
 - Stone Sour, The Pretty Reckless and Ghost with Wesku
@@ -427,19 +442,16 @@ Ghost - Infestissumam (2013)
 Favourite Movie
 Gone Girl (2014) https://www.imdb.com/title/tt2267998
 
-### Travel
-
-Berlin, Riga and Prague with tretton37
-Long Beach Hotel, Alanya! with Mr. Rietz
-
-### MISC
+### MISC - Do you even care? 
 
 - Bought my first smartphone (Google Nexus 5)
 - Learned how to play the Italian card game Briscola
 - Voted for direct democracy in the 2014 election...
-- Valvaka med Synfält Framåt! 2014
+
 - Roundtrip to the dentist...
 - Tried Segway
+- Withdrew from the Swedish church
+- Became a monthly donor to World Wildlife Fund/World Wide Fund for Nature (WWF)
 
 ### What did I do right (or well) this year?
 
