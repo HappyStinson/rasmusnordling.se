@@ -115,7 +115,7 @@ I plan to visit at least a new country annually and to have completed my trip ar
 - Lissie
 - Melissa Horn
 
-## Health & Fitness
+{% include linkedHeading.html heading="Health & Fitness" level=2 %}
 
 My overall goal is to earn 100 medals from different physical challenges. Below are the races I've done and would like to do. The numbers in the parenthesis is my completion time in hours:minutes:seconds.
 

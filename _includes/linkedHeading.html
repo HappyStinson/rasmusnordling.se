@@ -1,0 +1,7 @@
+<!-- Credit: Aleksandr Hovhannisyan --> 
+<!-- Website: https://aleksandrhovhannisyan.github.io/blog/dev/create-heading-links-in-jekyll-without-any-javascript-using-includes/ -->
+
+{% assign heading = include.heading %}
+<h{{ include.level }} id="{{ heading | slugify }}" class="linked-heading">
+    <a href="#{{ heading | slugify }}">#</a> {{ heading }}
+</h{{ include.level }}>
