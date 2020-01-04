@@ -21,10 +21,14 @@ We where tasked to write a terminal dungeon crawler to learn the basics in C# an
 
 A teacher at Lexicon showed us an ad on [Uptrail](https://www.uptrail.com/) where [tretton37](https://tretton37.com/) were looking for their next ninja. I applied and started working for them in the easter of 2017.
 
-My time with tretton37 included five different assignments and I worked in-house, at the client's office and also from home. 
+PICTURE HERE!!??! Nån bild?
 
-The first two assignments was in-house at the office on Kungsgatan. The first one was helping a retailer of appliances with a web shop in [Umbraco](https://en.wikipedia.org/wiki/Umbraco).
-I then helped out with developing a new mobile app for a gym chain. I was developing parts of the API. We had a great team distributed among the offices and Jonas L worked his magis as the Project Leader. Our Australian configuration manager Nathan (at one point looking like a pirate) became one of my better friends at the company.
+### My time with tretton37
+
+My time with tretton37 included five different assignments and I worked in-house, at the client's office and also from home. I was employed as a .NET Ninja, mainly focusing on back-end Web Development in .NET and C#.
+
+The first two assignments was in-house at the office on Kungsgatan. The first one was helping a retailer of appliances with a web shop in [Umbraco](https://en.wikipedia.org/wiki/Umbraco).  
+I then helped out with developing a new mobile app for a gym chain. I was developing parts of the API. We had a great team distributed among the offices and Jonas L worked his magic as the Project Leader. Our Australian configuration manager Nathan (at one point looking like a pirate) became one of my better friends at the company.
 
 For my third assignment I worked from Sturegatan on a new and exciting (may I say revolutionary?) product in the Health Tech sector. The client had a mixture of doctors, developers and AI experts working together in teams to give better healthcare to the world. I joined the back-end team to further expand the product towards using the [Starcounter database](https://starcounter.io/).
 
@@ -33,17 +37,21 @@ At this time I was thinking about my next stage in the career and while I was re
 
 Lastly I was back where It all started (almost), at a government agency. This is the time where I got to discover Sundbyberg for the first time, which was cool. The team was the biggest yet with many consultants and dedicated testers (yes plural)!
 
-It was with mixed feelings that I left this assignment because I was really getting a grip on the domain and the business logic. I really enjoyed the company of everyone in the team, not only the colleguaes working from "Sumpan". This assignment also gave me valuable experience of working in a remote team. I also think this team got the record of amounts of After Works/Beers 🍺 in relation to amount of [Clean Code](https://www.wordnik.com/words/clean%20code) written.  
+It was with mixed feelings that I left this assignment because I was really getting a grip on the domain and the business logic. I really enjoyed the company of everyone in the team, not only the colleguaes working from "Sumpan". This assignment also gave me valuable experience of working in a remote team, and the team probably holds the record of amounts of After Works/Beers 🕺🍺 in relation to amount of [Clean Code](https://www.wordnik.com/words/clean%20code) written.  
 Oh and before I forget, I did say we programmed in Swedish right?
 
 I've been very fortunate to work for tretton37 and even though every new assignment was located further away from home, they also challenged me in new ways and I have really enjoyed working and socializing with everyone of you that I met along the way.
 
 Also at my time with tretton37 I went to three Knowabungas (knowledge conference) in Berlin, Riga and Prague, and their developer conference [Leetspeak](https://leetspeak.se) twice.
 
-It's a company with very passionated people and part of the reason why I decided to leave is that my passion for writing code faded with time. I just couldn't see myself standing at a similar desk staring at a monitor until my retirement.  
-For a short period of time I was considering becoming a "Digital Nomad" and combine me interest for traveling the world and working remote. I was very determined to leave Sweden and go to Australia before I turned 30. I later decided that I wanted to study [Songwriting at JMC Academy](https://www.jmcacademy.edu.au/courses/songwriting) which meant a combination of my dreams of moving to Australia and also to work in the music industry. My first contact with JMC was early in 2017 so this has been growing in my subconscious and I guess my true passion always have been music.
+It's a company with very passionated people and part of the reason why I decided to leave is that my passion for writing code faded with time. I just couldn't see myself standing at a similar desk staring at a monitor until my retirement.
+
+For a short period of time I was considering becoming a "Digital Nomad" and combine me interest for traveling the world and working remote. I was very determined to leave Sweden and go to Australia before I turned 30. I later decided that I wanted to study [Songwriting at JMC Academy](https://www.jmcacademy.edu.au/courses/songwriting) which meant a combination of my dreams of moving to Australia and also to work in the music industry.  
+My first contact with JMC was early 2017 so the thought of pursuing my passion for music has been on my mind for some time.
 
 Moving to tretton37 also meant I would transition into the world of [Apple](https://www.apple.com/) and upon leaving, I bought my work tools, the heavily stickerized MacBook Pro, and iPhone that I had fallen in love with.
+
+PICTURES from 1337, den på mig, per och jv? typ den enda jag har? Eller den där som fotografen tog.
 
 ### Recreation
 
@@ -51,67 +59,24 @@ So what did I do when I wasn't working?
 
 I did a lot of personal development in these years.
 
-It all started with Balansekonomi...
+I've been to several open lectures since the start with Balansekonomi in 2016. Some gave me insights on financial growth, passive income, choosing your friends, realizing your potential, and success in general. One of my favourites were Jonas Colting (Swedish triathlete and my role model) talking for over 3 hours about how living healthy isn't always "fun" and "tasty".  
+Often when you go to these kind of life changing events (in my perspective) you leave with a huge boost of inspiration. After this lecture with Jonas, I changed my diet to be more Low Carb High Fat (LCHF) in combination with intermittent fasting (skipping breakfast and lunch) every Monday, pretty much until September 2019.
 
-Meetups...
+PICTURE? Typ lite mat eller något?
 
-Vi Som Inte Röker (VISIR), Tobakspodden
-GTD
-Balansekonomi
+Started the first version of this blog on WordPress and wrote my [first post]({% post_url 2016-10-27-private-eye %}). Since then I have migrated over to Jekyll and now all I do is write in markdown and push to my [GitHub repo](https://github.com/HappyStinson/rasmusnordling.se).
 
-Investering Better Globe, LumchIn m.m.
-
+My political engagement and volunteering: 
 
 
-Minimalist ?
-
-Slowly
-Jelena och Sepher, kolla mitt utkast om Slowly ifall jag skrivit mer. Men räcker med någon mening. Caro att vi träffades 1? gång.
-
-
-
-- **Awaken the procrastinator:** A great frustration has been not getting things done and on time. By realizing this is a psychological behavior and doing some therapy exercises found in the book _Dance on deadline_, I am on my way to break this behavior and getting the right things done ahead of the deadline. **Therapy** skriv lite om det...
-- **Less fixed mindset:** Among all the lectures I attended this year some gave me insights on finances, choosing your friends, realizing your potential and be successful in general.
-- **Realization:** Society is not Black nor White. By reading the book _Netocracy: The New Power Elite and Life After Capitalism_ I got more knowledge and understanding of the modern society and the politics and classes in it.
-- **New blog:** This blog is all about my goals tied to my values. In 2017 I will get the following goals done:
-  - Produce a music album with cover or original music
-  - Run ASICS Stockholm Marathon on June 3
-  - Take my drivers license for motorcycle
-
-- **Meetups and events:** I found the great site for [meetups](https://www.meetup.com/) and have among others attended meetups for GTD, Arduino development, Code Nights, Lounge Hacks, Indie Game Dungeon. Here's my [post-mortem from Nordic Game Jam](/fun-recreation/2016/04/20/nordic-game-jam-2016-post-mortem.html).
-- **Escape Room:** One of my favorite shows is Prison Break and for an hour I got to be Michael Scofield. Thanks to my boss at Emric who brought us to an escape room puzzle after work. They had several puzzles and I definitely will return in 2017 for more escaping menace.
-
-- **Photoshoot:** Spent a day with Mathias as his model for some shots. [More photos by Mathias](https://www.facebook.com/MathiasAPhotography/).
-
-[![Me at the photoshoot first pose](/assets/images/rasmus-model-mathias-andersson-2016-1.jpg)](/assets/images/rasmus-model-mathias-andersson-2016-1.jpg)
-[![Me at the photoshoot second pose](/assets/images/rasmus-model-mathias-andersson-2016-2.jpg)](/assets/images/rasmus-model-mathias-andersson-2016-2.jpg)
-
-- **Has withdrawn from the Swedish church:** This is not a big deal since I hardly am religious. The money I will save from not paying tax can be spent in a better way. :) Angry Foreigner has a video on this topic as well.
-- **Burning Dinner:** Went to the Node in Stockholm for a Spanish tapas dinner with sangria.
-- **Giving money to those who deserve it:** I became a patron to [Angry Foreigner](https://www.patreon.com/EABT) for all his liberating videos. Other organizations that got my money and support was World Wildlife Fund/World Wide Fund for Nature (WWF), VISIR, A Non Smoking Generation and Skiftet (The Shift).
-- **Tobacco Endgame:** I have been somewhat active spreading information about Tobacco Endgame and the dangers with tobacco on Facebook, through email and a letter to the editor that got published in Metro. It's a good cause and I will continue to help the organizations and the Swedish government to reach the target of a non smoking Sweden by the year 2025. I became a member of VISIR and helping them realize their goals.
+Vi Som Inte Röker (VISIR), Tobakspodden, Almedalen, Tobacco Endgame: I have been somewhat active spreading information about Tobacco Endgame and the dangers with tobacco on Facebook, through email and a letter to the editor that got published in Metro. It's a good cause and I will continue to help the organizations and the Swedish government to reach the target of a non smoking Sweden by the year 2025. I became a member of VISIR and helping them realize their goals.
 - **Keep Sweden Clean:** I have been randomly picking litter as I took my walks around Stockholm. I encourage more people to care for the environment and to support _Håll Sverige Rent_.
 - **TTIP:** Went to my first demonstration which was against Transatlantic Trade and Investment Partnership (TTIP) and Comprehensive Economic and Trade Agreement (CETA).
-- **New Productivity Tool:** I would say my productivity has been a roller coaster aligning with how I was feeling at different times during the year. Some low lows and high highs. Deleted my accounts at Wunderlist, Moo.do and Zenkit and migrated my to-do lists to [Todoist](https://todoist.com). I have found a much better structure now for organizing my life and late 2017 I reached [Karma](https://todoist.com/karma) level *“Todoist Master”*.
-
-**Nordic Game Jam:** Once again I travelled to Copenhagen for some weekend game hacking. The theme was *“Not there”* and it resulted in a VR game called [What's There?](https://rasmusnordling.itch.io/whats-there).
-
-The objective of the game is to figure out what that weird object is that’s been placed in the room. Use the tools and your imagination to conduct various experiments to narrow the options. Game was made by me, Jakub Švehla and Michail Nenkov.
-
-**Habit Challenge:** I did several attempts to stop biting my fingernails. But it’s not been a habit that I could keep permanently. Longest streak according to my journal was 96 days from January 24 to April 30.
-
+Gratislunchen, Peak Oil...
 **Volunteering:** Was board secretary for VISIR Stockholm/Uppsala between January to September.
 I didn’t really handle all the extra work very well and I put a lot of hours and energy into something I later had to drop because of a frustration that wasn’t aligning with what I wanted with my life.
 I still plan to engage in activities to reach the goal of a tobacco free society some day with year 2025 being the closest target.
 As an own side project I bought the domain *tobakspodden.se* to be used for a podcast that didn’t really take off and is still In the initial planning phase.
-
-**Meetups:** Attended several meet ups in different areas. Learned more about politics, Software Development, Songwriting and tips for starting a podcast.
-
-- Went to *Blueberry work & travel exhibition* and got more information regarding Australia and also studying at the [ICMP](https://www.icmp.ac.uk/) in London
-- *Haninge Musicians* guitar jams and co-hosting a songwriting workshop
-- *YOGATHON STHLM 2017* with the yogi Swami Jyothirmayah & Stockholm Culture Festival. Morning yoga in a rainy Kungsträdgården followed by lunch, ice cream, meditation and breathing exercise with my buddy [Atanas](https://www.linkedin.com/in/atanas-f-nikolov/)
-- Several [Foo Café's](http://www.foocafe.org/) in Hammarby sjöstad and [Code Nights](https://www.meetup.com/codenight/) in Hornstull
-
 **Political and Sustainable Development:** Spending several days in Almedalen visiting my sister and engaging in political discussions was the **highlight of 2017**. Some of the other political events I've been to include:
 
 - Tobacco Endgame/Global Development seminars that I mentioned [in this post](/2017/05/19/weekly-news/)
@@ -119,7 +84,37 @@ As an own side project I bought the domain *tobakspodden.se* to be used for a po
 - Stockholm Act, Global Bar and a concert with José Gonzalez
 - People's Climate March Stockholm – Together for a Sustainable Future!
 
-**Therapy:** Since September I’ve been seeing a therapist about my procrastination and fear of burning out. I have done a mixture of Cognitive Behaviour Therapy and Mindfulness exercises. We have touched on several topics to improve my life and more of this in an upcoming post perhaps.
+Global Goals... still where the pin on my back pack.
+
+PICTURES
+[![Rasmus in Almedalen 2017](/assets/images/rasmus-almedalen-2017.jpg)](/assets/images/rasmus-almedalen-2017.jpg)
+Rasmus with Swedish journalist Janne Josefsson in Almedalen 2017
+
+Bild med V-flaggan? och sen mer från Almedalen?
+
+Began purchasing trees via [Better Globe](https://en.betterglobe.com/) and have so far bought 155. Also opened a savings account in Avanza bank and bought my first stocks in [Jetty AB](https://jetty.se/), [Estea Sverigefastigheter 3](https://www.youtube.com/watch?v=QRTHSnWeRi0) and LunchIn&trade;.
+
+Fun with friends, co-workers, and family:
+
+I've been to several [meetups](https://www.meetup.com/) and events. Some of my favourites include [Stockholm Musicians & Music Education](https://www.meetup.com/Stockholm-Musicians-Meetup/), [Personlig produktivitet och GTD](https://www.meetup.com/gtdstockholm/), [Code Night from IDG](https://www.idg.se/2.37707/code-night), [Foo Café](https://foocafe.org/), [Coding After Work](https://www.meetup.com/CodingAfterWork/) (where I did some hacking on this project) and a couple of [networking lunches](https://lunchintra.net/).
+
+I've also done a few different Escape Rooms...
+
+Travelled once more to Copenhagen in 2016 and 2017 to do the Nordic Game Jam (NGJ). If you want to know more, then go to the [post]({% post_url 2016-04-20-nordic-game-jam-2016-post-mortem %}) from NGJ 2016 or look at [What's There?](https://rasmusnordling.itch.io/whats-there) from NGJ 2017.
+
+PICTURES
+
+Slowly
+Jelena och Sepher, kolla mitt utkast om Slowly ifall jag skrivit mer. Men räcker med någon mening. Caro att vi träffades 1? gång.
+
+
+
+I did several attempts to stop biting my fingernails. But it’s not been a habit that I could keep permanently. Longest streak according to my journal was 96 days from January 24 to April 30. Oh well, up on the horse again with a new strategy.
+
+During the years since I read Getting Things Done, I've tried several to-do list apps such as Wunderlist, Moo.do, Nirvana and Zenkit. I have both been very productive and achieving my goals and at other times procrastinating and failing to track any progress. Now, all my tasks are in [Todoist](https://todoist.com).
+
+[![Screenshot of Todoist](/assets/images/todoist-2020-01-05.png)](/assets/images/todoist-2020-01-05.png)
+Screenshot of Todoist
 
 ### My Transformation From Couch Potato to Long-Distance Runner
 
@@ -129,22 +124,26 @@ So what's so fun and exciting about exercising anyway?
 
 Well for me... let go, endorphines, challenge myself to grow.
 
-Team Stockholm Marathon Running (TSM) + klassikern... och typ diverse lopp...(länk till dreams Health & Fitness?)
+ + klassikern... och typ diverse lopp...(länk till dreams Health & Fitness?)
+
+Emric, did two races with them that I recall, Finansloppet and Bellmanstaffeten and I joined the club Team Stockholm Marathon Running (TSM) to motivate me even further.
+
+[races](/dreams)
 
 cardio...
 
 Yoga with Atanas and also TSM a couple of times.
+- *YOGATHON STHLM 2017* with the yogi Swami Jyothirmayah & Stockholm Culture Festival. Morning yoga in a rainy Kungsträdgården followed by lunch, ice cream, meditation and breathing exercise with my buddy [Atanas](https://www.linkedin.com/in/atanas-f-nikolov/)
 
 - **Became a _runner_:** I have previously been running on and off but when I joined TSM Running back in June a spark if you will got lit and I realized how much good comes from running. Since then I have raced several times and the best day was when I ran Lidingöloppet 15 km.
-- **New diet:** In December me and my sister went to a lecture with the Swedish athlete Jonas Colting. He spoke about how to be in fitness and in health. So the last few weeks I have been eating low carb and ketogenic food.
+
 - Really proud of myself for doing the Swedish Classic. I've experienced both physical and mental growth this year.
-- **Intermittent fasting:** For most weeks during the year, I’ve had an eating gap from Sunday dinner to Monday dinner where I only drank water or tea (sometimes with coconut oil).
 
 [![Rasmus in 2016](/assets/images/rasmus-tsm-2016.jpg)](/assets/images/rasmus-tsm-2016.jpg)
 
 [![Rasmus in 2016](/assets/images/rasmus-stadion-2016.jpg)](/assets/images/rasmus-stadion-2016.jpg)
 
-[![Rasmus in Almedalen 2017](/assets/images/rasmus-almedalen-2017.jpg)](/assets/images/rasmus-almedalen-2017.jpg)
+
 
 
 [![Rasmus in 2017](/assets/images/rasmus-lidingoloppet-2017.jpg)](/assets/images/rasmus-lidingoloppet-2017.jpg)
@@ -183,19 +182,25 @@ Cyklade Lidingöloppet MTB 64 km. Det var kul men jobbigt. Pratade lite med Mart
 
 Cyklade Cykelvasan 90 på tiden 8:20:28. Hyrde en cykel på Skidmacken i Sälen. Det var en regnig och lång dag. Det jobbigaste jag gjort hittills.
 
-Klassiker of Hope...
+Klassiker of Hope... 2018?
 
 
-**Running:** I would be a fool not to mention all my exercise as something that went well (part from an injury). Started running with adidas Runners thanks to Per for recommending it. In December I replaced some of my running with Nordic walking (jogging with poles) to prepare for the upcoming skiing. New **Personal Best for 10K is 50:34** (MilSpåret).
+**Running:** I would be a fool not to mention all my exercise as something that went well (part from an injury). Started running with adidas Runners thanks to Per Nordenbrink for recommending it. In December I replaced some of my running with Nordic walking (jogging with poles) to prepare for the upcoming skiing. New **Personal Best for 10K is 50:34** (MilSpåret).
 
 **Running injury:** During one of my hill running workouts I suddenly felt a sharp pain in my calf which turned out to be an injury that meant I had to go to rehab training and miss a few workout sessions and races. I limbed for about a week but quickly recovered so the muscle probably wasn’t completely off.
 
+- **Awaken the procrastinator:** A great frustration has been not getting things done and on time. By realizing this is a psychological behavior and doing some therapy exercises found in the book _Dance on deadline_, I am on my way to break this behavior and getting the right things done ahead of the deadline. **Therapy** skriv lite om det... 10 sessions, mindfulness and meditation
+
+**Therapy:** Since September I’ve been seeing a therapist about my procrastination and fear of burning out. I have done a mixture of Cognitive Behaviour Therapy and Mindfulness exercises. We have touched on several topics to improve my life and more of this in an upcoming post perhaps.
+
 ## Conclusion
+
+There you have it. Did you make it all the way down here? In that case, thank you for taking time out of your day (or sleepless night) to read what I share 🙂.
+
+This became by far my longest post yet, and it managed to escape the other friends collecting dust in the cozy drafts folder.
 
 This is the second part of my decade review. Part 1 is called [My Life in Blekinge (2010-2016)]({% post_url 2019-12-31-my-life-in-blekinge %}) and the final part in the series is Moving to Brisbane, Australia (2019).
 
 Hope you got something out of skimming through these posts. I sure got many chuckles traveling down memory lane.
-
-My other posts that focuses on 2016-2019 are: [post]({% post_url post %}).
 
 / Rasmus
