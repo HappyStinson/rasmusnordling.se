@@ -154,3 +154,13 @@ Projekt att minimera mina konton, haft en dålig rutin m.m.
 A big post to basically contain all my race reports and experiences.
 
 Kolla kvittot från Alewalds och skriv upp alla inköp i Utgifter för att ha till inlägget om Vasaloppet/klassikern
+
+## From x to Christian
+
+Kanske prata om min resa. Vad jag tror m.m. det kanske kan vara intressant att läsa om. Hur det har förändrats sen jag kom till Australien.
+
+September
+
+January
+
+February

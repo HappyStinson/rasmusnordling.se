@@ -17,7 +17,7 @@ When that assignment ended I had to do the usual job seeking process of updating
 
 My dad saw an ad about Lexicon and their continuation course in ASP.NET MVC 5, which seemed like a good match since I was familiar with the technologies already from my time with CGI.
 During the time at Lexicon I met Per and Atanas and we spent many hours watching Scott Allen's videos on [Pluralsight](https://www.pluralsight.com/).  
-We where tasked to write a terminal dungeon crawler to learn the basics in C# and then for the final assignment we did a simple Learning Management System. Feel free to browse the [GitHub repo](https://github.com/HappyStinson/lexicon-lms).
+We were tasked to write a terminal dungeon crawler to learn the basics in C# and then for the final assignment we did a simple Learning Management System. Feel free to browse the [GitHub repo](https://github.com/HappyStinson/lexicon-lms). During the breaks I squeezed in some time to play Space Invaders.
 
 A teacher at Lexicon showed us an ad on [Uptrail](https://www.uptrail.com/) where [tretton37](https://tretton37.com/) were looking for their next ninja. I applied and started working for them in the easter of 2017.
 
@@ -46,12 +46,30 @@ Also at my time with tretton37 I went to three Knowabungas (knowledge conference
 
 It's a company with very passionated people and part of the reason why I decided to leave is that my passion for writing code faded with time. I just couldn't see myself standing at a similar desk staring at a monitor until my retirement.
 
-For a short period of time I was considering becoming a "Digital Nomad" and combine me interest for traveling the world and working remote. I was very determined to leave Sweden and go to Australia before I turned 30. I later decided that I wanted to study [Songwriting at JMC Academy](https://www.jmcacademy.edu.au/courses/songwriting) which meant a combination of my dreams of moving to Australia and also to work in the music industry.  
-My first contact with JMC was early 2017 so the thought of pursuing my passion for music has been on my mind for some time.
-
 Moving to tretton37 also meant I would transition into the world of [Apple](https://www.apple.com/) and upon leaving, I bought my work tools, the heavily stickerized MacBook Pro, and iPhone that I had fallen in love with.
 
 PICTURES from 1337, den på mig, per och jv? typ den enda jag har? Eller den där som fotografen tog.
+
+### .NET Ninja -> Musician
+
+For a short period of time I was considering becoming a "Digital Nomad" and combine me interest for traveling the world and working remote. 
+
+Found the portal Nomad List... link
+
+I was very determined to leave Sweden and go to Australia before I turned 30. I later decided that I wanted to study [Songwriting at JMC Academy](https://www.jmcacademy.edu.au/courses/songwriting) which meant a combination of my dreams of moving to Australia and also to work in the music industry.  
+My first contact with JMC was early 2017 so the thought of pursuing my passion for music has been on my mind for some time.
+
+Skriva här lite kort om Nathan och Peter från Doctrin och alla andra som inspirerat mig att följa mitt hjärta och uppnå mina mål och drömmar? Ja det blir nog bättre än att ha det i nästa del.
+Sen kan jag inleda nästa del med att referera tillbaka hit.
+
+Application process...
+
+my feedback, blueberry meetup with Peter Gainey and the other Swedes.
+
+Help from Mathias
+
+PICTURE !? Vet inte om jag ska ha en bild här eller spara de till del 3.... kanske har fler länka till Vimeo, kan man baka in direkt i sidan?
+Fast det här inlägget känns jävligt långt. Bättre att skriva mer i del 3 tror jag.
 
 ### Recreation
 
@@ -85,6 +103,8 @@ As an own side project I bought the domain *tobakspodden.se* to be used for a po
 - People's Climate March Stockholm – Together for a Sustainable Future!
 
 Global Goals... still where the pin on my back pack.
+
+FN:s globala mål för en hållbar värld.
 
 PICTURES
 [![Rasmus in Almedalen 2017](/assets/images/rasmus-almedalen-2017.jpg)](/assets/images/rasmus-almedalen-2017.jpg)
@@ -122,15 +142,33 @@ Arguably the biggest change is my transformation from couch potato to long-dista
 
 So what's so fun and exciting about exercising anyway?
 
+When you exercise, your body releases endorphins – the “feel good hormone” – and these endorphins are able to provide a wide range of positive benefits as you go about your day.
+
+In addition to releasing endorphins, regular exercise is able to boost your confidence by changing your body and showing you that you can hit your goals if you set your mind to them.
+
+Of course, the physical benefits of exercise are definitely worthwhile as well.
+
+When you exercise regularly, you’ll have more energy, more strength, and better health – all things which are able to translate to more success in both your personal and professional life.
+
 Well for me... let go, endorphines, challenge myself to grow.
 
  + klassikern... och typ diverse lopp...(länk till dreams Health & Fitness?)
 
-Emric, did two races with them that I recall, Finansloppet and Bellmanstaffeten and I joined the club Team Stockholm Marathon Running (TSM) to motivate me even further.
+During my time at Emric, did two races with them that I recall, Finansloppet and Bellmanstaffeten and I joined the club Team Stockholm Marathon Running (TSM) to motivate me even further.
 
-[races](/dreams)
+Led by Anders Szalkai who [won the Stockholm Marathon in 2001](https://www.youtube.com/watch?v=sABllEIQOeM).
+
+[races](/dreams/#health-fitness)
 
 cardio...
+
+Klassikern it builds character. You want to give up so bad but you push through because you know it will be worth it. The personal victory of overcoming limitations is greater than the pain that come and goes.
+
+I did most of my races alone but would often meet Per from Lexicon or someone from Emric, TSM or SCT.
+
+Klassikern do again next time i'm in Sweden want to do it together with someone.
+
+[Lagom Kondition](https://podcasts.apple.com/se/podcast/lagom-kondition/id1283336073)
 
 Yoga with Atanas and also TSM a couple of times.
 - *YOGATHON STHLM 2017* with the yogi Swami Jyothirmayah & Stockholm Culture Festival. Morning yoga in a rainy Kungsträdgården followed by lunch, ice cream, meditation and breathing exercise with my buddy [Atanas](https://www.linkedin.com/in/atanas-f-nikolov/)
@@ -184,6 +222,14 @@ Cyklade Cykelvasan 90 på tiden 8:20:28. Hyrde en cykel på Skidmacken i Sälen.
 
 Klassiker of Hope... 2018?
 
+Other healthy habits
+
+Make this a list instead?
+
+Tried different routes to and from work and school such as running, cycling, and getting of at a different stop to get more exercise. Taking short walks during the lunch breaks. Got of the bus. Stopped taking elevators and only walk the stairs. Stop at red light and relax instead of hurrying over to the other side like everyone else does. Practiced letting go and stay more in the present moment instead of dwelling the (unchangeable) past or worrying about the (hypothetical) future.
+
+List my Garmin stats for 2016-2019... Simningen har jag loggat separat? Kanske kolla kalender eller något.
+
 
 **Running:** I would be a fool not to mention all my exercise as something that went well (part from an injury). Started running with adidas Runners thanks to Per Nordenbrink for recommending it. In December I replaced some of my running with Nordic walking (jogging with poles) to prepare for the upcoming skiing. New **Personal Best for 10K is 50:34** (MilSpåret).
 
@@ -192,6 +238,10 @@ Klassiker of Hope... 2018?
 - **Awaken the procrastinator:** A great frustration has been not getting things done and on time. By realizing this is a psychological behavior and doing some therapy exercises found in the book _Dance on deadline_, I am on my way to break this behavior and getting the right things done ahead of the deadline. **Therapy** skriv lite om det... 10 sessions, mindfulness and meditation
 
 **Therapy:** Since September I’ve been seeing a therapist about my procrastination and fear of burning out. I have done a mixture of Cognitive Behaviour Therapy and Mindfulness exercises. We have touched on several topics to improve my life and more of this in an upcoming post perhaps.
+
+Vet inte om jag kanske ska flytta upp detta... Viveka sa att första steget är att flytta hemifrån för att bli lyckligare, mer självständig och så vidare. Började kolla på lägenheter, lånelöfte men var inte redo att rota mig i stockholm så jag tar mina pengar till utbildningen istället.
+
+Werlabs blood test with Atanas, verdict was.. lack of D-vitamin, perhaps less of an issue here in the [Sunshine State](https://en.wikipedia.org/wiki/Queensland).
 
 ## Conclusion
 
