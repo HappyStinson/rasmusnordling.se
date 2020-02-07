@@ -30,9 +30,11 @@ I have decided to organize my dreams into [nine life areas](https://travisrobert
 - Train my musical hearing to be able to more easily play along with songs
 - Perform my original songs at the big stage at Gröna Lund
 - Write a timeless song. One that people still listens to and is relevant after two decades i.e. 20 years
-- Produce a music video with Jonas Åkerlund
+- I produce a music video with Jonas Åkerlund
 - Get my success story featured on the wall in JMC Academy's lounge at 69 and 75 Grey Street, Brisbane
-- Perform at the Bluebird Café in Nashville
+- I perform at the Bluebird Café in Nashville
+- I perform at the [Woodford Folk Festival](http://woodfordfolkfestival.com.au/), either solo or in a band
+- I produce an album with Rick Rubin
 
 ## Family
 
@@ -59,6 +61,7 @@ I have decided to organize my dreams into [nine life areas](https://travisrobert
 - Test every game in the book 1001 Video Games You Must Play Before You Die
 - ~~Do [One Game A Month](https://onegameamonth.com/) for 12 consecutive months.~~ The #1GAM challenge ran from 2012 to 2018. I might do 12 small games in a year sometime.
 - Attend [Tamworth Country Music Festival](https://en.wikipedia.org/wiki/Tamworth_Country_Music_Festival)
+- Attend a music concert at the [Riverstage](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/riverstage/events-at-riverstage) in Brisbane
 
 ### Adventure
 
@@ -78,6 +81,7 @@ I have decided to organize my dreams into [nine life areas](https://travisrobert
 - Drive a [Jet Ski](https://en.wikipedia.org/wiki/Jet_Ski)
 - Drive a Suzuki Escudo Pikes Peak Edition up the hill at Pikes Peak in Colorado, USA
 - Ride a bike up the Stelvio Pass
+- I [scuba dive](https://en.wikipedia.org/wiki/Scuba_diving) in the [Great Barrier Reef](https://en.wikipedia.org/wiki/Great_Barrier_Reef)
 
 ### Travel
 
@@ -158,7 +162,7 @@ I'm in no way a Superman but with enough time and determination you'll be able t
 - Swim 7 Vansbrosim and be awarded with the medal of ”Älvarnas Blå Band” (The River’s Blue Band Medal)
 - Super Swedish Circuit, combined finish time for all four races under 18 hours
 - Get a silver medal at TCS Lidingöloppet 30 (finish in 2:15)
-- [Swedish Enduro Classics](http://en.svenskenduroklassiker.se/)
+- [Swedish Enduro Classics](http://svenskenduroklassiker.se/)
 - Win Dalarö Triathlon
 - Prove that I’m a [Tough Viking](http://toughviking.se/en/)!
 - Run the [Great Wall Marathon](https://great-wall-marathon.com/) in Beijing
