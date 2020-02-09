@@ -5,6 +5,8 @@ Today I begin again. Yesterday I began again. Tomorrow I will begin again... One
 
 If you don't know me that well or want to know what my latest adventure is, you can check out the page [about Dream BIG and Rasmus](/about).
 
+*Bestäm om jag har tillräckligt mycket material från första försöket att dela upp det här inlägget i flera delar.*
+
 ## What is the Zen Habits 44 Training Program?
 
 *The 44 Training Program: Turning Uncertainty & Discomfort into Mindful Openness* is 11 short practices in mindfulness done for 44 days.
@@ -78,25 +80,123 @@ I have been using the iOS app [Oak - Meditation & Breathing](https://apps.apple.
 
 vad innebär det för mig - gå upp tidigare, utsätta mina sinnen för nya upplevelser, vara tacksam för med och motgångar, trevlig och snäll mot andra...
 
-### Days 1-4 and Breath Meditation
+### Days 1-4 and [Breath Meditation](https://zenhabits.net/44-practice-1/)
 
 Focusing on the quality of my breath as it enters and leaves through the nose. Followed it all the way down to the stomach as it passed the lungs.
 
 > If you have time to breathe you have time to meditate. You breathe when you walk. You breathe when you stand. You breathe when you lie down. — Ajahn Amaro
 
-### Days 5-8 and the Body Scan
+### Days 5-8 and the [Body Scan](https://zenhabits.net/practice-2-body-scan/)
 
 Hur kändes det här? Skrev jag något i dagboken? Gick väl relativt bra, första dagen guidad sen 3 dagar med Oak 10 minuter. Svårt att känna specifika saker. Lite ont i anklarna m.m. och fläkten som blåser på kroppen.
 
-Days 9-12 with Curiosity & Welcoming... First day too tired to sit in my regular position, so I laid in bed on my back and fell asleep? Listened to the instructions again. Same thing the second day... Not feeling anything in particular. Third day, sat in my usual spot. Focused in on a sore throat. Said Welcome. Again with guidance from the video. Last day, sat in my usual spot, focusing in on my hungry belly...
+### Days 9-12 with [Curiosity & Welcoming](https://zenhabits.net/practice-3-curiosity/)
+
+First day: Too tired to sit in my regular position, so I laid in bed on my back and fell asleep? Listened to the instructions again.
+
+Second day: Same thing the second day... Not feeling anything in particular.
+
+Third day: Sat in my usual spot. Focused in on a sore throat. Said Welcome. Again with guidance from the video.
+
+Fourth day: Sat in my usual spot, focusing in on my hungry belly.
 
 ### Days 13-16 and [Dropping from Stories to the Body](https://zenhabits.net/practice-4-dropping-stories/)
 
 The practice is to notice the stories that we’re telling ourselves, and drop into the body.
 
-First day, read the instructions and watched the video. I felt an itch on my right cheek but let it be. I focused on the quality of my breath as it went in and out through the nose. My stories today were on unfinished projects that I want to get done before trimester two at uni starts. Another story was that focusing on the breath is quite boring. I just let go of the thoughts and refocused.
-Second day was a bit busier with thoughts flying around as I tried to focus on my breath. I had the song [Lord's Prayer by Hillsong Worship](https://www.youtube.com/watch?v=nCxqjEz5hJ4) on my mind. My mind was reminding me of urgent tasks to get done this final week as I'm preparing myself for a second trimester at uni and also moving to a new place. The heavy traffic outside bothered me a bit and it was harder to concentrate (ideally you want to meditate in a quite space). My mind also had me excited over my plans for the summer in Sweden.
-On the third day I noticed a slight pain on the left side of the chest. It disappeared as I straightened and relaxed my body. I briefly felt an itch around my right eye and towards the end of the 10 minutes, which felt unusually long, I felt some strain on my neck.
+First day: Read the instructions and watched the video. I felt an itch on my right cheek but let it be. I focused on the quality of my breath as it went in and out through the nose. My stories today were on unfinished projects that I want to get done before trimester two at uni starts. Another story was that focusing on the breath is quite boring. I just let go of the thoughts and refocused.
+
+Second day: Was a bit busier with thoughts flying around as I tried to focus on my breath. I had the song [Lord's Prayer by Hillsong Worship](https://www.youtube.com/watch?v=nCxqjEz5hJ4) on my mind. My mind was reminding me of urgent tasks to get done this final week as I'm preparing myself for a second trimester at uni and also moving to a new place. The heavy traffic outside bothered me a bit and it was harder to concentrate (ideally you want to meditate in a quite space). My mind also had me excited over my plans for the summer in Sweden.
+
+Third day: I noticed a slight pain on the left side of the chest. It disappeared as I straightened and relaxed my body. I briefly felt an itch around my right eye and towards the end of the 10 minutes, which felt unusually long, I felt some strain on my neck.
+
+Fourth day: Sat on a folded towel instead of pillows. Mind wandered a bit, mostly about things to come. My way of getting back to the present is by returning to my breath. The stories tend to resolve around me and not other people. I'm afraid that you think I'm uninteresting and that you won't take time out of your day to read my posts. Heck, maybe you're not reading this? 🤔
+Another story I told myself is that I'm a creative person who starts a lot of new projects but I suck at finishing them which leads to more stress and a busy mind that reminds me to clear some of the backlog. Physical sensations I felt was water from my eyes, as I yawned a tear slowly moved it's way down my right cheek.
+
+### Days 17-20 and [Train in Uncertainty](https://zenhabits.net/practice-5-uncertainty/)
+
+According to Leo, this is one of the key practices of the training. It's about embracing uncertainty and welcoming it, instead of running away or procrastinating etc. It's a big one for me and I have a lot of uncertainty because I don't like to be or do "wrong". I often move on to easier tasks if I get stuck and don't know how to proceed. I also spend a lot of extra time and energy on "research" to calm my mind and minimize any risk of failure.
+
+First day: Uncertain about my first week in the new trimester. What will my guitar teacher say about my progress (or lack of)? Will I have enough time to rehearse and also prepare for a move to a new place? Is this post growing to long and should be split into several?
+For all these uncertainties I tried to feel any physical discomfort but I couldn't really pinpoint any.
+
+Second day:
+
+Third day:
+
+Fourth day:
+
+### Days 21-24 with [Open Awareness](https://zenhabits.net/practice-6-open/)
+
+This practice is...
+
+First day:
+
+Second day:
+
+Third day:
+
+Fourth day:
+
+### Days 25-28 with [Loving Kindness](https://zenhabits.net/practice-7-kindness/)
+
+This practice is...
+
+First day:
+
+Second day:
+
+Third day:
+
+Fourth day:
+
+### Days 29-32 and [Tonglen (sending & receiving)](https://zenhabits.net/practice-8-tonglen/)
+
+This practice is...
+
+First day:
+
+Second day:
+
+Third day:
+
+Fourth day:
+
+### Days 33-36 with a [Tender Heart](https://zenhabits.net/practice-9-tenderheart/)
+
+This practice is...
+
+First day:
+
+Second day:
+
+Third day:
+
+Fourth day:
+
+### Days 37-40 on the [Bodhisattva Path](https://zenhabits.net/practice-10-bodhisattva/)
+
+This practice is...
+
+First day:
+
+Second day:
+
+Third day:
+
+Fourth day:
+
+### Days 41-44 to [Accept Everything](https://zenhabits.net/practice-11-everything/)
+
+This practice is...
+
+First day:
+
+Second day:
+
+Third day:
+
+Fourth day:
 
 Vill jag ha med någon bild? Kanske räcker med några citat?
 
