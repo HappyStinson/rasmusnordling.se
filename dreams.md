@@ -118,6 +118,7 @@ I plan to visit at least a new country annually and to have completed my trip ar
 - Leo Babauta
 - Lissie
 - Melissa Horn
+- José González
 
 {% include linkedHeading.html heading="Health & Fitness" level=2 %}
 

@@ -155,9 +155,15 @@ A big post to basically contain all my race reports and experiences.
 
 Kolla kvittot från Alewalds och skriv upp alla inköp i Utgifter för att ha till inlägget om Vasaloppet/klassikern
 
-## From x to Christian
+## From Agnostic to Christian
 
 Kanske prata om min resa. Vad jag tror m.m. det kanske kan vara intressant att läsa om. Hur det har förändrats sen jag kom till Australien.
+
+Riktigt intressant avsnitt med [José González](https://sverigesradio.se/sida/avsnitt/765435) om tro och idé på framtida samtal kring samhället m.m.
+
+[Agnosticism](https://en.wikipedia.org/wiki/Agnosticism)
+
+[Jeanette Nordon](https://www.youtube.com/watch?v=cc0Mlw_sfhQ) som han nämner.
 
 September
 
