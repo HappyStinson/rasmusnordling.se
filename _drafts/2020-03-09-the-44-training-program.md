@@ -120,7 +120,8 @@ According to Leo, this is one of the key practices of the training. It's about e
 First day: Uncertain about my first week in the new trimester. What will my guitar teacher say about my progress (or lack of)? Will I have enough time to rehearse and also prepare for a move to a new place? Is this post growing to long and should be split into several?
 For all these uncertainties I tried to feel any physical discomfort but I couldn't really pinpoint any.
 
-Second day:
+Second day: I had uncertainties about wether I stretch enough after my running. I feel some discomfort in my knees but perhaps I shouldn't worry. Also I have been having thoughts about what swim gear to buy. Hard to decide when there are so many options. I think I'll at least buy a pair of [Neoprene Swim Shorts](https://trigearlab.com/neoprene-swim-shorts/).  
+The only real discomfort I could feel when thinking about these things was some pain in the chest.
 
 Third day:
 
