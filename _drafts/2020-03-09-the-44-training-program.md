@@ -123,15 +123,18 @@ For all these uncertainties I tried to feel any physical discomfort but I couldn
 Second day: I had uncertainties about wether I stretch enough after my running. I feel some discomfort in my knees but perhaps I shouldn't worry. Also I have been having thoughts about what swim gear to buy. Hard to decide when there are so many options. I think I'll at least buy a pair of [Neoprene Swim Shorts](https://trigearlab.com/neoprene-swim-shorts/).  
 The only real discomfort I could feel when thinking about these things was some pain in the chest.
 
-Third day:
+Third day: Tried to bring out any discomfort or fears by thinking of projects and conversations I have been procrastinating on regarding my move to a new accommodation this weekend. Couldn't really feel anything. Only some tightness in the body and right knee.
 
-Fourth day:
+Fourth day: I had a bust mind this morning with a lot of thoughts. I tried to think of something scary or uncomfortable but I'm struggling to feel any discomfort.
 
 ### Days 21-24 with [Open Awareness](https://zenhabits.net/practice-6-open/)
 
-This practice is...
+This practice is about relaxing into the present moment and accept whatever sensations you can feel. Then open up your senses and focus on the world around you.
 
-First day:
+First day: I was breathing with one nostril as I have a cold at the moment. Also felt a slight headache. In front of me I could here Leo's voice and some hissing from the video, as he guided me through this practice. I felt how my legs were touching the carpet. My gaze were resting on the red bed cover and textures in the room are rather soft.
+To the left came noises from the traffic outside and my sight picked up on the cold and hard, black guitar amp by the bedside.
+I didn't hear any specific sounds coming from the right, but it was hard to block out the traffic noise.
+Behind me was just a wall and I felt air against my lower back.
 
 Second day:
 
