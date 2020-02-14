@@ -136,7 +136,9 @@ To the left came noises from the traffic outside and my sight picked up on the c
 I didn't hear any specific sounds coming from the right, but it was hard to block out the traffic noise.
 Behind me was just a wall and I felt air against my lower back.
 
-Second day:
+Second day: Sat in an other direction and faced the window. Sounds in front of me was the traffic but also some fan noise from the laptop and what I believe is insects. I felt my ankle pressing down to the floor. I saw the hard and cold laptop and amp. To the left was the soft bed and to the right was the white sliding doors to the wardrobe/closet. Behind me was the void of the room and then the opposite wall with the door. I could feel a gentle breeze on my back and also how my lower back supported my upper body to sit straight.
+
+[![The 44 Training Program in Todoist](/assets/images/bedroom-on-fairfield-road.jpg)](/assets/images/bedroom-on-fairfield-road.jpg)
 
 Third day:
 
