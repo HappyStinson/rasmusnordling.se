@@ -140,7 +140,11 @@ Second day: Sat in an other direction and faced the window. Sounds in front of m
 
 [![The 44 Training Program in Todoist](/assets/images/bedroom-on-fairfield-road.jpg)](/assets/images/bedroom-on-fairfield-road.jpg)
 
-Third day:
+Third day: Last time in this room so I sat in a new direction again. I relaxed in to the moment and could feel how my cold had gotten better.
+In front of me was the bed with the computer and phone. I heard the cave water streaming from the Oak app and I felt how my left foot slowly slipped from it's position and was drawn towards the floor.
+To the right was the window which let some light into the room. A bird outside was communicating as traffic drove by. Behind me was the white closet/wardrobe doors and I couldn't hear anything in particular from that direction. Again I could feel a light breeze when concentrating.
+To the left was the rest of the room but I didn't really hear or feel anything special.
+I finished everything with 15 instructed breaths from the Oak app (and then my stretch).
 
 Fourth day:
 
