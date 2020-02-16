@@ -146,7 +146,8 @@ To the right was the window which let some light into the room. A bird outside w
 To the left was the rest of the room but I didn't really hear or feel anything special.
 I finished everything with 15 instructed breaths from the Oak app (and then my stretch).
 
-Fourth day:
+Fourth day: I was relaxing on the floor when the morning alarm rang and interrupted me. Started again with a [10 minute Zen Meditation Timer](https://www.youtube.com/watch?v=OHIc0DLSsoE) and relaxed into the present moment. Felt a migraine-like pain bbetween the eyes, caused by a cold. Since there's no point in resisting it I just said *welcome*. For the open awareness I scanned the room clockwise. Starting with was in front of me. I could see myself in the mirror, on a light blue door. Behind it was the white wall. To the right was the desk, bed, and a window. I heard some recurring sound that I think came from this direction. Behind me was another white wall and I could see my shadow being projected on it when looking in the mirror (cheating?). To the left was the turquoise door and my swim trunks. I heard the engaged wall-mounted fan from the common room.
+I tried to pay attention to any air touching my body but it was hard to detect any.
 
 ### Days 25-28 with [Loving Kindness](https://zenhabits.net/practice-7-kindness/)
 
