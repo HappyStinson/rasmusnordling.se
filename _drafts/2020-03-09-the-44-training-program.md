@@ -151,15 +151,27 @@ I tried to pay attention to any air touching my body but it was hard to detect a
 
 ### Days 25-28 with [Loving Kindness](https://zenhabits.net/practice-7-kindness/)
 
-This practice is...
+This practice is to send love and compassion, both to ourself and others. Repeat these whishes and genuinely try to feel something in your heart.
 
-First day:
+First say it to yourself (out loud or in your head about three times),
+then say it to someone you love. Picture that person going through a hard time.
+After that say it to someone you have neutral feelings towards (maybe a neighbour).
+After that say it to someone who you have negative feelings like resentment or hatred towards.
+After that say it to everyone in your immediate vicinity. Picture a group of people.
+Lastly send this wishes out to all living beings.
 
-Second day:
+May I be happy. May I be at peace. May I have an end to my difficulties / My I be free from stress.
+May [someone I love] be happy...
+May  be happy...
+May all beings be happy...
 
-Third day:
+First day: May I be happy. May Sofie be happy. (neutral feelings, vem?). May Kakan Hermansson be happy. May everyone in my Unit be happy. May all beings be happy.
 
-Fourth day:
+Second day: May I be happy. May my mother be at peace. May Presto have an end to her difficulties. May Vinnie be free from stress. May everyone at Raymont be happy. May all beings be at peace.
+
+Third day: Read the post on [Loving Kindness](https://zenhabits.net/44-kindness). May I be happy. May Robin be at peace. May Misty have an end to her difficulties. May Tim be free from stress. May everyone at JMC be happy. May all beings be at peace.
+
+Fourth day: 
 
 ### Days 29-32 and [Tonglen (sending & receiving)](https://zenhabits.net/practice-8-tonglen/)
 
