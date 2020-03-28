@@ -171,37 +171,39 @@ Second day: May I be happy. May my mother be at peace. May Presto have an end to
 
 Third day: Read the post on [Loving Kindness](https://zenhabits.net/44-kindness). May I be happy. May Robin be at peace. May Misty have an end to her difficulties. May Tim be free from stress. May everyone at JMC be happy. May all beings be at peace.
 
-Fourth day: 
+Fourth day: May I be happy. May Per be at peace. May Jack Hamilton have an end to his difficulties. May Georgia be free from stress. May everyone on Cadell Street be happy. May all beings be at peace.
 
 ### Days 29-32 and [Tonglen (sending & receiving)](https://zenhabits.net/practice-8-tonglen/)
 
-This practice is...
+This practice is... <https://www.lionsroar.com/how-to-practice-tonglen/> <https://zenfulspirit.com/2017/03/28/beginners-guide-tonglen-meditation/> <https://en.wikipedia.org/wiki/Tonglen>
 
-First day:
+First day: Followed along to the video. difficulty . Fear/anxiety of the upcoming sight-singing. Svårt att komma på någon som jag är sur/arg på.
 
-Second day:
+Second day: Followed along to the video difficulty . Fear/anxiety of the upcoming sight-singing. Svårt att komma på någon som jag är sur/arg på.
 
-Third day:
+Third day: Came off track for a few days. Followed along to the video difficulty . Fear/anxiety of the upcoming sight-singing. Svårt att komma på någon som jag är sur/arg på. Hard to stay focused. Mind wandered.
 
-Fourth day:
+Fourth day: Followed along to the video difficulty . Fear/anxiety/uncertainty of the upcoming performance platform at Uni. Svårt att komma på någon som jag är sur/arg på.
 
 ### Days 33-36 with a [Tender Heart](https://zenhabits.net/practice-9-tenderheart/)
 
-This practice is...
+Long break between Tonglen and Tender Heart... Start up again on Monday 23 March.
 
-First day:
+This practice is...whenever we feel some sort of discomfort that's only an exterior consequence. Try to look beyond that and find the tenderness and love. Like a tight chest with discomfort. See whats behind that tightness.
 
-Second day:
+First day: Felt a tightness in my right knee as I sat down in my position. Also a pressing feeling around the nose from a cold. Regards to the practice I couldn't really feel any discomfort or tenderness. My mind wandered a bit as I listened to Leo's instructions.
 
-Third day:
+Second day: Thought of a smoker I passed yesterday. It was an older man smoking next to a boy. I had an urge to tell him about second hand smoking but I just walked by. I could still feel a bit of pressure from my sinusitis and even a short tightness in my chest. I paid more attention to the instructions and noticed things I missed yesterday.
 
-Fourth day:
+Third day: Sat on a rolled up bed linen? More discomfort... Finished with box and awake breathing with the Oak-app.
+
+Fourth day: Sat on a rolled up bed linen? More discomfort... Finished with box and awake breathing with the Oak-app. Could here Kyle playing music.
 
 ### Days 37-40 on the [Bodhisattva Path](https://zenhabits.net/practice-10-bodhisattva/)
 
-This practice is...
+This practice is... helping others. Help all beings. First help yourself. Financially stable, easier to be generous. Bodhisattva (a being who helps all other beings). In a sense this blog post is exactly that. I'm helping myself by doing this program and sharing my experiences. 
 
-First day:
+First day: Sat on the side edge of my bed. Started listening to the instructions but the video froze. Got distracted by voices outside and I felt excluded and a bit lonely again. Got back to finish the practice.
 
 Second day:
 
