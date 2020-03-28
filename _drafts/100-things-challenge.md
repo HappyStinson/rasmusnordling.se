@@ -49,34 +49,37 @@ Instruments/music gear
 
 1. Gibson Explorer Classic White electric guitar
 2. Gibson SG Special 120th Anniversary Walnut electric guitar
-3. Greg Bennett acoustic western guitar
-4. Kapok classical (nylon string) guitar
-5. Epiphone Thunderbird PRO-IV Vintage Sunburst bass guitar
-6. M-AUDIO MIDI Keyboard Oxygen 49
-7. M-AUDIO Keystation Mini 32 USB Keyboard Controller
-8. Hard case for Gibson Explorer
-9. Gig bag for Gibson Explorer
-10. Gig bag for Gibson SG
-11. Gig bag for acoustic guitar
-12. Gig bag for bass guitar
-13. Capo acoustic guitar
-14. Capo electric guitar
-15. Guitar picks
-16. JOYO Clip-on tuner JT-01 The 8th Anniversary Tuner
-17. Line-6 POD Xt guitar effects
-18. Rocktron 50 W guitar amplifier
-19. K&M Microphone stand
-20. K&M Pop filter
-21. KRK ROKIT 5 G3 5" Near-Field Studio Monitor
-22. SONY Dynamic Stereo Headphones MDR-7506
-23. SHURE SM57 Dynamic Microphone
-24. Note stand
-25. Monitor stand
-26. Guitar strings
-27. Killnoise ear plugs
-28. Focusrite Scarlett 2i4 1st Gen audio interface
-29. Guitar cables ¼" jack
-30. You Rock Guitar 2nd Generation MIDI Guitar
+3. Hagström Fantomen electric guitar
+4. Fender CD-60SCE Dreadnought acoustic guitar
+5. Greg Bennett acoustic western guitar
+6. Kapok classical (nylon string) guitar
+7. Epiphone Thunderbird PRO-IV Vintage Sunburst bass guitar
+8. M-AUDIO MIDI Keyboard Oxygen 49
+9. M-AUDIO Keystation Mini 32 USB Keyboard Controller
+10. Hard case for Gibson Explorer
+11. Hard case for Hagström Fantomen
+12. Gig bag for Gibson Explorer
+13. Gig bag for Gibson SG
+14. Gig bag for acoustic guitar x 2
+15. Gig bag for bass guitar
+16. Capo x 2
+17. Guitar picks
+18. JOYO Clip-on tuner JT-01 The 8th Anniversary Tuner
+19. Line-6 POD Xt guitar effects
+20. Rocktron 50 W guitar amplifier
+21. K&M Microphone stand
+22. K&M Pop filter
+23. KRK ROKIT 5 G3 5" Near-Field Studio Monitor
+24. SONY Dynamic Stereo Headphones MDR-7506
+25. SHURE SM57 Dynamic Microphone
+26. RØDE NT1-A Large Diaphragm Condenser Microphone
+27. Note stand
+28. Monitor stand
+29. Guitar strings
+30. Killnoise ear plugs
+31. Focusrite Scarlett 2i4 1st Gen audio interface
+32. Guitar cables ¼" jack
+33. You Rock Guitar 2nd Generation MIDI Guitar
 
 Exercise equipment
 
