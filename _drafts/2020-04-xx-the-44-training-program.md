@@ -201,15 +201,12 @@ Fourth day: Sat on a rolled up bed linen? More discomfort... Finished with box a
 
 ### Days 37-40 on the [Bodhisattva Path](https://zenhabits.net/practice-10-bodhisattva/)
 
-This practice is... helping others. Help all beings. First help yourself. Financially stable, easier to be generous. Bodhisattva (a being who helps all other beings). In a sense this blog post is exactly that. I'm helping myself by doing this program and sharing my experiences. 
+This practice is... helping others. Help all beings. First help yourself. Financially stable, easier to be generous. Bodhisattva (a being who is trying to help all other beings). In a sense this blog post is exactly that. I'm helping myself by doing this program and sharing my experiences.
 
-First day: Sat on the side edge of my bed. Started listening to the instructions but the video froze. Got distracted by voices outside and I felt excluded and a bit lonely again. Got back to finish the practice.
-
-Second day:
-
-Third day:
-
-Fourth day:
+For this practice I changed my position to sit on the edge of the bed. This practice is a little different from the previous ones and I didn't do much except sitting straight with my eyes closed and paying attention to Leo's voice.
+I had some connection issues and got distracted by voices outside, which made me feel excluded and a bit lonely again.
+On the second day, I had some trouble staying present and my thoughts wandered in to the future. I had to bring my awareness back several times. Finally starting to feel better in my body after two weeks of being sick.
+On the third day I would just lay in my bed sleepy and then lastly I sat up again for the final day.
 
 ### Days 41-44 to [Accept Everything](https://zenhabits.net/practice-11-everything/)
 
