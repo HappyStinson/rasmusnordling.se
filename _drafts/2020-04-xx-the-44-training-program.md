@@ -210,9 +210,9 @@ On the third day I would just lay in my bed sleepy and then lastly I sat up agai
 
 ### Days 41-44 to [Accept Everything](https://zenhabits.net/practice-11-everything/)
 
-This practice is...
+This practice is... not put labels on everything saying that is good/bad or i like/don't like a certain thing. Accept that moments don't come back and see everything around you as enlightenment.
 
-First day:
+First day: I have arrived at the last practice and must admit I've been having some days where I didn't do any mindfulness at all. I'm *way over* the intended 44 days that this program "should" take. I changed up my position (again) to sit at the edge of my desk chair with eyes closed, spine straight and tongue relaxed. I sat still for roughly 10 minutes while listening to the instruction video. It was hard relaxing the shoulders and I could feel a tightness in my spine as well. My focus wandered a bit as I thought about my upcoming day and then had a déjà vu moment when Leo mentioned a concept that felt very familiar. Hunger introduced itself but I didn't let that distract me.
 
 Second day:
 
