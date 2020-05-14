@@ -214,9 +214,10 @@ This practice is... not put labels on everything saying that is good/bad or i li
 
 First day: I have arrived at the last practice and must admit I've been having some days where I didn't do any mindfulness at all. I'm *way over* the intended 44 days that this program "should" take. I changed up my position (again) to sit at the edge of my desk chair with eyes closed, spine straight and tongue relaxed. I sat still for roughly 10 minutes while listening to the instruction video. It was hard relaxing the shoulders and I could feel a tightness in my spine as well. My focus wandered a bit as I thought about my upcoming day and then had a déjà vu moment when Leo mentioned a concept that felt very familiar. Hunger introduced itself but I didn't let that distract me.
 
-Second day:
+Second day: I had another break from this meditation and came back to it on May 13. This time I sat on the edge of my desk chair, eyes closed and hands resting in my lap. I felt a stiffness in my shoulders. I was listening to Leo's voice and being interrupted by thoughts, mostly related to future events. I would rather just take a walk, listen to podcasts and eat chocolate than to exercise. I turned my attention back to Leo as he was talking about the world and all impressions during a day, in terms of enlightenment and painting of a mandala.
+After the video I set a timer for five minutes to just contemplate. My neighbor [Thomas](https://fernbrothers.com/) was drumming in the music room underneath and I had more thoughts about the future.
 
-Third day:
+Third day: I have drifted away from my morning routine and did todays meditation little after 10 in the evening. Same posture and setting as yesterday. There is still a lot of thoughts that pop up. I would imagine the whole world is pretty much thinking about the future right now. Even though its "better" to be present.
 
 Fourth day:
 
@@ -237,6 +238,15 @@ The last thing I wanna share with you is a post from the Zen Habits archive titl
 ## Conclusion
 
 Meditation and mindfulness has given me benefits. Today I begin again. Yesterday I began again. Tomorrow I will begin again.
+
+It took me longer than the initial 44 days to get through this program I ended on xx. It's almost ironic how I neglect this downtime and reflection during stressful periods when that's perhaps the most important time to reenergize.
+
+So the four contemplations are:
+
+The preciousness of life
+The briefness of life
+The inevitability of suffering
+The awesome power of our actions
 
 Namaste 🧘‍♂️
 
