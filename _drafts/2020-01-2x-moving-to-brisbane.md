@@ -180,10 +180,13 @@ _Netocracy: The New Power Elite and Life After Capitalism_ by Alexander Bard and
 Getting Things Done: The art of stress free productivity by David Allen
 
 Podcasts:
+*Lägg till länk till hemsidorna eller poddarna*
+
 - Valvaka med Synfält Framåt! 2014
-- JAMStack ?
+- JAMStack
 - Coltings nakna sanning
 - Kodsnack
+- Vasapodden
 - Kan jag se de någonstans ? Förmodligen inte?
 - och så vidare...
 - [Lagom Kondition](https://podcasts.apple.com/se/podcast/lagom-kondition/id1283336073)
