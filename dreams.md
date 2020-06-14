@@ -32,7 +32,7 @@ I have decided to organize my dreams into [nine life areas](https://travisrobert
 - Write a timeless song. One that people still listens to and is relevant after two decades i.e. 20 years
 - I produce a music video with Jonas Åkerlund
 - Get my success story featured on the wall in JMC Academy's lounge at 69 and 75 Grey Street, Brisbane
-- I perform at the Bluebird Café in Nashville
+- I perform at the [Bluebird Café](https://en.wikipedia.org/wiki/Bluebird_Caf%C3%A9) in Nashville
 - I perform at the [Woodford Folk Festival](http://woodfordfolkfestival.com.au/), either solo or in a band
 - I produce an album with Rick Rubin
 
