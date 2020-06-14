@@ -59,14 +59,12 @@ Saw and said hello to Niklas Bergh from the podcast Lagom kondition
 Shower
 FOOD
 
-Bye for now. The next race in the Swedish Classic Circuit is Lidingöloppet 30 km but before that I’m running Stockholm Half Marathon in early September. Maybe I see you there?
-
 It’s a pleasure keeping your body and mind in shape. By sharing some thoughts and experiences from my “active lifestyle” I hope to inspire more people to reflect on their own situation and in the long run improve public health.
 
 Vansbrosimningen is the shortest race in the Swedish Classic Circuit…
 Now I have tried the different challenges and would potentially be a Swedish Classic unless I failed the skiing.
 Skiing and swimming has been my weakest spots. Running and cycling seems to be no problem.
 
-I’m glad I decided to do the full races as it has been easier than I imagined. It has only teased my curiosity and I want to continue with the different dicipöones and one day do a full-length triathlon.
+I’m glad I decided to do the full races as it has been easier than I imagined. It has only teased my curiosity and I want to continue with the different disciplines and one day do a full-length triathlon.
 
 / Rasmus
