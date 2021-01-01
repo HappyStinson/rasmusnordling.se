@@ -230,8 +230,6 @@ I'm in no way a Superman, but with enough time, practice and determination you'l
 - ~~Mustaschmilen~~ Completed on 30 November 2020 (1:05:42)
 - ~~Flight Centre River Run 100 -  Sunrise Marathon~~ Completed on 11 October 2020 (6:25:56)
 
-- **The Ultra X #Holiday100 !** Completed on 31 December 2020 (x:x:x) - totalen för alla 100 km...
-
 - [A Swedish Classic](https://www.ensvenskklassiker.se/en)
   - Vasaloppet - Two failed attempts in 2018 and 2019
     - Finish within the winning time + 50 percent and get the Achievement medal
