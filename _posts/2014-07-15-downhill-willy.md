@@ -1,7 +1,10 @@
 ---
 title: Downhill Willy
 category: fun-recreation
+tag: game-development
 ---
+
+*This post was originally posted on my Swedish dev blog, happy kodar*.
 
 Hi there, it's been a while since last time!
 

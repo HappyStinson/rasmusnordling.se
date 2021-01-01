@@ -2,4 +2,4 @@
 # Deploys from this branch will take these settings
 # and override their current ones.
 [context.drafts]
-  command = "jekyll build --drafts"
+  command = "jekyll build --drafts --future"

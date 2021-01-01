@@ -7,19 +7,18 @@
       "label": "jekyll serve",
       "type": "shell",
       "command": "bundle exec jekyll serve",
-      "group": {
-        "kind": "build",
-        "isDefault": true
-      }
+      "group": "build",
+      "problemMatcher": []
     },
     {
       "label": "jekyll drafts",
       "type": "shell",
-      "command": "bundle exec jekyll serve --drafts",
+      "command": "bundle exec jekyll serve --drafts --future",
       "group": {
         "kind": "build",
         "isDefault": true
-      }
+      },
+      "problemMatcher": []
     }
   ]
 }

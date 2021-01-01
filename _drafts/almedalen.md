@@ -13,7 +13,7 @@ Behöver inte skriva om Almedalen 2017 specifikt, mer om att jag fick bemöta mi
 Almedalen
 Hello again!
 My first week of the summer vacation is soon over and I have been spending time in Visby and participating in political activities around Almedalen (the worlds largest democracy meeting ground?).
-It has been perhaps the best week of the year so far and despite being sceptical and believing Almedalen would be boring, I must admit I was totally wrong. There's so much more to see and do than just passively listen to self-righteous(?) politicians.
+It has been perhaps the best week of the year so far and despite being skeptical and believing Almedalen would be boring, I must admit I was totally wrong. There's so much more to see and do than just passively listen to self-righteous(?) politicians.
 I'm just going to briefly highlight some of the seminars that I've attended.
 
 Saturday
@@ -21,10 +21,10 @@ Party in Visby with kubb(?) and beer at the night club Gutekällaren. I reflecte
 Almedalen Week
 
 Sunday
-Initiativ Samutveckling. evolving conversation about climate, cycling and... basinkomst, 
+Initiativ Samutveckling. evolving conversation about climate, cycling and... basinkomst.
 
 Monday
-I went back to S:t Hans School för yet another conversation, this time about arguing without becoming polarised. Samtalsaktivisterna Conversation Activists wich was founded by Navid. To introduce ourselves we did an exercise called Popcorn. “If you’re hot, then pop”. Sammanfatta metoderna med in och utcheckning, ringarna, fördomar …
+I went back to S:t Hans School för yet another conversation, this time about arguing without becoming polarized. Samtalsaktivisterna Conversation Activists which was founded by Navid. To introduce ourselves we did an exercise called Popcorn. “If you’re hot, then pop”. Sammanfatta metoderna med in och utcheckning, ringarna, fördomar …
 "Men för att förändra samhället behöver vi förändra samtalet. Och det börjar inte i riksdagen. Det börja här. Med dig och mig."
 5 things to remember:
 Silence
@@ -66,10 +66,10 @@ Kanske skriva om och länka till Klimatkalkylator?
 
 --
 Hello again!
-My first week of the summer vacation is soon over and I have been spending time in Visby and participating in political activities around Almedalen (the worlds largest democracy meeting gound?).
-It has been perhaps the best week of the year so far and despite being sceptical and believeing Almedalen would be boring, I must admit I was totally wrong. There's so much more to see and do than just passively listen to self-righteous(?) politicians.
+My first week of the summer vacation is soon over and I have been spending time in Visby and participating in political activities around Almedalen (the worlds largest democracy meeting ground?).
+It has been perhaps the best week of the year so far and despite being skeptical and believing Almedalen would be boring, I must admit I was totally wrong. There's so much more to see and do than just passively listen to self-righteous(?) politicians.
 I'm just going to briefly highlight some of the seminars that I've attended.
-Saturday - party in Visby with kubb(?) and beer at the night club Gutekällaren. I reflected over how night clubs really isn't my natural habitat. Nothing wrong with the setting (lokalen), it was just too crowded, overpricy and too much alcohol and cigarette smoke. I can't tell if the problem was me being too sober and getting hung up on things or if I just would've been miserable no matter what. I'm a much more stiffer person these days...
+Saturday - party in Visby with kubb(?) and beer at the night club Gutekällaren. I reflected over how night clubs really isn't my natural habitat. Nothing wrong with the setting (lokalen), it was just too crowded, overpricey and too much alcohol and cigarette smoke. I can't tell if the problem was me being too sober and getting hung up on things or if I just would've been miserable no matter what. I'm a much more stiffer person these days...
 Almedalen Week
 Sunday
 Initiativ Samutveckling. evolving conversation about climate, cycling and... basinkomst,
