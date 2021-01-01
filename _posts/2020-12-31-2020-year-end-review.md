@@ -77,7 +77,7 @@ I've mostly struggled with Ear Training and Guitar Performance this year and und
 [![Screenshot of Musition software that has expired](/assets/images/musition-procrastination.png)](/assets/images/musition-procrastination.png)
 A reminder that I should keep on top of my music studies.
 
-<iframe src="https://open.spotify.com/embed/track/04UqowHBcNRsEB1KQVVzS2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/04UqowHBcNRsEB1KQVVzS2" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 You deserve a reading break for making it here. Allow yourself to *Drift away* to the single while browsing some of our photos. 📷  
 You can give RedStone a 👍 on [Facebook](https://www.facebook.com/RedStone-102867844858279) and [follow us on Instagram](https://www.instagram.com/redstone_music/) to stay up to date.
